@@ -1,0 +1,1545 @@
+{
+  "id": "d87e8865-615a-4b3b-8d34-179b9fb33013",
+  "global_title": {
+    "zh-CN": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册"
+  },
+  "global_description": {},
+  "global_keywords": {},
+  "global_label": {
+    "zh-CN": [
+      "zxx",
+      "英语 小学 3下（译林版）",
+      "2cbuPWM3oXGSBI80OFKOSa",
+      "x_document"
+    ]
+  },
+  "custom_properties": {
+    "preview": {
+      "Slide6": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/6.jpg",
+      "Slide5": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/5.jpg",
+      "Slide8": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/8.jpg",
+      "Slide7": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/7.jpg",
+      "Slide2": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/2.jpg",
+      "Slide1": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/1.jpg",
+      "Slide4": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/4.jpg",
+      "Slide3": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/3.jpg",
+      "Slide9": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/9.jpg",
+      "Slide17": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/17.jpg",
+      "Slide16": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/16.jpg",
+      "Slide15": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/15.jpg",
+      "Slide14": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/14.jpg",
+      "Slide13": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/13.jpg",
+      "Slide12": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/12.jpg",
+      "Slide11": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/11.jpg",
+      "Slide10": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/10.jpg",
+      "Slide19": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/19.jpg",
+      "Slide18": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/18.jpg",
+      "Slide42": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/42.jpg",
+      "Slide41": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/41.jpg",
+      "Slide40": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/40.jpg",
+      "Slide49": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/49.jpg",
+      "Slide48": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/48.jpg",
+      "Slide47": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/47.jpg",
+      "Slide46": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/46.jpg",
+      "Slide45": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/45.jpg",
+      "Slide44": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/44.jpg",
+      "Slide43": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/43.jpg",
+      "Slide31": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/31.jpg",
+      "Slide30": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/30.jpg",
+      "Slide39": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/39.jpg",
+      "Slide38": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/38.jpg",
+      "Slide37": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/37.jpg",
+      "Slide36": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/36.jpg",
+      "Slide35": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/35.jpg",
+      "Slide34": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/34.jpg",
+      "Slide33": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/33.jpg",
+      "Slide32": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/32.jpg",
+      "Slide20": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/20.jpg",
+      "Slide28": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/28.jpg",
+      "Slide27": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/27.jpg",
+      "Slide26": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/26.jpg",
+      "Slide25": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/25.jpg",
+      "Slide24": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/24.jpg",
+      "Slide23": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/23.jpg",
+      "Slide22": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/22.jpg",
+      "Slide21": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/21.jpg",
+      "Slide29": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/29.jpg"
+    },
+    "auto_fill_thumb": false,
+    "prom_resouce_type": "assets_document",
+    "ext_properties": {
+      "eb2d349f-ebea-41c4-9dd1-0076787df060": [
+        {
+          "page": 26,
+          "order": 3
+        }
+      ],
+      "f2016380-6c0d-0742-d7bb-48402443c3fb": [
+        {
+          "page": 40,
+          "order": 1
+        }
+      ],
+      "82008b69-044d-4a19-91ec-0990d86bac1b": [
+        {
+          "page": 37,
+          "order": 7
+        }
+      ],
+      "7c963430-7444-44f3-8b7c-34904337ea98": [
+        {
+          "page": 14,
+          "order": 1
+        }
+      ],
+      "771489ed-970f-4204-8053-1a960829d329": [
+        {
+          "page": 27,
+          "order": 3
+        }
+      ],
+      "4d7f8077-9911-481a-a0bd-910dd473ab76": [
+        {
+          "page": 46,
+          "order": 6
+        }
+      ],
+      "533a0814-37eb-4cf2-8a67-11af32ede966": [
+        {
+          "page": 12,
+          "order": 1
+        }
+      ],
+      "b649fcea-f288-4043-9524-4fb5c6a0cae7": [
+        {
+          "page": 21,
+          "order": 1
+        }
+      ],
+      "df9c67fb-536e-49ff-b9f6-2953734801a1": [
+        {
+          "page": 30,
+          "order": 6
+        }
+      ],
+      "155a3d7b-cdf5-438c-974f-973b80366d21": [
+        {
+          "page": 12,
+          "order": 5
+        }
+      ],
+      "e0b85dac-78ed-4815-a343-1e9cbb83671a": [
+        {
+          "page": 13,
+          "order": 7
+        }
+      ],
+      "516e60aa-0619-4a57-91a3-6419be9b38bf": [
+        {
+          "page": 29,
+          "order": 5
+        }
+      ],
+      "59de3ae4-86fb-4c34-a2f1-86d0976e7f06": [
+        {
+          "page": 19,
+          "order": 5
+        }
+      ],
+      "61f2b99e-c3bd-872c-7555-02a8f8ff420a": [
+        {
+          "page": 25,
+          "order": 4
+        }
+      ],
+      "77b9076a-a716-4f94-96c4-1874f0021ab6": [
+        {
+          "page": 38,
+          "order": 3
+        }
+      ],
+      "c3893b67-e1ae-455e-8ccd-6de7f49356aa": [
+        {
+          "page": 48,
+          "order": 6
+        }
+      ],
+      "29435326-f386-4526-ba77-c7b8e13f8b78": [
+        {
+          "page": 43,
+          "order": 5
+        }
+      ],
+      "6ab44551-35db-4e5e-af38-ca0a85ab98d7": [
+        {
+          "page": 44,
+          "order": 2
+        }
+      ],
+      "58c0b740-16d2-8456-c18b-8262e9e92920": [
+        {
+          "page": 43,
+          "order": 4
+        }
+      ],
+      "a744c7b0-714e-4cc1-a390-3e84ecaa1480": [
+        {
+          "page": 14,
+          "order": 8
+        }
+      ],
+      "37b3ce16-f81d-4118-9554-210b1b3a91a5": [
+        {
+          "page": 43,
+          "order": 1
+        }
+      ],
+      "383b820f-6c94-4555-a4ac-75f8e58d9d5c": [
+        {
+          "page": 14,
+          "order": 7
+        }
+      ],
+      "420bf63e-dbcf-4614-a875-204894a7ddce": [
+        {
+          "page": 46,
+          "order": 3
+        }
+      ],
+      "9fa812bd-544f-4211-935f-f2f89ce75649": [
+        {
+          "page": 18,
+          "order": 3
+        }
+      ],
+      "04d96138-ba7d-5605-3f2a-5b48a11ff635": [
+        {
+          "page": 45,
+          "order": 11
+        }
+      ],
+      "f56bc129-4370-4d3c-becf-18183b6200bd": [
+        {
+          "page": 29,
+          "order": 7
+        }
+      ],
+      "6d70770b-d1d2-4859-b571-7719cbf7622c": [
+        {
+          "page": 27,
+          "order": 2
+        }
+      ],
+      "5aac062a-f8af-4bd2-9719-361e0841160d": [
+        {
+          "page": 13,
+          "order": 6
+        }
+      ],
+      "810da717-6cf6-4dbb-9248-a7d290514514": [
+        {
+          "page": 12,
+          "order": 4
+        }
+      ],
+      "f37c58a2-52d0-4984-8a7c-f48c71030a13": [
+        {
+          "page": 14,
+          "order": 9
+        }
+      ],
+      "138a6ec0-cdb9-4491-89f8-2726a2180627": [
+        {
+          "page": 9,
+          "order": 1
+        }
+      ],
+      "46dd96b8-2706-4592-8618-5ce62e004616": [
+        {
+          "page": 14,
+          "order": 3
+        }
+      ],
+      "ec13194b-0893-4f2f-9e7c-afe579e0bf6f": [
+        {
+          "page": 47,
+          "order": 6
+        }
+      ],
+      "47c76f06-6f36-40be-897c-2cadbc83e3d3": [
+        {
+          "page": 19,
+          "order": 2
+        }
+      ],
+      "232aaf09-56a0-4d48-a237-0582db4ddffe": [
+        {
+          "page": 20,
+          "order": 4
+        }
+      ],
+      "258bb58f-c9b7-4aea-8678-e52b7e7ab214": [
+        {
+          "page": 38,
+          "order": 4
+        }
+      ],
+      "14df6544-343a-4d21-966a-8f0a6bdf499d": [
+        {
+          "page": 48,
+          "order": 2
+        }
+      ],
+      "46bd36b7-e96b-435c-bf83-46f1203e97dc": [
+        {
+          "page": 47,
+          "order": 3
+        }
+      ],
+      "454ecca2-fd7c-4904-bd04-fa4df2737f40": [
+        {
+          "page": 27,
+          "order": 7
+        }
+      ],
+      "bd2e7c47-be25-4cee-923d-e9b66cf36ad9": [
+        {
+          "page": 36,
+          "order": 5
+        }
+      ],
+      "80fecec3-ca3c-4659-9c04-e60d5d0b85b4": [
+        {
+          "page": 25,
+          "order": 3
+        }
+      ],
+      "ccfd8e90-87d6-4662-9dc9-2b441582181f": [
+        {
+          "page": 13,
+          "order": 1
+        }
+      ],
+      "1565a1bd-5f05-4853-8e53-e26dac3e07c3": [
+        {
+          "page": 45,
+          "order": 3
+        }
+      ],
+      "09967371-0604-464a-9e3c-33afa3cbae7a": [
+        {
+          "page": 36,
+          "order": 8
+        }
+      ],
+      "a882502c-bf7f-40f8-942a-2e75b9874177": [
+        {
+          "page": 29,
+          "order": 2
+        }
+      ],
+      "05b07238-a36d-40d0-9779-12378741e9f1": [
+        {
+          "page": 36,
+          "order": 4
+        }
+      ],
+      "c7b86f08-d8e7-4d47-bbb3-4c073bb8569e": [
+        {
+          "page": 20,
+          "order": 2
+        }
+      ],
+      "9b132503-2d59-4112-b3d6-c0f87be785b9": [
+        {
+          "page": 36,
+          "order": 2
+        }
+      ],
+      "7ccff081-6298-4a2a-a2ee-16457e0fb318": [
+        {
+          "page": 10,
+          "order": 1
+        }
+      ],
+      "b7c07586-96ad-44b1-81a1-b0778563aaeb": [
+        {
+          "page": 20,
+          "order": 1
+        }
+      ],
+      "10c55a61-2048-89f3-e775-c1d4d3c88f39": [
+        {
+          "page": 24,
+          "order": 2
+        }
+      ],
+      "d9158d21-c86b-489f-a3ff-d6a5e4a310ec": [
+        {
+          "page": 9,
+          "order": 4
+        }
+      ],
+      "9da59f49-8a5c-4c06-8d84-91b6e92861bc": [
+        {
+          "page": 35,
+          "order": 1
+        }
+      ],
+      "97057daa-17cc-495e-a83e-3ede88c1bd75": [
+        {
+          "page": 11,
+          "order": 1
+        }
+      ],
+      "fe52c8db-77e8-4d2e-bbe6-82ad5fd4dba4": [
+        {
+          "page": 12,
+          "order": 6
+        }
+      ],
+      "398f3943-0ecb-436d-90e4-15f53b7c86ac": [
+        {
+          "page": 26,
+          "order": 2
+        }
+      ],
+      "5aa4e345-ae67-4ba4-ad14-54c45e66c091": [
+        {
+          "page": 29,
+          "order": 6
+        }
+      ],
+      "82db546f-e0f6-4371-b516-b6c2e377edf1": [
+        {
+          "page": 37,
+          "order": 6
+        }
+      ],
+      "9d039706-ae85-4d43-a853-de341fcba315": [
+        {
+          "page": 9,
+          "order": 3
+        }
+      ],
+      "2d29ad8a-185d-4001-9f5b-d14d595552b6": [
+        {
+          "page": 30,
+          "order": 1
+        }
+      ],
+      "7760a714-876a-b587-1deb-f744de889756": [
+        {
+          "page": 32,
+          "order": 2
+        }
+      ],
+      "66f09f5f-0ec3-4319-8e48-6af823a56954": [
+        {
+          "page": 27,
+          "order": 9
+        }
+      ],
+      "7b823df9-b60f-4fb9-875e-15c19b6e9f6e": [
+        {
+          "page": 44,
+          "order": 3
+        }
+      ],
+      "e66359d0-10e1-4a65-aa27-83c063c33753": [
+        {
+          "page": 47,
+          "order": 7
+        }
+      ],
+      "d66e52fd-8b18-406b-9249-f621912b64a2": [
+        {
+          "page": 43,
+          "order": 2
+        }
+      ],
+      "3ac23337-9b50-49c8-80d6-cfe279476a00": [
+        {
+          "page": 14,
+          "order": 4
+        }
+      ],
+      "5f7238f8-2026-4ca1-b0a8-2ea92febb481": [
+        {
+          "page": 11,
+          "order": 5
+        }
+      ],
+      "8e33a12a-8157-45ca-b95d-3c1f50aa054f": [
+        {
+          "page": 12,
+          "order": 7
+        }
+      ],
+      "3a42551f-1d86-4eb0-affe-e1404a7af408": [
+        {
+          "page": 38,
+          "order": 1
+        }
+      ],
+      "dd3709dc-42fa-469d-a2b3-aa9cf4dcc5fd": [
+        {
+          "page": 19,
+          "order": 10
+        }
+      ],
+      "9ee79a03-97f1-4f37-bb74-f88e33e14d06": [
+        {
+          "page": 43,
+          "order": 3
+        }
+      ],
+      "4bfd7f2f-8161-46e3-afb2-9f8b6419fd9d": [
+        {
+          "page": 30,
+          "order": 8
+        }
+      ],
+      "d8b1d64d-e2ae-497e-8ad1-5032729eed04": [
+        {
+          "page": 36,
+          "order": 3
+        }
+      ],
+      "758bbb96-e0f0-4ebd-8d9d-5720f0bcb451": [
+        {
+          "page": 45,
+          "order": 4
+        }
+      ],
+      "f9f65627-8b5b-4368-9608-3172e666e5ba": [
+        {
+          "page": 27,
+          "order": 4
+        }
+      ],
+      "bbff4437-196f-4f89-bfb4-ac99e59d8b75": [
+        {
+          "page": 35,
+          "order": 6
+        }
+      ],
+      "f23ae773-af17-49a0-b74d-3c5b9c20702d": [
+        {
+          "page": 9,
+          "order": 2
+        }
+      ],
+      "143dc369-a495-4393-abc6-f0d45d76767d": [
+        {
+          "page": 18,
+          "order": 1
+        }
+      ],
+      "29f866ee-a0d5-44ff-8595-70f46b47e82d": [
+        {
+          "page": 27,
+          "order": 1
+        }
+      ],
+      "c2cc35aa-811c-452d-82b9-5c8b2ac18eed": [
+        {
+          "page": 19,
+          "order": 9
+        }
+      ],
+      "7ff55094-8f37-4402-aea9-293fce3396b6": [
+        {
+          "page": 37,
+          "order": 9
+        }
+      ],
+      "17c48d59-5c6d-4af0-8829-78d5826cbdf7": [
+        {
+          "page": 46,
+          "order": 8
+        }
+      ],
+      "b003e7f3-338d-4ecd-9a89-2106fef50aa6": [
+        {
+          "page": 19,
+          "order": 3
+        }
+      ],
+      "d34fd833-554b-4f0e-81c2-3aebb2bb3b4e": [
+        {
+          "page": 48,
+          "order": 5
+        }
+      ],
+      "64321a02-2b34-4689-808a-e53494662d03": [
+        {
+          "page": 37,
+          "order": 2
+        }
+      ],
+      "b0153236-cf30-4385-a779-724e32e4609a": [
+        {
+          "page": 22,
+          "order": 1
+        }
+      ],
+      "80a3e5e1-c995-4204-9874-78e35474a783": [
+        {
+          "page": 14,
+          "order": 2
+        }
+      ],
+      "07a112b4-0c47-4831-d1ed-30021aa50cad": [
+        {
+          "page": 21,
+          "order": 2
+        }
+      ],
+      "69aa584b-c836-4229-9455-7c81f202764f": [
+        {
+          "page": 19,
+          "order": 6
+        }
+      ],
+      "3b7bfd48-ff9e-4b72-800f-0ec1ef8f2c20": [
+        {
+          "page": 36,
+          "order": 6
+        }
+      ],
+      "f3b14d7b-0105-4fd3-8705-d9a5535d1653": [
+        {
+          "page": 36,
+          "order": 7
+        }
+      ],
+      "62da4177-03eb-402b-8b1d-47fc97c78466": [
+        {
+          "page": 40,
+          "order": 2
+        }
+      ],
+      "961ff7ef-e06c-45b1-a3af-d698faa240e8": [
+        {
+          "page": 30,
+          "order": 4
+        }
+      ],
+      "f1a79e79-58f9-4fb9-810e-7095fd5bb7f1": [
+        {
+          "page": 17,
+          "order": 3
+        }
+      ],
+      "dd681a46-f457-437e-a88b-ebc95cffa3cd": [
+        {
+          "page": 13,
+          "order": 4
+        }
+      ],
+      "16888815-db60-909d-9c63-0396944d9dac": [
+        {
+          "page": 47,
+          "order": 9
+        }
+      ],
+      "5cf9eb74-11f0-4c41-a781-1c8bface0395": [
+        {
+          "page": 20,
+          "order": 3
+        }
+      ],
+      "c08d6bcd-a4eb-4ee1-aa39-07fe8c785f6e": [
+        {
+          "page": 35,
+          "order": 7
+        }
+      ],
+      "218d08a6-99d5-4bab-bb7b-c7b694ddc308": [
+        {
+          "page": 18,
+          "order": 2
+        }
+      ],
+      "cf17f98e-13a6-4fa5-a1f5-2a58ed35fa60": [
+        {
+          "page": 45,
+          "order": 8
+        }
+      ],
+      "6c752003-1932-4326-ba76-7970405230b9": [
+        {
+          "page": 19,
+          "order": 8
+        }
+      ],
+      "1461ba99-805d-4b74-b286-4921f22e0fd0": [
+        {
+          "page": 17,
+          "order": 4
+        }
+      ],
+      "d62a9b42-3d7e-4175-9f4f-3e72da46f475": [
+        {
+          "page": 37,
+          "order": 4
+        }
+      ],
+      "1a059053-65fd-4e59-960a-0daaed379f65": [
+        {
+          "page": 27,
+          "order": 6
+        }
+      ],
+      "90591325-ee1a-4776-95ed-fca1988c5c46": [
+        {
+          "page": 30,
+          "order": 7
+        }
+      ],
+      "564cf788-8cb1-4213-bbc2-8eaf79effaa5": [
+        {
+          "page": 29,
+          "order": 8
+        }
+      ],
+      "7448bd6d-49b0-4e3b-ab1f-b6806619298c": [
+        {
+          "page": 38,
+          "order": 2
+        }
+      ],
+      "09466b9b-f1fe-429e-bac7-3a9aa3e6e6a8": [
+        {
+          "page": 29,
+          "order": 3
+        }
+      ],
+      "a914a72d-0f9f-47ac-b76f-79ccac33d379": [
+        {
+          "page": 33,
+          "order": 2
+        }
+      ],
+      "16ec2e57-05d7-4b3e-a2d4-94117715c1af": [
+        {
+          "page": 13,
+          "order": 5
+        }
+      ],
+      "8ace1060-2620-4ab9-a568-99c585681ad7": [
+        {
+          "page": 13,
+          "order": 3
+        }
+      ],
+      "8dfd93cd-d23a-45fd-850b-97f5920bd029": [
+        {
+          "page": 26,
+          "order": 1
+        }
+      ],
+      "9663f448-f847-4db5-8f81-d6836323c824": [
+        {
+          "page": 37,
+          "order": 3
+        }
+      ],
+      "69487313-d5e5-4bd9-86dd-b3d157ac40e4": [
+        {
+          "page": 27,
+          "order": 5
+        }
+      ],
+      "e3ead949-74a6-899d-2ec3-48e18ed698c2": [
+        {
+          "page": 36,
+          "order": 1
+        }
+      ],
+      "62ae95d7-5ba8-2f93-d285-7dd7f653518e": [
+        {
+          "page": 33,
+          "order": 1
+        }
+      ],
+      "d63aeea3-ffbc-9628-47e2-45f5347957df": [
+        {
+          "page": 37,
+          "order": 1
+        }
+      ],
+      "34f885bb-643c-4677-ac8d-8a093f6bd366": [
+        {
+          "page": 9,
+          "order": 5
+        }
+      ],
+      "00fa84fd-3940-4591-a164-f043c3004871": [
+        {
+          "page": 37,
+          "order": 5
+        }
+      ],
+      "92139b59-a7ca-48ff-a82e-3e596ab2dc79": [
+        {
+          "page": 33,
+          "order": 3
+        }
+      ],
+      "a20ebc09-273c-4f60-b47a-65476caa5fe7": [
+        {
+          "page": 45,
+          "order": 7
+        }
+      ],
+      "4b8b6f2e-8277-47d4-883e-0484ad2d94d1": [
+        {
+          "page": 47,
+          "order": 4
+        }
+      ],
+      "1e0bba25-e526-4d7f-b96a-e4fa53aa0349": [
+        {
+          "page": 25,
+          "order": 1
+        }
+      ],
+      "3f568804-a93a-440f-98d7-3cfc5b60d606": [
+        {
+          "page": 10,
+          "order": 2
+        }
+      ],
+      "32c77158-c7e0-41a4-8ad7-e1b64b80613d": [
+        {
+          "page": 11,
+          "order": 7
+        }
+      ],
+      "7ccdd716-037c-4313-aa5b-ebe34abb57cc": [
+        {
+          "page": 35,
+          "order": 8
+        }
+      ],
+      "ceb26288-dc2e-471d-8c53-859d52d2083f": [
+        {
+          "page": 19,
+          "order": 4
+        }
+      ],
+      "55a72586-5e9e-4716-8c89-cca0678d6aca": [
+        {
+          "page": 46,
+          "order": 4
+        }
+      ],
+      "5c9d7eea-e77d-4c2a-941c-6bb3b2138635": [
+        {
+          "page": 33,
+          "order": 5
+        }
+      ],
+      "b614d06b-3838-c63e-6781-bc5b9649e148": [
+        {
+          "page": 17,
+          "order": 6
+        }
+      ],
+      "d3302d0b-8040-46b7-b0c6-ee0ac3ddb484": [
+        {
+          "page": 17,
+          "order": 2
+        }
+      ],
+      "abbc5381-3e32-4395-80a2-c9cbd78299bd": [
+        {
+          "page": 48,
+          "order": 4
+        }
+      ],
+      "127f73b8-4af4-27ba-c056-50a28d120d93": [
+        {
+          "page": 9,
+          "order": 7
+        }
+      ],
+      "69611383-aecd-4fd9-bdb6-e2e66770deb2": [
+        {
+          "page": 46,
+          "order": 2
+        }
+      ],
+      "e1bb94c0-6f85-56d3-a917-fb13d178ca10": [
+        {
+          "page": 28,
+          "order": 1
+        }
+      ],
+      "84323ce4-b000-593e-fd16-15a7b61703d8": [
+        {
+          "page": 29,
+          "order": 9
+        }
+      ],
+      "2f84f6b9-051f-4988-910e-097cf89b0525": [
+        {
+          "page": 35,
+          "order": 2
+        }
+      ],
+      "fcef20ab-b962-444f-ae92-ed8dc973c122": [
+        {
+          "page": 29,
+          "order": 4
+        }
+      ],
+      "59f63a23-5f65-450b-8e7f-7f57207aaa15": [
+        {
+          "page": 45,
+          "order": 1
+        }
+      ],
+      "fb006415-8979-4b2e-9594-0e8b537d0643": [
+        {
+          "page": 50,
+          "order": 2
+        }
+      ],
+      "29e68924-7646-4bc4-9458-9ba9e836f210": [
+        {
+          "page": 14,
+          "order": 5
+        }
+      ],
+      "11ec0309-9583-468b-a11b-75e114dc0fc2": [
+        {
+          "page": 30,
+          "order": 3
+        }
+      ],
+      "4fa8322c-b6d0-41de-940e-0c3eb3e3ac25": [
+        {
+          "page": 37,
+          "order": 8
+        }
+      ],
+      "f97d9a7d-5ddd-4050-ab57-7bedd234953c": [
+        {
+          "page": 12,
+          "order": 3
+        }
+      ],
+      "38383dfd-6868-483d-9041-778f0a6c7c84": [
+        {
+          "page": 20,
+          "order": 5
+        }
+      ],
+      "9f1c81b7-5129-4cfe-b9d1-d6de4d611f0d": [
+        {
+          "page": 35,
+          "order": 5
+        }
+      ],
+      "c1466040-354d-44ba-9d7d-659cb5bdb51a": [
+        {
+          "page": 45,
+          "order": 10
+        }
+      ],
+      "716328dc-b00a-4d4e-8ac1-71be08ba87a8": [
+        {
+          "page": 47,
+          "order": 1
+        }
+      ],
+      "1357e984-c4dc-49cf-9ea6-8b0994310397": [
+        {
+          "page": 46,
+          "order": 5
+        }
+      ],
+      "c791b5b7-c8ee-d3c7-c488-a80abf0d7f08": [
+        {
+          "page": 19,
+          "order": 1
+        }
+      ],
+      "48596be4-31f7-4f7b-9cab-2ba9526c8f95": [
+        {
+          "page": 29,
+          "order": 1
+        }
+      ],
+      "631e71a8-538f-40d1-9c71-29877a2f8c47": [
+        {
+          "page": 11,
+          "order": 6
+        }
+      ],
+      "e703cd10-a7c9-4d9c-ba41-2fba67a68e25": [
+        {
+          "page": 17,
+          "order": 5
+        }
+      ],
+      "04ac0668-ff90-a87e-8180-f5165e17de57": [
+        {
+          "page": 20,
+          "order": 7
+        }
+      ],
+      "aae106df-9875-4f82-977d-5040c95ffac6": [
+        {
+          "page": 20,
+          "order": 6
+        }
+      ],
+      "f959439b-132c-c8c0-10e3-754da1767c87": [
+        {
+          "page": 13,
+          "order": 8
+        }
+      ],
+      "62598ec9-54d7-492e-8889-98f0d94dd25f": [
+        {
+          "page": 14,
+          "order": 10
+        }
+      ],
+      "a903c651-4aa3-44f5-8f73-701cebe1ef13": [
+        {
+          "page": 11,
+          "order": 3
+        }
+      ],
+      "469af374-695f-4bd9-a5c3-41a62fb6db31": [
+        {
+          "page": 44,
+          "order": 1
+        }
+      ],
+      "a664e46e-ea49-4f96-b6ac-d283ab745342": [
+        {
+          "page": 17,
+          "order": 1
+        }
+      ],
+      "b0404384-bbf9-4b83-8d45-bd514bd29671": [
+        {
+          "page": 45,
+          "order": 9
+        }
+      ],
+      "d3e3289c-a9bc-f7bf-022c-f2ea7cb7e3d5": [
+        {
+          "page": 27,
+          "order": 10
+        }
+      ],
+      "a5d16556-71be-49b0-8e9b-77ef29623a30": [
+        {
+          "page": 48,
+          "order": 7
+        }
+      ],
+      "a54492ff-21c4-4c3f-a8bb-7846ce493eb8": [
+        {
+          "page": 45,
+          "order": 5
+        }
+      ],
+      "f8507731-4e1c-4e3e-bac7-fd7354ba7784": [
+        {
+          "page": 47,
+          "order": 5
+        }
+      ],
+      "af4f448a-6ba6-4753-ab1e-8119b650b5d5": [
+        {
+          "page": 19,
+          "order": 7
+        }
+      ],
+      "c2f477c6-65d4-4a2f-83cc-e5cac9af5bf5": [
+        {
+          "page": 14,
+          "order": 6
+        }
+      ],
+      "ae1bba57-bdc1-4886-b540-6843f082cdd9": [
+        {
+          "page": 45,
+          "order": 2
+        }
+      ],
+      "c668cbc3-5663-4bdd-a2b4-da9ac79b9951": [
+        {
+          "page": 11,
+          "order": 2
+        }
+      ],
+      "1bbf5c6d-c04c-47f7-bd2b-5a61d65867ae": [
+        {
+          "page": 35,
+          "order": 3
+        }
+      ],
+      "b7454df3-140b-47c9-9a41-8f6b2308159c": [
+        {
+          "page": 24,
+          "order": 1
+        }
+      ],
+      "5065f799-ccf9-41c0-be2e-0e203c9a23a1": [
+        {
+          "page": 13,
+          "order": 2
+        }
+      ],
+      "a7d8c914-d893-4950-8792-ab4e8acb7ca3": [
+        {
+          "page": 33,
+          "order": 6
+        }
+      ],
+      "93d88ae2-9ca1-4aeb-9841-96c1c3e6444f": [
+        {
+          "page": 12,
+          "order": 2
+        }
+      ],
+      "8a598adb-6896-d803-a688-69305f24a277": [
+        {
+          "page": 46,
+          "order": 1
+        }
+      ],
+      "7a9cf89c-de31-44c8-9532-403371c46821": [
+        {
+          "page": 32,
+          "order": 1
+        }
+      ],
+      "d701e5f8-a8b8-4772-8d8a-742ceb47ec14": [
+        {
+          "page": 33,
+          "order": 4
+        }
+      ],
+      "4360380d-8ba6-4de0-a539-182c428ec891": [
+        {
+          "page": 30,
+          "order": 2
+        }
+      ],
+      "f69ad3d1-d19b-49ee-816f-0b9d6bba5158": [
+        {
+          "page": 45,
+          "order": 6
+        }
+      ],
+      "94cf29f7-45f2-41fe-b092-d3fd2729f2c8": [
+        {
+          "page": 27,
+          "order": 8
+        }
+      ],
+      "e5ab7eb4-a248-42d4-aead-add66d4adcaf": [
+        {
+          "page": 48,
+          "order": 1
+        }
+      ],
+      "fcce2dcf-673d-4f2b-92da-f05bc284ffc7": [
+        {
+          "page": 11,
+          "order": 4
+        }
+      ],
+      "3300d0fa-3204-44ad-8ecb-fcc3e6052bd5": [
+        {
+          "page": 47,
+          "order": 2
+        }
+      ],
+      "d34ef5af-3bf3-40ee-a5da-9a0a98f30e17": [
+        {
+          "page": 47,
+          "order": 8
+        }
+      ],
+      "7791bbf8-bce3-45cd-86f8-9ded5f8f820b": [
+        {
+          "page": 30,
+          "order": 5
+        }
+      ],
+      "f37e80ee-939b-460d-8016-9ad3f516a9df": [
+        {
+          "page": 35,
+          "order": 4
+        }
+      ],
+      "0e85d8c2-d6f4-57de-d30a-a41ea84ba022": [
+        {
+          "page": 50,
+          "order": 1
+        }
+      ],
+      "1052f7e3-005a-9776-1938-4b19815936c8": [
+        {
+          "page": 11,
+          "order": 8
+        }
+      ],
+      "5d06dba0-d21b-4b2b-bde2-79812587f0be": [
+        {
+          "page": 48,
+          "order": 3
+        }
+      ],
+      "50e248f3-fd7f-449f-861c-680629af93d7": [
+        {
+          "page": 9,
+          "order": 6
+        }
+      ],
+      "1b54641c-2120-4fb2-9292-867c289f8a92": [
+        {
+          "page": 46,
+          "order": 7
+        }
+      ],
+      "625bc5d8-f041-3ac6-f427-fdc157b27c61": [
+        {
+          "page": 12,
+          "order": 8
+        }
+      ],
+      "c4ad7a57-c74a-4ba8-aa03-be781a40cbb4": [
+        {
+          "page": 25,
+          "order": 2
+        }
+      ]
+    },
+    "study_time": 900,
+    "has_hot_zone": true,
+    "sys_resource_space": 113910493,
+    "resolution": "719*1006",
+    "has_cont_play": true,
+    "res_sort": 9606,
+    "global_summary": {},
+    "height": "1006",
+    "sys_trans_status": "TRANSCODED",
+    "format": "pdf",
+    "is_top": 0,
+    "size": 45914752,
+    "width": "719",
+    "global_resource_id": "d87e8865-615a-4b3b-8d34-179b9fb33013",
+    "thumbnails": [
+      "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/thumbnails/1_1739525700570.png"
+    ],
+    "providers": [
+      "e29843a5-d3fd-4336-aac2-51aa6d53617a"
+    ]
+  },
+  "resource_type_code": "assets_document",
+  "creator": "10006945",
+  "language": "zh-CN",
+  "provider": "ce5c90c5-1780-414c-9f0a-26fe1807ccb8",
+  "create_time": "2022-09-29T18:46:11.381+0800",
+  "update_time": "2026-01-22T02:04:23.489+0800",
+  "tag_list": [
+    {
+      "tag_id": "ac92c18a-58c8-41da-86a5-f44afe3a90f7",
+      "tag_name": "电子教材",
+      "tag_dimension_id": "5036342742",
+      "order_num": 0
+    },
+    {
+      "tag_id": "b0446bf6-0fee-48d3-942e-39756a16a427",
+      "tag_name": "2024年度",
+      "tag_dimension_id": "bknd",
+      "order_num": 12
+    },
+    {
+      "tag_id": "2cbuPWM3oXGSBI80OFKOSa",
+      "tag_name": "教材",
+      "tag_dimension_id": "tagView",
+      "order_num": 196
+    },
+    {
+      "tag_id": "44beead8-54e6-11ed-9c34-850ba61fa9f4",
+      "tag_name": "译林版",
+      "tag_dimension_id": "zxxbb",
+      "order_num": 236
+    },
+    {
+      "tag_id": "ff8080814371757b014390fcdce504bd",
+      "tag_name": "下册",
+      "tag_dimension_id": "zxxcc",
+      "order_num": 239
+    },
+    {
+      "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+      "tag_name": "三年级",
+      "tag_dimension_id": "zxxnj",
+      "order_num": 12
+    },
+    {
+      "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+      "tag_name": "小学",
+      "tag_dimension_id": "zxxxd",
+      "order_num": 0
+    },
+    {
+      "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+      "tag_name": "英语",
+      "tag_dimension_id": "zxxxk",
+      "order_num": 9
+    }
+  ],
+  "status": "ONLINE",
+  "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+  "resource_type_code_name": "文档",
+  "ti_items": [
+    {
+      "ti_md5": "f1381a78009626c65c4bf4174e2aac14",
+      "ti_size": 5404,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/ebook_mapping_1754483658736.txt",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/ebook_mapping_1754483658736.txt",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/ebook_mapping_1754483658736.txt",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/ebook_mapping_1754483658736.txt"
+      ],
+      "ti_file_flag": "ebook_mapping",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "txt",
+      "lc_ti_format": "text/plain",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "0ce753e632cfd8c6b93a4f01d7fb0bf7",
+      "ti_size": 259718,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/hot_zone_data_1754483659360.txt",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/hot_zone_data_1754483659360.txt",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/hot_zone_data_1754483659360.txt",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/hot_zone_data_1754483659360.txt"
+      ],
+      "ti_file_flag": "hot_zone",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "txt",
+      "lc_ti_format": "text/plain",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "",
+      "ti_size": 67520087,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image"
+      ],
+      "ti_file_flag": "image",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "requirements": [
+          {
+            "name": "width",
+            "type": "QUOTA",
+            "value": "719"
+          },
+          {
+            "name": "pagesize",
+            "type": "QUOTA",
+            "value": "90"
+          },
+          {
+            "name": "height",
+            "type": "QUOTA",
+            "value": "1006"
+          },
+          {
+            "name": "FileSize",
+            "type": "QUOTA",
+            "value": "45914752"
+          },
+          {
+            "name": "displaymode",
+            "type": "QUOTA",
+            "value": "vertical"
+          }
+        ],
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "folder",
+      "lc_ti_format": "image/jpg",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "b78899ec5f28324252f6291ef777d9b8",
+      "ti_size": 45914752,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/教材-义务教育教科书·英语 三年级下册 (1)_1739523225439.pdf",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/教材-义务教育教科书·英语 三年级下册 (1)_1739523225439.pdf",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/教材-义务教育教科书·英语 三年级下册 (1)_1739523225439.pdf",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.pkg/教材-义务教育教科书·英语 三年级下册 (1)_1739523225439.pdf"
+      ],
+      "ti_file_flag": "source",
+      "ti_is_source_file": true,
+      "custom_properties": {
+        "requirements": [
+          {
+            "name": "width",
+            "type": "QUOTA",
+            "value": "719"
+          },
+          {
+            "name": "pagesize",
+            "type": "QUOTA",
+            "value": "90"
+          },
+          {
+            "name": "height",
+            "type": "QUOTA",
+            "value": "1006"
+          },
+          {
+            "name": "FileSize",
+            "type": "QUOTA",
+            "value": "45914752"
+          },
+          {
+            "name": "displaymode",
+            "type": "QUOTA",
+            "value": "vertical"
+          }
+        ],
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "pdf",
+      "lc_ti_format": "pdf",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "1a209fb169c8a2c0d7c9e6aa17aa6136",
+      "ti_size": 67520087,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image"
+      ],
+      "ti_file_flag": "thumbnail",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "requirements": [
+          {
+            "name": "width",
+            "type": "QUOTA",
+            "value": "719"
+          },
+          {
+            "name": "pagesize",
+            "type": "QUOTA",
+            "value": "90"
+          },
+          {
+            "name": "height",
+            "type": "QUOTA",
+            "value": "1006"
+          },
+          {
+            "name": "FileSize",
+            "type": "QUOTA",
+            "value": "45914752"
+          },
+          {
+            "name": "displaymode",
+            "type": "QUOTA",
+            "value": "vertical"
+          }
+        ],
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "folder",
+      "lc_ti_format": "image/jpg",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "a306e0d715335806bfc87637771807f0",
+      "ti_size": 993140,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/1.jpg",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/1.jpg",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/1.jpg",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/d87e8865-615a-4b3b-8d34-179b9fb33013.t/zh-CN/1750302874836/transcode/image/1.jpg"
+      ],
+      "ti_file_flag": "thumbnail_1",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "jpg",
+      "lc_ti_format": "image/jpg",
+      "language": "zh-CN"
+    }
+  ],
+  "resource_container_cp": {
+    "version_visible": "RELEASE",
+    "ppt_sort": 8412564,
+    "audit_status": "AUDIT_WAITING",
+    "resource_source": "CREATE",
+    "is_top": 0,
+    "thumbnail_audit_status": "AUDIT_WAITING"
+  },
+  "online_time": "2026-02-27T13:42:26.160+0800",
+  "chapter_ids": [],
+  "chapter_paths": [],
+  "teachmeterial_ids": [],
+  "tag_paths": [
+    "f5261ccc-b7a5-42f4-b015-610dcec58c60/ac92c18a-58c8-41da-86a5-f44afe3a90f7/e7bbb2de-0590-11ed-9c79-92fc3b3249d5/6a7495dc-0772-11ed-ac74-092ab92074e6/44beead8-54e6-11ed-9c34-850ba61fa9f4/e7bbd372-0590-11ed-9c79-92fc3b3249d5/ff8080814371757b014390fcdce504bd/b0446bf6-0fee-48d3-942e-39756a16a427"
+  ],
+  "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+  "tenant_id": "1",
+  "resource_structure": {
+    "chapter_tree": {}
+  },
+  "smart_link": {
+    "smart_link": "https://x-link.ykt.eduyun.cn/smart_links/205811401932814?qrEventName=smartlink&contentId=d87e8865-615a-4b3b-8d34-179b9fb33013&contentType=assets_document"
+  },
+  "version_id": "d87e8865-615a-4b3b-8d34-179b9fb33013",
+  "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+  "label": [
+    "zxx",
+    "英语 小学 3下（译林版）",
+    "2cbuPWM3oXGSBI80OFKOSa",
+    "x_document"
+  ],
+  "provider_list": [
+    {
+      "name": "译林出版社",
+      "id": "e29843a5-d3fd-4336-aac2-51aa6d53617a",
+      "type": "provider"
+    }
+  ]
+}

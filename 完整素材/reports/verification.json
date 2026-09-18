@@ -1,0 +1,160 @@
+{
+  "status": "passed",
+  "checks": [
+    "upstream_git_blob_hashes",
+    "expected_source_counts",
+    "sqlite_integrity",
+    "foreign_keys",
+    "379_official_ids",
+    "ready_fields",
+    "no_invented_units",
+    "downloaded_pdf_md5"
+  ],
+  "files": [
+    {
+      "path": "sources/ecdict/ecdict.csv",
+      "sha256": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf",
+      "bytes": 65933428
+    },
+    {
+      "path": "sources/ecdict/README.md",
+      "sha256": "0c3f95fc7e15f7eccf65feedb58ba3ebace1fe7b7cbdd1af60c9ace4cef9094b",
+      "bytes": 18414
+    },
+    {
+      "path": "sources/ecdict/LICENSE",
+      "sha256": "f8552dd246f61a4e064569eae6194a01c6b3d63b03bf27c6ca863593c549ed0f",
+      "bytes": 1063
+    },
+    {
+      "path": "sources/kajweb/README.md",
+      "sha256": "8f120c67e13596ea4c34cb2fec15b160c43812f662999c96602959e18f712954",
+      "bytes": 41504
+    },
+    {
+      "path": "sources/kajweb/book/1521164669076_ChuZhongluan_2.zip",
+      "sha256": "a0b9077f96e115589cf969b9ee0b1e52d4c94cbf695431bb71ea43b9ce58dd66",
+      "bytes": 940509
+    },
+    {
+      "path": "sources/kajweb/book/1521164652700_ChuZhong_3.zip",
+      "sha256": "b36321647363fda71efdf411c67388b1221963e9475b9a1d4314a8c43f038a1c",
+      "bytes": 1149674
+    },
+    {
+      "path": "sources/kajweb/book/1521164661774_PEPXiaoXue3_1.zip",
+      "sha256": "8987ffc4ca37ab8260737bdd7cb213fe1227528f28103d4b58cb6466d14ee30a",
+      "bytes": 42478
+    },
+    {
+      "path": "sources/kajweb/book/1521164656604_PEPXiaoXue3_2.zip",
+      "sha256": "3d5182e02e5ea9cbe847dee0bec0e1b0a9c4d443ce1826150c326e02d1afe2a6",
+      "bytes": 40675
+    },
+    {
+      "path": "sources/kajweb/book/1521164677447_PEPXiaoXue4_1.zip",
+      "sha256": "26262e5b1060a33b21ddd3d22eb1561bade008069d1ff5939edfec66591e8a21",
+      "bytes": 47587
+    },
+    {
+      "path": "sources/kajweb/book/1521164663086_PEPXiaoXue4_2.zip",
+      "sha256": "1e3e53ac3c0b259931c8e8cf775bd86bf51f5a421533bfa60db180ac24775109",
+      "bytes": 53505
+    },
+    {
+      "path": "sources/kajweb/book/1530101080610_PEPXiaoXue5_1.zip",
+      "sha256": "729588a4cc1c3500e0bdca0da6bfe194a1b4434b66021a65a9900d9722786356",
+      "bytes": 71424
+    },
+    {
+      "path": "sources/kajweb/book/1530101073491_PEPXiaoXue5_2.zip",
+      "sha256": "671001a23a7455145d629dbf84c2943333bd0b5f2d0497ff1f085733a5404320",
+      "bytes": 87211
+    },
+    {
+      "path": "sources/kajweb/book/1530101075331_PEPXiaoXue6_1.zip",
+      "sha256": "d38ff9df8f5457d318899d91d11cc626c2cf462e27c0cba83b940ce68612e5e8",
+      "bytes": 76633
+    },
+    {
+      "path": "sources/kajweb/book/1521164632445_PEPXiaoXue6_2.zip",
+      "sha256": "7655c423aaa3f98ec61a6e6570e5aca984248e38bc97fbc2a35c8c8139227ea7",
+      "bytes": 64879
+    },
+    {
+      "path": "sources/kajweb/book/1530101067588_PEPChuZhong7_1.zip",
+      "sha256": "aaec477db25bd537e58531b9e26dfab6b79ae437fe42c5935153a304ee70a07d",
+      "bytes": 203341
+    },
+    {
+      "path": "sources/kajweb/book/1521164677043_PEPChuZhong7_2.zip",
+      "sha256": "8afbed78f192d4b50e65491b985fc0497d855e4109ee568b354fb3950db40a78",
+      "bytes": 266712
+    },
+    {
+      "path": "sources/kajweb/book/1530101070747_PEPChuZhong8_1.zip",
+      "sha256": "1fa6394ff051193a1ce67d9e5a301c3e49e61f49d9fa42e001eea512b9efa434",
+      "bytes": 222704
+    },
+    {
+      "path": "sources/kajweb/book/1521164666522_PEPChuZhong8_2.zip",
+      "sha256": "345dc1cdede668c4498c9492bc0afb2786d773fec5899d26fc5bb2acffdb0836",
+      "bytes": 244325
+    },
+    {
+      "path": "sources/kajweb/book/1530101078234_PEPChuZhong9_1.zip",
+      "sha256": "85ce6c38e3a882045ef9d90053338360f2662bf71285f79d4e7fd930387362d1",
+      "bytes": 278981
+    },
+    {
+      "path": "sources/kajweb/book/reciteWord_1545032533243_WaiYanSheChuZhong_1.zip",
+      "sha256": "14d9209d5ed7b8d48ff1bbf0773b0a2728c970b3c00929114a6e2f67e478da9f",
+      "bytes": 351737
+    },
+    {
+      "path": "sources/kajweb/book/reciteWord_1545032493536_WaiYanSheChuZhong_2.zip",
+      "sha256": "75d6bbc535db48e431ccf372571835dda4a97343b9328f96881eb7fe03ca39ea",
+      "bytes": 247606
+    },
+    {
+      "path": "sources/kajweb/book/reciteWord_1545032532744_WaiYanSheChuZhong_3.zip",
+      "sha256": "a67e100a8adb10933135ef6e9b54f02cc7d3526dc6b65ee98cdfb5e80da0c4e8",
+      "bytes": 184306
+    },
+    {
+      "path": "sources/kajweb/book/reciteWord_1545032533455_WaiYanSheChuZhong_4.zip",
+      "sha256": "e1c504a0c1757adb4c269ca2b6071f4cf0ebbfc666bc7455ad63b1676286822d",
+      "bytes": 147166
+    },
+    {
+      "path": "sources/kajweb/book/reciteWord_1545032533808_WaiYanSheChuZhong_5.zip",
+      "sha256": "d4085acf574afecde4204a865718d22a777669feb77c97e7d203575a73a26ea1",
+      "bytes": 196315
+    },
+    {
+      "path": "sources/kajweb/book/reciteWord_1545032534071_WaiYanSheChuZhong_6.zip",
+      "sha256": "2609ed62cf757017a6fba2fc29fe62919a1720e059857458ac647c6a8c56620e",
+      "bytes": 72801
+    },
+    {
+      "path": "sources/kajweb/book/1521164647926_ChuZhong_2.zip",
+      "sha256": "c5592e9ba0dcdd968227b0f2e647916d5136152b3c2f54488ec3adcced6560c9",
+      "bytes": 912718
+    },
+    {
+      "path": "materials/初中/英语/人教版/（根据2022年版课程标准修订）义务教育教科书·英语七年级下册__f7a7eb5e/教材.pdf",
+      "sha256": "23931ae73882e93c213b28fb32a713e1fd312bb6d3f22abe7d34625375c444a9",
+      "bytes": 10027213
+    },
+    {
+      "path": "materials/小学/英语/接力社版/（根据2022年版课程标准修订）义务教育教科书•英语三年级下册__8096f798/教材.pdf",
+      "sha256": "6a3e51f166ba70b01260e3dcaf72cc0103058fb0e10e66e01e06642c81179989",
+      "bytes": 7234508
+    },
+    {
+      "path": "../精简词库/英语词库.sqlite",
+      "sha256": "3b46751b904633673610066cc886c28520a68286c7434a02891af04c5aba21b3",
+      "bytes": 70979584
+    }
+  ]
+}

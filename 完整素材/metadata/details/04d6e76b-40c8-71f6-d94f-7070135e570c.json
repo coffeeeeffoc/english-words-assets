@@ -1,0 +1,355 @@
+{
+  "id": "04d6e76b-40c8-71f6-d94f-7070135e570c",
+  "global_title": {
+    "zh-CN": "（根据2022年版课程标准修订）义务教育教科书 英语 七年级上册"
+  },
+  "global_description": {},
+  "global_keywords": {},
+  "global_label": {},
+  "custom_properties": {
+    "prom_resouce_type": "assets_document",
+    "ext_properties": {},
+    "copyright_holder_ids": [],
+    "has_hot_zone": false,
+    "audit_status": "AUDIT_WAITING",
+    "sys_resource_space": 22373367,
+    "resolution": "1446*1006",
+    "height": "1006",
+    "format": "pdf",
+    "faculty_advisor_ids": [],
+    "teacher_ids": [],
+    "origin_type": "文档",
+    "thumbnail_audit_status": "AUDIT_WAITING",
+    "size": 22373367,
+    "global_resource_id": "04d6e76b-40c8-71f6-d94f-7070135e570c",
+    "preview": {
+      "Slide6": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/6.jpg",
+      "Slide5": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/5.jpg",
+      "Slide8": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/8.jpg",
+      "Slide7": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/7.jpg",
+      "Slide2": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/2.jpg",
+      "Slide1": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/1.jpg",
+      "Slide4": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/4.jpg",
+      "Slide3": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/3.jpg",
+      "Slide9": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/9.jpg",
+      "Slide17": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/17.jpg",
+      "Slide16": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/16.jpg",
+      "Slide15": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/15.jpg",
+      "Slide14": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/14.jpg",
+      "Slide13": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/13.jpg",
+      "Slide12": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/12.jpg",
+      "Slide11": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/11.jpg",
+      "Slide10": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/10.jpg",
+      "Slide19": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/19.jpg",
+      "Slide18": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/18.jpg",
+      "Slide42": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/42.jpg",
+      "Slide41": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/41.jpg",
+      "Slide40": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/40.jpg",
+      "Slide49": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/49.jpg",
+      "Slide48": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/48.jpg",
+      "Slide47": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/47.jpg",
+      "Slide46": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/46.jpg",
+      "Slide45": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/45.jpg",
+      "Slide44": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/44.jpg",
+      "Slide43": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/43.jpg",
+      "Slide31": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/31.jpg",
+      "Slide30": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/30.jpg",
+      "Slide39": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/39.jpg",
+      "Slide38": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/38.jpg",
+      "Slide37": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/37.jpg",
+      "Slide36": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/36.jpg",
+      "Slide35": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/35.jpg",
+      "Slide34": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/34.jpg",
+      "Slide33": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/33.jpg",
+      "Slide32": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/32.jpg",
+      "Slide20": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/20.jpg",
+      "Slide28": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/28.jpg",
+      "Slide27": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/27.jpg",
+      "Slide26": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/26.jpg",
+      "Slide25": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/25.jpg",
+      "Slide24": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/24.jpg",
+      "Slide23": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/23.jpg",
+      "Slide22": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/22.jpg",
+      "Slide21": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/21.jpg",
+      "Slide29": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/29.jpg"
+    },
+    "import_template_name": "17-4-20260811-初中英语鲁教版（五·四学制）七年级上册87个音频1PDF-缺一个音频_1786587053184",
+    "auto_fill_thumb": true,
+    "study_time": 1290,
+    "has_cont_play": true,
+    "sys_trans_status": "TRANSCODED",
+    "producer_ids": [],
+    "producers": [],
+    "width": "1446",
+    "thumbnails": [
+      "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/1.jpg?v=1786587878787"
+    ],
+    "providers": [
+      "c7eb0475-b7eb-485f-8aa5-4a6f06ef6218"
+    ]
+  },
+  "resource_type_code": "assets_document",
+  "creator": "452315580589",
+  "language": "zh-CN",
+  "create_time": "2026-08-13T10:10:55.229+0800",
+  "update_time": "2026-08-21T10:45:50.614+0800",
+  "tag_list": [
+    {
+      "tag_id": "ac92c18a-58c8-41da-86a5-f44afe3a90f7",
+      "tag_name": "电子教材",
+      "tag_dimension_id": "5036342742",
+      "order_num": 0
+    },
+    {
+      "tag_id": "a471b8a3-ec0c-4749-80be-1e7982ed7bb4",
+      "tag_name": "2026年度",
+      "tag_dimension_id": "bknd",
+      "order_num": 14
+    },
+    {
+      "tag_id": "362880184964ce7d0149735861bb1738",
+      "tag_name": "鲁教版",
+      "tag_dimension_id": "zxxbb",
+      "order_num": 304
+    },
+    {
+      "tag_id": "ff8080814371757b014390f883db0453",
+      "tag_name": "上册",
+      "tag_dimension_id": "zxxcc",
+      "order_num": 238
+    },
+    {
+      "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
+      "tag_name": "七年级",
+      "tag_dimension_id": "zxxnj",
+      "order_num": 16
+    },
+    {
+      "tag_id": "44beb932-54e6-11ed-9c34-850ba61fa9f4",
+      "tag_name": "初中（五•四学制）",
+      "tag_dimension_id": "zxxxd",
+      "order_num": 4
+    },
+    {
+      "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+      "tag_name": "英语",
+      "tag_dimension_id": "zxxxk",
+      "order_num": 9
+    }
+  ],
+  "status": "ONLINE",
+  "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+  "resource_type_code_name": "文档",
+  "ti_items": [
+    {
+      "ti_md5": "d751713988987e9331980363e24189ce",
+      "ti_size": 2,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.pkg/hot_zone_data.txt",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.pkg/hot_zone_data.txt",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.pkg/hot_zone_data.txt",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.pkg/hot_zone_data.txt"
+      ],
+      "ti_file_flag": "hot_zone",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "txt",
+      "lc_ti_format": "text/plain",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "",
+      "ti_size": 90698118,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image"
+      ],
+      "ti_file_flag": "image",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "requirements": [
+          {
+            "name": "width",
+            "type": "QUOTA",
+            "value": "1446"
+          },
+          {
+            "name": "pagesize",
+            "type": "QUOTA",
+            "value": "129"
+          },
+          {
+            "name": "height",
+            "type": "QUOTA",
+            "value": "1006"
+          },
+          {
+            "name": "FileSize",
+            "type": "QUOTA",
+            "value": "22373367"
+          },
+          {
+            "name": "displaymode",
+            "type": "QUOTA",
+            "value": "vertical"
+          }
+        ],
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "folder",
+      "lc_ti_format": "image/jpg",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "e2cb2a673acdd2adc480fefe1482e5f4",
+      "ti_size": 22373367,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.pkg/教材—义务教育教科书（五•四学制）•英语_七年级_上册_山东教育出版社.pdf",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.pkg/教材—义务教育教科书（五•四学制）•英语_七年级_上册_山东教育出版社.pdf",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.pkg/教材—义务教育教科书（五•四学制）•英语_七年级_上册_山东教育出版社.pdf",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.pkg/教材—义务教育教科书（五•四学制）•英语_七年级_上册_山东教育出版社.pdf"
+      ],
+      "ti_file_flag": "source",
+      "ti_is_source_file": true,
+      "custom_properties": {
+        "requirements": [
+          {
+            "name": "width",
+            "type": "QUOTA",
+            "value": "1446"
+          },
+          {
+            "name": "pagesize",
+            "type": "QUOTA",
+            "value": "129"
+          },
+          {
+            "name": "height",
+            "type": "QUOTA",
+            "value": "1006"
+          },
+          {
+            "name": "FileSize",
+            "type": "QUOTA",
+            "value": "22373367"
+          },
+          {
+            "name": "displaymode",
+            "type": "QUOTA",
+            "value": "vertical"
+          }
+        ],
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "pdf",
+      "lc_ti_format": "pdf",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "e2cb2a673acdd2adc480fefe1482e5f4",
+      "ti_size": 90698118,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image"
+      ],
+      "ti_file_flag": "thumbnail",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "requirements": [
+          {
+            "name": "width",
+            "type": "QUOTA",
+            "value": "1446"
+          },
+          {
+            "name": "pagesize",
+            "type": "QUOTA",
+            "value": "129"
+          },
+          {
+            "name": "height",
+            "type": "QUOTA",
+            "value": "1006"
+          },
+          {
+            "name": "FileSize",
+            "type": "QUOTA",
+            "value": "22373367"
+          },
+          {
+            "name": "displaymode",
+            "type": "QUOTA",
+            "value": "vertical"
+          }
+        ],
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "folder",
+      "lc_ti_format": "image/jpg",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "b2ac00ffb331d40e51f4f5855b0bf176",
+      "ti_size": 1627886,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/1.jpg",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/1.jpg",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/1.jpg",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/04d6e76b-40c8-71f6-d94f-7070135e570c.t/zh-CN/1786587775338/transcode/image/1.jpg"
+      ],
+      "ti_file_flag": "thumbnail_1",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "jpg",
+      "lc_ti_format": "image/jpg",
+      "language": "zh-CN"
+    }
+  ],
+  "resource_container_cp": {
+    "version_visible": "RELEASE",
+    "download_policy": 2,
+    "ppt_sort": 6092573,
+    "audit_status": "AUDIT_WAITING",
+    "resource_source": "CREATE",
+    "is_top": 0,
+    "compound_node": "normal",
+    "thumbnail_audit_status": "AUDIT_WAITING"
+  },
+  "online_time": "2026-08-21T11:36:07.192+0800",
+  "chapter_ids": [],
+  "chapter_paths": [],
+  "teachmeterial_ids": [],
+  "tag_paths": [
+    "f5261ccc-b7a5-42f4-b015-610dcec58c60/ac92c18a-58c8-41da-86a5-f44afe3a90f7/44beb932-54e6-11ed-9c34-850ba61fa9f4/6a7495dc-0772-11ed-ac74-092ab92074e6/362880184964ce7d0149735861bb1738/44bebf7c-54e6-11ed-9c34-850ba61fa9f4/ff8080814371757b014390f883db0453/a471b8a3-ec0c-4749-80be-1e7982ed7bb4"
+  ],
+  "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+  "tenant_id": "1",
+  "resource_structure": {
+    "chapter_tree": {}
+  },
+  "smart_link": {
+    "smart_link": "https://x-link.ykt.eduyun.cn/smart_links/205811401932814?qrEventName=smartlink&contentId=04d6e76b-40c8-71f6-d94f-7070135e570c&contentType=assets_document"
+  },
+  "version_id": "04d6e76b-40c8-71f6-d94f-7070135e570c",
+  "title": "（根据2022年版课程标准修订）义务教育教科书 英语 七年级上册",
+  "provider_list": [
+    {
+      "name": "山东教育出版社",
+      "id": "c7eb0475-b7eb-485f-8aa5-4a6f06ef6218",
+      "type": "provider"
+    }
+  ]
+}

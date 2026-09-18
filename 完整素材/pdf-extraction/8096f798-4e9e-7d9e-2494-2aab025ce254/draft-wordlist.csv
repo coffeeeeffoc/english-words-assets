@@ -1,0 +1,126 @@
+﻿word,meaning,unit,pdf_page,column,extended,status
+nice,令人愉快的,Unit 1,73,1,False,needs_review
+meet,遇见,Unit 1,73,1,False,needs_review
+too,也,Unit 1,73,1,False,needs_review
+af ternoon,下午,Unit 1,73,1,False,needs_review
+name,名字,Unit 1,73,1,False,needs_review
+welcome,受欢迎的,Unit 1,73,1,False,needs_review
+f rom,来自,Unit 1,73,1,False,needs_review
+about,关于,Unit 1,73,1,False,needs_review
+my,我的,Unit 2,73,1,False,needs_review
+nose,鼻子,Unit 2,73,1,False,needs_review
+hair,头发,Unit 2,73,1,False,needs_review
+ear,耳朵,Unit 2,73,1,False,needs_review
+eye,眼睛,Unit 2,73,1,False,needs_review
+face,脸汇，其他属于二级词汇。）,Unit 2,73,1,False,needs_review
+mouth,嘴,Unit 2,73,2,False,needs_review
+touch,触摸,Unit 2,73,2,True,needs_review
+your,你的，你们的,Unit 2,73,2,False,needs_review
+look,看,Unit 2,73,2,False,needs_review
+at,朝，向,Unit 2,73,2,False,needs_review
+draw,画,Unit 2,73,2,False,needs_review
+lef t,左边的,Unit 2,73,2,False,needs_review
+arm,手臂,Unit 2,73,2,False,needs_review
+leg,腿,Unit 2,73,2,False,needs_review
+right,右边的,Unit 2,73,2,False,needs_review
+hand,手,Unit 2,73,2,False,needs_review
+foot,脚,Unit 2,73,2,False,needs_review
+put,放，摆,Unit 2,73,2,False,needs_review
+head,头,Unit 2,73,2,False,needs_review
+where,在哪里,Unit 3,73,2,False,needs_review
+in,在……里面,Unit 3,74,1,False,needs_review
+so,如此,Unit 3,74,1,False,needs_review
+cute,可爱的,Unit 3,74,1,False,needs_review
+on,在……上面,Unit 3,74,1,False,needs_review
+under,在……下面,Unit 3,74,1,False,needs_review
+line,线,Unit 3,74,1,True,needs_review
+bottle,瓶子,Unit 3,74,1,True,needs_review
+table,桌子,Unit 3,74,1,False,needs_review
+dress,连衣裙,Unit 3,74,1,False,needs_review
+bird,鸟,Unit 3,74,1,False,needs_review
+cap,帽子,Unit 3,74,1,False,needs_review
+of,……的,Unit 3,74,1,False,needs_review
+toy,玩具,Unit 4,74,1,False,needs_review
+storybook,故事书,Unit 4,74,1,True,needs_review
+pencil case,铅笔盒；铅笔袋,Unit 4,74,1,True,needs_review
+key,钥匙,Unit 4,74,1,False,needs_review
+English,英语,Unit 4,74,1,False,needs_review
+has,有（have 的第三人称单数形式）,Unit 4,74,1,False,needs_review
+now,现在,Unit 4,74,1,False,needs_review
+let,让,Unit 4,74,1,False,needs_review
+play,玩耍；玩乐,Unit 4,74,2,False,needs_review
+great,极好的,Unit 4,74,2,False,needs_review
+pass,传；递,Unit 4,74,2,True,needs_review
+cake,蛋糕,Unit 4,74,2,False,needs_review
+full,饱的,Unit 4,74,2,True,needs_review
+can,能，会,Unit 5,74,2,False,needs_review
+mother,母亲，妈妈,Unit 5,74,2,False,needs_review
+day,日子,Unit 5,74,2,False,needs_review
+ice cream,冰激凌,Unit 5,74,2,False,needs_review
+monkey,猴子,Unit 5,74,2,False,needs_review
+ship,（大）船,Unit 5,74,2,False,needs_review
+kite,风筝,Unit 5,74,2,False,needs_review
+swim,游泳,Unit 5,74,2,False,needs_review
+read,阅读；朗读,Unit 5,74,2,False,needs_review
+dance,跳舞,Unit 5,74,2,False,needs_review
+sing,唱（歌）；演唱,Unit 5,74,2,False,needs_review
+cook,烹饪；煮,Unit 5,74,2,False,needs_review
+ping-pong,乒乓球,Unit 5,74,2,True,needs_review
+but,但是,Unit 5,74,2,False,needs_review
+want,想要；希望,Unit 5,74,2,False,needs_review
+learn,学习,Unit 5,74,2,False,needs_review
+tall,高的,Unit 6,75,1,False,needs_review
+short,矮的,Unit 6,75,1,False,needs_review
+elephant,象,Unit 6,75,1,False,needs_review
+mouse,老鼠,Unit 6,75,1,False,needs_review
+big,大的,Unit 6,75,1,False,needs_review
+long,长的,Unit 6,75,1,False,needs_review
+small,小的,Unit 6,75,1,False,needs_review
+walk,走；步行,Unit 6,75,1,False,needs_review
+run,跑,Unit 6,75,1,False,needs_review
+jump,跳,Unit 6,75,1,False,needs_review
+f ly,飞,Unit 6,75,1,False,needs_review
+tail,尾巴,Unit 6,75,1,False,needs_review
+giraffe,长颈鹿,Unit 6,75,1,True,needs_review
+fast,快的；快速地,Unit 6,75,1,False,needs_review
+maybe,也许；可能；大概,Unit 6,75,1,False,needs_review
+lion,狮子,Unit 6,75,1,False,needs_review
+pet,宠物,Unit 6,75,1,False,needs_review
+love,喜欢；喜爱,Unit 6,75,1,False,needs_review
+very,非常,Unit 6,75,1,False,needs_review
+much,很多,Unit 6,75,1,False,needs_review
+hot,热的,Unit 7,75,2,False,needs_review
+cold,冷的,Unit 7,75,2,False,needs_review
+ill,生病的,Unit 7,75,2,False,needs_review
+drink,喝,Unit 7,75,2,False,needs_review
+fine,健康的,Unit 7,75,2,False,needs_review
+wrong,有问题的；不正常的,Unit 7,75,2,False,needs_review
+pain,疼痛,Unit 7,75,2,True,needs_review
+help,帮助,Unit 7,75,2,False,needs_review
+neck,脖子,Unit 7,75,2,True,needs_review
+back,背部,Unit 7,75,2,False,needs_review
+today,今天,Unit 8,75,2,False,needs_review
+Thursday,星期四,Unit 8,75,2,False,needs_review
+class,课程；班级,Unit 8,75,2,False,needs_review
+Monday,星期一,Unit 8,75,2,False,needs_review
+Tuesday,星期二,Unit 8,75,2,False,needs_review
+Wednesday,星期三,Unit 8,75,2,False,needs_review
+Friday,星期五,Unit 8,75,2,False,needs_review
+Chinese,中文；汉语,Unit 8,75,2,False,needs_review
+art,美术，艺术,Unit 8,76,1,False,needs_review
+P.E.,体育,Unit 8,76,1,False,needs_review
+we,我们,Unit 8,76,1,False,needs_review
+music,音乐,Unit 8,76,1,False,needs_review
+math,数学,Unit 8,76,1,False,needs_review
+tomorrow,明天,Unit 8,76,1,False,needs_review
+Saturday,星期六,Unit 8,76,1,False,needs_review
+light,灯,Unit 8,76,1,False,needs_review
+week,周，星期,Unit 8,76,1,False,needs_review
+Sunday,星期天,Unit 8,76,1,False,needs_review
+China,中国,附录,76,1,False,needs_review
+the UK,英国,附录,76,1,False,needs_review
+look at,看,附录,76,1,False,needs_review
+on the left,在左边,附录,76,1,False,needs_review
+let’s = let us,让我们,附录,76,1,False,needs_review
+play ping-pong,打乒乓球,附录,76,1,False,needs_review
+want to,想要,附录,76,1,False,needs_review

@@ -1,0 +1,3071 @@
+[
+  {
+    "id": "46df6687-e2a7-61a0-ebb7-02c5206e351e",
+    "global_title": {
+      "zh-CN": "01_4A_Unit 1"
+    },
+    "global_description": {
+      "zh-CN": ""
+    },
+    "global_keywords": {},
+    "global_label": {},
+    "custom_properties": {
+      "import_template_name": "891行-听力：新增新版教材上海教育出版社（六·三学制）英语配套音频4册128条-录入四上和八上_1755764348270",
+      "auto_fill_thumb": true,
+      "prom_resouce_type": "assets_audio",
+      "purpose": "listening_to_text",
+      "ext_properties": {
+        "origin_type": "听力"
+      },
+      "cont_play": false,
+      "copyright_holder_ids": [],
+      "audit_status": "AUDIT_WAITING",
+      "sys_resource_space": 32083871,
+      "global_preview": {},
+      "sys_trans_status": "TRANSCODED",
+      "format": "mp3",
+      "faculty_advisor_ids": [],
+      "producer_ids": [],
+      "teacher_ids": [],
+      "origin_type": "听力",
+      "producers": [],
+      "thumbnail_audit_status": "AUDIT_WAITING",
+      "size": 6415994,
+      "global_resource_id": "46df6687-e2a7-61a0-ebb7-02c5206e351e",
+      "thumbnails": [
+        "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/resources/default_thumb/listening.png"
+      ],
+      "providers": [
+        "32e07bb5-bc0a-4923-85ac-c9f39dcb1d6e"
+      ]
+    },
+    "resource_type_code": "listening",
+    "creator": "452549659032",
+    "language": "zh-CN",
+    "create_time": "2025-08-21T16:23:43.497+0800",
+    "update_time": "2026-01-22T02:02:49.484+0800",
+    "tag_list": [
+      {
+        "tag_id": "5036342831",
+        "tag_name": "听力",
+        "tag_dimension_id": "bklx",
+        "order_num": 18
+      },
+      {
+        "tag_id": "362880194a9ec684014a9f0dfa190056",
+        "tag_name": "沪教版",
+        "tag_dimension_id": "zxxbb",
+        "order_num": 231
+      },
+      {
+        "tag_id": "ff8080814371757b014390f883db0453",
+        "tag_name": "上册",
+        "tag_dimension_id": "zxxcc",
+        "order_num": 238
+      },
+      {
+        "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "四年级",
+        "tag_dimension_id": "zxxnj",
+        "order_num": 13
+      },
+      {
+        "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "小学",
+        "tag_dimension_id": "zxxxd",
+        "order_num": 0
+      },
+      {
+        "tag_id": "5136342961",
+        "tag_name": "新教材",
+        "tag_dimension_id": "zxxxjjc",
+        "order_num": 0
+      },
+      {
+        "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+        "tag_name": "英语",
+        "tag_dimension_id": "zxxxk",
+        "order_num": 9
+      }
+    ],
+    "status": "ONLINE",
+    "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "resource_type_code_name": "听力",
+    "ti_items": [
+      {
+        "ti_md5": "ab1de826a2bcb88c7a4b71c9559b7976",
+        "ti_size": 9647376,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.mp3"
+        ],
+        "ti_file_flag": "href",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT6M41S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192013"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192013\",\"Duration\":\"401946\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "9647376"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "8d5a39cf2a8178ca1debb34546989a1d",
+        "ti_size": 4320906,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/clip-bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/clip-bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/clip-bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/clip-bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.mp3"
+        ],
+        "ti_file_flag": "href-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192029"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192029\",\"Duration\":\"180009\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "4320906"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "dbd799da9fa83274cadc6b3ef991ad18",
+        "ti_size": 8050269,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.ogg"
+        ],
+        "ti_file_flag": "href-ogg",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT6M41S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "160236"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"160236\",\"Duration\":\"401920\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "8050269"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "f00af877a29f3e20d8eebabaeee5e053",
+        "ti_size": 3649326,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/clip-bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/clip-bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/clip-bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.t/zh-CN/1755764496582/transcode/audios/clip-bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.ogg"
+        ],
+        "ti_file_flag": "href-ogg-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "162174"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"162174\",\"Duration\":\"180019\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "3649326"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "4b1cb0bce1cd2bc339604344dbdafdbc",
+        "ti_size": 6415994,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.pkg/01_4A_Unit 1.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.pkg/01_4A_Unit 1.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.pkg/01_4A_Unit 1.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/bb28dd5a-8c50-9ec9-3b52-8294e9455aa4.pkg/01_4A_Unit 1.mp3"
+        ],
+        "ti_file_flag": "source",
+        "ti_is_source_file": true,
+        "custom_properties": {
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      }
+    ],
+    "resource_custom_properties": {
+      "version_visible": "RELEASE",
+      "ppt_sort": 9735961,
+      "audit_status": "AUDIT_WAITING",
+      "resource_source": "COPY",
+      "copy_from": "bb28dd5a-8c50-9ec9-3b52-8294e9455aa4",
+      "is_top": 0,
+      "compound_node": "sub",
+      "thumbnail_audit_status": "AUDIT_WAITING"
+    },
+    "online_time": "2025-12-12T10:49:15.100+0800",
+    "chapter_ids": [],
+    "chapter_paths": [],
+    "teachmeterial_ids": [],
+    "tag_paths": [],
+    "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "tenant_id": "1",
+    "resource_structure": {
+      "chapter_tree": {}
+    },
+    "version_id": "46df6687-e2a7-61a0-ebb7-02c5206e351e",
+    "title": "01_4A_Unit 1",
+    "description": ""
+  },
+  {
+    "id": "810d0b3b-bb18-8366-9175-1c3a35553cd7",
+    "global_title": {
+      "zh-CN": "02_4A_Unit 2"
+    },
+    "global_description": {
+      "zh-CN": ""
+    },
+    "global_keywords": {},
+    "global_label": {},
+    "custom_properties": {
+      "import_template_name": "891行-听力：新增新版教材上海教育出版社（六·三学制）英语配套音频4册128条-录入四上和八上_1755764348270",
+      "auto_fill_thumb": true,
+      "prom_resouce_type": "assets_audio",
+      "purpose": "listening_to_text",
+      "ext_properties": {
+        "origin_type": "听力"
+      },
+      "cont_play": false,
+      "copyright_holder_ids": [],
+      "audit_status": "AUDIT_WAITING",
+      "global_preview": {},
+      "sys_resource_space": 26536328,
+      "sys_trans_status": "TRANSCODED",
+      "format": "mp3",
+      "faculty_advisor_ids": [],
+      "producer_ids": [],
+      "teacher_ids": [],
+      "origin_type": "听力",
+      "producers": [],
+      "thumbnail_audit_status": "AUDIT_WAITING",
+      "size": 4975676,
+      "global_resource_id": "810d0b3b-bb18-8366-9175-1c3a35553cd7",
+      "thumbnails": [
+        "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/resources/default_thumb/listening.png"
+      ],
+      "providers": [
+        "32e07bb5-bc0a-4923-85ac-c9f39dcb1d6e"
+      ]
+    },
+    "resource_type_code": "listening",
+    "creator": "452549659032",
+    "language": "zh-CN",
+    "create_time": "2025-08-21T16:23:43.745+0800",
+    "update_time": "2026-01-22T02:02:49.232+0800",
+    "tag_list": [
+      {
+        "tag_id": "5036342831",
+        "tag_name": "听力",
+        "tag_dimension_id": "bklx",
+        "order_num": 18
+      },
+      {
+        "tag_id": "362880194a9ec684014a9f0dfa190056",
+        "tag_name": "沪教版",
+        "tag_dimension_id": "zxxbb",
+        "order_num": 231
+      },
+      {
+        "tag_id": "ff8080814371757b014390f883db0453",
+        "tag_name": "上册",
+        "tag_dimension_id": "zxxcc",
+        "order_num": 238
+      },
+      {
+        "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "四年级",
+        "tag_dimension_id": "zxxnj",
+        "order_num": 13
+      },
+      {
+        "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "小学",
+        "tag_dimension_id": "zxxxd",
+        "order_num": 0
+      },
+      {
+        "tag_id": "5136342961",
+        "tag_name": "新教材",
+        "tag_dimension_id": "zxxxjjc",
+        "order_num": 0
+      },
+      {
+        "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+        "tag_name": "英语",
+        "tag_dimension_id": "zxxxk",
+        "order_num": 9
+      }
+    ],
+    "status": "ONLINE",
+    "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "resource_type_code_name": "听力",
+    "ti_items": [
+      {
+        "ti_md5": "2830c6d0d610508dfa3ccd062b5bfc94",
+        "ti_size": 7481930,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/599e8b8a-0dfe-e155-0f33-4419d793c3e9.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/599e8b8a-0dfe-e155-0f33-4419d793c3e9.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/599e8b8a-0dfe-e155-0f33-4419d793c3e9.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/599e8b8a-0dfe-e155-0f33-4419d793c3e9.mp3"
+        ],
+        "ti_file_flag": "href",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT5M11S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192017"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192017\",\"Duration\":\"311719\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "7481930"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "6e5392385f18453559d9d8e76e842804",
+        "ti_size": 4320906,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/clip-599e8b8a-0dfe-e155-0f33-4419d793c3e9.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/clip-599e8b8a-0dfe-e155-0f33-4419d793c3e9.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/clip-599e8b8a-0dfe-e155-0f33-4419d793c3e9.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/clip-599e8b8a-0dfe-e155-0f33-4419d793c3e9.mp3"
+        ],
+        "ti_file_flag": "href-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192029"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192029\",\"Duration\":\"180009\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "4320906"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "2bf600abb92d8705ac0111aa61fd8788",
+        "ti_size": 6028811,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/599e8b8a-0dfe-e155-0f33-4419d793c3e9.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/599e8b8a-0dfe-e155-0f33-4419d793c3e9.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/599e8b8a-0dfe-e155-0f33-4419d793c3e9.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/599e8b8a-0dfe-e155-0f33-4419d793c3e9.ogg"
+        ],
+        "ti_file_flag": "href-ogg",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT5M11S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "154737"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"154737\",\"Duration\":\"311693\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "6028811"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "20cbe961808895a672af4b879b8494c9",
+        "ti_size": 3729005,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/clip-599e8b8a-0dfe-e155-0f33-4419d793c3e9.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/clip-599e8b8a-0dfe-e155-0f33-4419d793c3e9.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/clip-599e8b8a-0dfe-e155-0f33-4419d793c3e9.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.t/zh-CN/1755764496606/transcode/audios/clip-599e8b8a-0dfe-e155-0f33-4419d793c3e9.ogg"
+        ],
+        "ti_file_flag": "href-ogg-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "165728"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"165728\",\"Duration\":\"180005\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "3729005"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "fe7b82e29ff9f882797963b0de8f0b39",
+        "ti_size": 4975676,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.pkg/02_4A_Unit 2.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.pkg/02_4A_Unit 2.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.pkg/02_4A_Unit 2.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/599e8b8a-0dfe-e155-0f33-4419d793c3e9.pkg/02_4A_Unit 2.mp3"
+        ],
+        "ti_file_flag": "source",
+        "ti_is_source_file": true,
+        "custom_properties": {
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      }
+    ],
+    "resource_custom_properties": {
+      "version_visible": "RELEASE",
+      "ppt_sort": 4615242,
+      "audit_status": "AUDIT_WAITING",
+      "resource_source": "COPY",
+      "copy_from": "599e8b8a-0dfe-e155-0f33-4419d793c3e9",
+      "is_top": 0,
+      "compound_node": "sub",
+      "thumbnail_audit_status": "AUDIT_WAITING"
+    },
+    "online_time": "2025-12-12T10:49:15.107+0800",
+    "chapter_ids": [],
+    "chapter_paths": [],
+    "teachmeterial_ids": [],
+    "tag_paths": [],
+    "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "tenant_id": "1",
+    "resource_structure": {
+      "chapter_tree": {}
+    },
+    "version_id": "810d0b3b-bb18-8366-9175-1c3a35553cd7",
+    "title": "02_4A_Unit 2",
+    "description": ""
+  },
+  {
+    "id": "36e487e5-8566-260e-2b4e-58035fef7622",
+    "global_title": {
+      "zh-CN": "03_4A_Unit 3"
+    },
+    "global_description": {
+      "zh-CN": ""
+    },
+    "global_keywords": {},
+    "global_label": {},
+    "custom_properties": {
+      "import_template_name": "891行-听力：新增新版教材上海教育出版社（六·三学制）英语配套音频4册128条-录入四上和八上_1755764348270",
+      "auto_fill_thumb": true,
+      "prom_resouce_type": "assets_audio",
+      "purpose": "listening_to_text",
+      "ext_properties": {
+        "origin_type": "听力"
+      },
+      "cont_play": false,
+      "copyright_holder_ids": [],
+      "audit_status": "AUDIT_WAITING",
+      "sys_resource_space": 29996101,
+      "global_preview": {},
+      "sys_trans_status": "TRANSCODED",
+      "format": "mp3",
+      "faculty_advisor_ids": [],
+      "producer_ids": [],
+      "teacher_ids": [],
+      "origin_type": "听力",
+      "producers": [],
+      "thumbnail_audit_status": "AUDIT_WAITING",
+      "size": 6160373,
+      "global_resource_id": "36e487e5-8566-260e-2b4e-58035fef7622",
+      "thumbnails": [
+        "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/resources/default_thumb/listening.png"
+      ],
+      "providers": [
+        "32e07bb5-bc0a-4923-85ac-c9f39dcb1d6e"
+      ]
+    },
+    "resource_type_code": "listening",
+    "creator": "452549659032",
+    "language": "zh-CN",
+    "create_time": "2025-08-21T16:23:44.001+0800",
+    "update_time": "2026-01-22T02:02:49.204+0800",
+    "tag_list": [
+      {
+        "tag_id": "5036342831",
+        "tag_name": "听力",
+        "tag_dimension_id": "bklx",
+        "order_num": 18
+      },
+      {
+        "tag_id": "362880194a9ec684014a9f0dfa190056",
+        "tag_name": "沪教版",
+        "tag_dimension_id": "zxxbb",
+        "order_num": 231
+      },
+      {
+        "tag_id": "ff8080814371757b014390f883db0453",
+        "tag_name": "上册",
+        "tag_dimension_id": "zxxcc",
+        "order_num": 238
+      },
+      {
+        "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "四年级",
+        "tag_dimension_id": "zxxnj",
+        "order_num": 13
+      },
+      {
+        "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "小学",
+        "tag_dimension_id": "zxxxd",
+        "order_num": 0
+      },
+      {
+        "tag_id": "5136342961",
+        "tag_name": "新教材",
+        "tag_dimension_id": "zxxxjjc",
+        "order_num": 0
+      },
+      {
+        "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+        "tag_name": "英语",
+        "tag_dimension_id": "zxxxk",
+        "order_num": 9
+      }
+    ],
+    "status": "ONLINE",
+    "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "resource_type_code_name": "听力",
+    "ti_items": [
+      {
+        "ti_md5": "76f41d9bf767bbe5463b57349cbda090",
+        "ti_size": 9263063,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.mp3"
+        ],
+        "ti_file_flag": "href",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT6M25S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192013"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192013\",\"Duration\":\"385933\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "9263063"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "2d8473f339a761381c76a6a4d9492f30",
+        "ti_size": 4320906,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/clip-9e2ae731-8a0e-3444-1b68-a7165ae5ea34.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/clip-9e2ae731-8a0e-3444-1b68-a7165ae5ea34.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/clip-9e2ae731-8a0e-3444-1b68-a7165ae5ea34.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/clip-9e2ae731-8a0e-3444-1b68-a7165ae5ea34.mp3"
+        ],
+        "ti_file_flag": "href-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192029"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192029\",\"Duration\":\"180009\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "4320906"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "af37c3c46b4939c91a6f13ca2423d16e",
+        "ti_size": 7016746,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.ogg"
+        ],
+        "ti_file_flag": "href-ogg",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT6M25S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "145459"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"145459\",\"Duration\":\"385906\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "7016746"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "f8fb0bcdb951c05a66f20bafbc0c44b8",
+        "ti_size": 3235013,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/clip-9e2ae731-8a0e-3444-1b68-a7165ae5ea34.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/clip-9e2ae731-8a0e-3444-1b68-a7165ae5ea34.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/clip-9e2ae731-8a0e-3444-1b68-a7165ae5ea34.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.t/zh-CN/1755764496639/transcode/audios/clip-9e2ae731-8a0e-3444-1b68-a7165ae5ea34.ogg"
+        ],
+        "ti_file_flag": "href-ogg-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "143769"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"143769\",\"Duration\":\"180011\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "3235013"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "739213373baf09cd64e98b6be7415727",
+        "ti_size": 6160373,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.pkg/03_4A_Unit 3.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.pkg/03_4A_Unit 3.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.pkg/03_4A_Unit 3.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/9e2ae731-8a0e-3444-1b68-a7165ae5ea34.pkg/03_4A_Unit 3.mp3"
+        ],
+        "ti_file_flag": "source",
+        "ti_is_source_file": true,
+        "custom_properties": {
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      }
+    ],
+    "resource_custom_properties": {
+      "version_visible": "RELEASE",
+      "ppt_sort": 6448044,
+      "audit_status": "AUDIT_WAITING",
+      "resource_source": "COPY",
+      "copy_from": "9e2ae731-8a0e-3444-1b68-a7165ae5ea34",
+      "is_top": 0,
+      "compound_node": "sub",
+      "thumbnail_audit_status": "AUDIT_WAITING"
+    },
+    "online_time": "2025-12-12T10:49:15.113+0800",
+    "chapter_ids": [],
+    "chapter_paths": [],
+    "teachmeterial_ids": [],
+    "tag_paths": [],
+    "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "tenant_id": "1",
+    "resource_structure": {
+      "chapter_tree": {}
+    },
+    "version_id": "36e487e5-8566-260e-2b4e-58035fef7622",
+    "title": "03_4A_Unit 3",
+    "description": ""
+  },
+  {
+    "id": "0099c207-1bd0-0828-d24f-5e430cc66399",
+    "global_title": {
+      "zh-CN": "04_4A_Unit 4"
+    },
+    "global_description": {
+      "zh-CN": ""
+    },
+    "global_keywords": {},
+    "global_label": {},
+    "custom_properties": {
+      "import_template_name": "891行-听力：新增新版教材上海教育出版社（六·三学制）英语配套音频4册128条-录入四上和八上_1755764348270",
+      "auto_fill_thumb": true,
+      "prom_resouce_type": "assets_audio",
+      "purpose": "listening_to_text",
+      "ext_properties": {
+        "origin_type": "听力"
+      },
+      "cont_play": false,
+      "copyright_holder_ids": [],
+      "audit_status": "AUDIT_WAITING",
+      "sys_resource_space": 30564659,
+      "global_preview": {},
+      "sys_trans_status": "TRANSCODED",
+      "format": "mp3",
+      "faculty_advisor_ids": [],
+      "producer_ids": [],
+      "teacher_ids": [],
+      "origin_type": "听力",
+      "producers": [],
+      "thumbnail_audit_status": "AUDIT_WAITING",
+      "size": 5974808,
+      "global_resource_id": "0099c207-1bd0-0828-d24f-5e430cc66399",
+      "thumbnails": [
+        "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/resources/default_thumb/listening.png"
+      ],
+      "providers": [
+        "32e07bb5-bc0a-4923-85ac-c9f39dcb1d6e"
+      ]
+    },
+    "resource_type_code": "listening",
+    "creator": "452549659032",
+    "language": "zh-CN",
+    "create_time": "2025-08-21T16:23:44.258+0800",
+    "update_time": "2026-01-22T02:02:49.223+0800",
+    "tag_list": [
+      {
+        "tag_id": "5036342831",
+        "tag_name": "听力",
+        "tag_dimension_id": "bklx",
+        "order_num": 18
+      },
+      {
+        "tag_id": "362880194a9ec684014a9f0dfa190056",
+        "tag_name": "沪教版",
+        "tag_dimension_id": "zxxbb",
+        "order_num": 231
+      },
+      {
+        "tag_id": "ff8080814371757b014390f883db0453",
+        "tag_name": "上册",
+        "tag_dimension_id": "zxxcc",
+        "order_num": 238
+      },
+      {
+        "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "四年级",
+        "tag_dimension_id": "zxxnj",
+        "order_num": 13
+      },
+      {
+        "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "小学",
+        "tag_dimension_id": "zxxxd",
+        "order_num": 0
+      },
+      {
+        "tag_id": "5136342961",
+        "tag_name": "新教材",
+        "tag_dimension_id": "zxxxjjc",
+        "order_num": 0
+      },
+      {
+        "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+        "tag_name": "英语",
+        "tag_dimension_id": "zxxxk",
+        "order_num": 9
+      }
+    ],
+    "status": "ONLINE",
+    "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "resource_type_code_name": "听力",
+    "ti_items": [
+      {
+        "ti_md5": "3b811cfdb5837e3469dc068bb1298d28",
+        "ti_size": 8984075,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.mp3"
+        ],
+        "ti_file_flag": "href",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT6M14S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192014"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192014\",\"Duration\":\"374308\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "8984075"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "3c50249699aa8cd7f8ee318853807ad2",
+        "ti_size": 4320906,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/clip-91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/clip-91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/clip-91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/clip-91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.mp3"
+        ],
+        "ti_file_flag": "href-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192029"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192029\",\"Duration\":\"180009\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "4320906"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "0e4661a872360a46ec41c8bdd7a983de",
+        "ti_size": 7714344,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.ogg"
+        ],
+        "ti_file_flag": "href-ogg",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT6M14S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "164888"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"164888\",\"Duration\":\"374282\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "7714344"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "28c939132bd8266e5713b7d697692ae3",
+        "ti_size": 3570526,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/clip-91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/clip-91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/clip-91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.t/zh-CN/1755764496679/transcode/audios/clip-91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.ogg"
+        ],
+        "ti_file_flag": "href-ogg-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "158672"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"158672\",\"Duration\":\"180019\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "3570526"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "3fd4785e0920c794ee673de613b6d83c",
+        "ti_size": 5974808,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.pkg/04_4A_Unit 4.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.pkg/04_4A_Unit 4.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.pkg/04_4A_Unit 4.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/91d92d67-027f-89d0-32b5-2ba0fe1a1fd0.pkg/04_4A_Unit 4.mp3"
+        ],
+        "ti_file_flag": "source",
+        "ti_is_source_file": true,
+        "custom_properties": {
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      }
+    ],
+    "resource_custom_properties": {
+      "version_visible": "RELEASE",
+      "ppt_sort": 4771589,
+      "audit_status": "AUDIT_WAITING",
+      "resource_source": "COPY",
+      "copy_from": "91d92d67-027f-89d0-32b5-2ba0fe1a1fd0",
+      "is_top": 0,
+      "compound_node": "sub",
+      "thumbnail_audit_status": "AUDIT_WAITING"
+    },
+    "online_time": "2025-12-12T10:49:15.119+0800",
+    "chapter_ids": [],
+    "chapter_paths": [],
+    "teachmeterial_ids": [],
+    "tag_paths": [],
+    "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "tenant_id": "1",
+    "resource_structure": {
+      "chapter_tree": {}
+    },
+    "version_id": "0099c207-1bd0-0828-d24f-5e430cc66399",
+    "title": "04_4A_Unit 4",
+    "description": ""
+  },
+  {
+    "id": "622f7508-8db2-c8a1-5401-dce2bedea816",
+    "global_title": {
+      "zh-CN": "05_4A_Unit 5"
+    },
+    "global_description": {
+      "zh-CN": ""
+    },
+    "global_keywords": {},
+    "global_label": {},
+    "custom_properties": {
+      "import_template_name": "891行-听力：新增新版教材上海教育出版社（六·三学制）英语配套音频4册128条-录入四上和八上_1755764348270",
+      "auto_fill_thumb": true,
+      "prom_resouce_type": "assets_audio",
+      "purpose": "listening_to_text",
+      "ext_properties": {
+        "origin_type": "听力"
+      },
+      "cont_play": false,
+      "copyright_holder_ids": [],
+      "audit_status": "AUDIT_WAITING",
+      "sys_resource_space": 31338405,
+      "global_preview": {},
+      "sys_trans_status": "TRANSCODED",
+      "format": "mp3",
+      "faculty_advisor_ids": [],
+      "producer_ids": [],
+      "teacher_ids": [],
+      "origin_type": "听力",
+      "producers": [],
+      "thumbnail_audit_status": "AUDIT_WAITING",
+      "size": 5998160,
+      "global_resource_id": "622f7508-8db2-c8a1-5401-dce2bedea816",
+      "thumbnails": [
+        "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/resources/default_thumb/listening.png"
+      ],
+      "providers": [
+        "32e07bb5-bc0a-4923-85ac-c9f39dcb1d6e"
+      ]
+    },
+    "resource_type_code": "listening",
+    "creator": "452549659032",
+    "language": "zh-CN",
+    "create_time": "2025-08-21T16:23:44.501+0800",
+    "update_time": "2026-01-22T02:02:49.342+0800",
+    "tag_list": [
+      {
+        "tag_id": "5036342831",
+        "tag_name": "听力",
+        "tag_dimension_id": "bklx",
+        "order_num": 18
+      },
+      {
+        "tag_id": "362880194a9ec684014a9f0dfa190056",
+        "tag_name": "沪教版",
+        "tag_dimension_id": "zxxbb",
+        "order_num": 231
+      },
+      {
+        "tag_id": "ff8080814371757b014390f883db0453",
+        "tag_name": "上册",
+        "tag_dimension_id": "zxxcc",
+        "order_num": 238
+      },
+      {
+        "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "四年级",
+        "tag_dimension_id": "zxxnj",
+        "order_num": 13
+      },
+      {
+        "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "小学",
+        "tag_dimension_id": "zxxxd",
+        "order_num": 0
+      },
+      {
+        "tag_id": "5136342961",
+        "tag_name": "新教材",
+        "tag_dimension_id": "zxxxjjc",
+        "order_num": 0
+      },
+      {
+        "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+        "tag_name": "英语",
+        "tag_dimension_id": "zxxxk",
+        "order_num": 9
+      }
+    ],
+    "status": "ONLINE",
+    "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "resource_type_code_name": "听力",
+    "ti_items": [
+      {
+        "ti_md5": "4a3c56bf9ce256dafda2b8f1a66d3ab2",
+        "ti_size": 9019184,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/c028ecad-67ad-bb50-411a-6f34260db0c0.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/c028ecad-67ad-bb50-411a-6f34260db0c0.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/c028ecad-67ad-bb50-411a-6f34260db0c0.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/c028ecad-67ad-bb50-411a-6f34260db0c0.mp3"
+        ],
+        "ti_file_flag": "href",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT6M15S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192014"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192014\",\"Duration\":\"375771\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "9019184"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "0133896a2a5355f3f929f4ba01edb3c3",
+        "ti_size": 4320906,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/clip-c028ecad-67ad-bb50-411a-6f34260db0c0.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/clip-c028ecad-67ad-bb50-411a-6f34260db0c0.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/clip-c028ecad-67ad-bb50-411a-6f34260db0c0.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/clip-c028ecad-67ad-bb50-411a-6f34260db0c0.mp3"
+        ],
+        "ti_file_flag": "href-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192029"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192029\",\"Duration\":\"180009\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "4320906"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "868d231467c9cca1b76f1175d6d1ad36",
+        "ti_size": 7967264,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/c028ecad-67ad-bb50-411a-6f34260db0c0.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/c028ecad-67ad-bb50-411a-6f34260db0c0.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/c028ecad-67ad-bb50-411a-6f34260db0c0.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/c028ecad-67ad-bb50-411a-6f34260db0c0.ogg"
+        ],
+        "ti_file_flag": "href-ogg",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT6M15S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "169631"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"169631\",\"Duration\":\"375745\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "7967264"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "8ccbafd7a644f4c4767668828a179ff8",
+        "ti_size": 4032891,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/clip-c028ecad-67ad-bb50-411a-6f34260db0c0.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/clip-c028ecad-67ad-bb50-411a-6f34260db0c0.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/clip-c028ecad-67ad-bb50-411a-6f34260db0c0.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.t/zh-CN/1755764496708/transcode/audios/clip-c028ecad-67ad-bb50-411a-6f34260db0c0.ogg"
+        ],
+        "ti_file_flag": "href-ogg-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "179222"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"179222\",\"Duration\":\"180017\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "4032891"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "66cacde96974089a38a2a4b1f8c574dc",
+        "ti_size": 5998160,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.pkg/05_4A_Unit 5.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.pkg/05_4A_Unit 5.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.pkg/05_4A_Unit 5.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c028ecad-67ad-bb50-411a-6f34260db0c0.pkg/05_4A_Unit 5.mp3"
+        ],
+        "ti_file_flag": "source",
+        "ti_is_source_file": true,
+        "custom_properties": {
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      }
+    ],
+    "resource_custom_properties": {
+      "version_visible": "RELEASE",
+      "ppt_sort": 6471698,
+      "audit_status": "AUDIT_WAITING",
+      "resource_source": "COPY",
+      "copy_from": "c028ecad-67ad-bb50-411a-6f34260db0c0",
+      "is_top": 0,
+      "compound_node": "sub",
+      "thumbnail_audit_status": "AUDIT_WAITING"
+    },
+    "online_time": "2025-12-12T10:49:15.126+0800",
+    "chapter_ids": [],
+    "chapter_paths": [],
+    "teachmeterial_ids": [],
+    "tag_paths": [],
+    "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "tenant_id": "1",
+    "resource_structure": {
+      "chapter_tree": {}
+    },
+    "version_id": "622f7508-8db2-c8a1-5401-dce2bedea816",
+    "title": "05_4A_Unit 5",
+    "description": ""
+  },
+  {
+    "id": "534fd62d-d0e9-510b-48d3-a51a715a231f",
+    "global_title": {
+      "zh-CN": "06_4A_Unit 6"
+    },
+    "global_description": {
+      "zh-CN": ""
+    },
+    "global_keywords": {},
+    "global_label": {},
+    "custom_properties": {
+      "import_template_name": "891行-听力：新增新版教材上海教育出版社（六·三学制）英语配套音频4册128条-录入四上和八上_1755764348270",
+      "auto_fill_thumb": true,
+      "prom_resouce_type": "assets_audio",
+      "purpose": "listening_to_text",
+      "ext_properties": {
+        "origin_type": "听力"
+      },
+      "cont_play": false,
+      "copyright_holder_ids": [],
+      "audit_status": "AUDIT_WAITING",
+      "sys_resource_space": 26189097,
+      "global_preview": {},
+      "sys_trans_status": "TRANSCODED",
+      "format": "mp3",
+      "faculty_advisor_ids": [],
+      "producer_ids": [],
+      "teacher_ids": [],
+      "origin_type": "听力",
+      "producers": [],
+      "thumbnail_audit_status": "AUDIT_WAITING",
+      "size": 4936478,
+      "global_resource_id": "534fd62d-d0e9-510b-48d3-a51a715a231f",
+      "thumbnails": [
+        "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/resources/default_thumb/listening.png"
+      ],
+      "providers": [
+        "32e07bb5-bc0a-4923-85ac-c9f39dcb1d6e"
+      ]
+    },
+    "resource_type_code": "listening",
+    "creator": "452549659032",
+    "language": "zh-CN",
+    "create_time": "2025-08-21T16:23:44.736+0800",
+    "update_time": "2026-01-22T02:02:49.345+0800",
+    "tag_list": [
+      {
+        "tag_id": "5036342831",
+        "tag_name": "听力",
+        "tag_dimension_id": "bklx",
+        "order_num": 18
+      },
+      {
+        "tag_id": "362880194a9ec684014a9f0dfa190056",
+        "tag_name": "沪教版",
+        "tag_dimension_id": "zxxbb",
+        "order_num": 231
+      },
+      {
+        "tag_id": "ff8080814371757b014390f883db0453",
+        "tag_name": "上册",
+        "tag_dimension_id": "zxxcc",
+        "order_num": 238
+      },
+      {
+        "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "四年级",
+        "tag_dimension_id": "zxxnj",
+        "order_num": 13
+      },
+      {
+        "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "小学",
+        "tag_dimension_id": "zxxxd",
+        "order_num": 0
+      },
+      {
+        "tag_id": "5136342961",
+        "tag_name": "新教材",
+        "tag_dimension_id": "zxxxjjc",
+        "order_num": 0
+      },
+      {
+        "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+        "tag_name": "英语",
+        "tag_dimension_id": "zxxxk",
+        "order_num": 9
+      }
+    ],
+    "status": "ONLINE",
+    "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "resource_type_code_name": "听力",
+    "ti_items": [
+      {
+        "ti_md5": "6193c085614c610f47f807eafc28f6a3",
+        "ti_size": 7422998,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/e92697da-4f0c-8f5b-61e5-2718ea1e574a.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/e92697da-4f0c-8f5b-61e5-2718ea1e574a.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/e92697da-4f0c-8f5b-61e5-2718ea1e574a.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/e92697da-4f0c-8f5b-61e5-2718ea1e574a.mp3"
+        ],
+        "ti_file_flag": "href",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT5M9S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192017"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192017\",\"Duration\":\"309263\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "7422998"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "7b81dd10e16e433ac813f4ecd211d086",
+        "ti_size": 4320906,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/clip-e92697da-4f0c-8f5b-61e5-2718ea1e574a.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/clip-e92697da-4f0c-8f5b-61e5-2718ea1e574a.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/clip-e92697da-4f0c-8f5b-61e5-2718ea1e574a.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/clip-e92697da-4f0c-8f5b-61e5-2718ea1e574a.mp3"
+        ],
+        "ti_file_flag": "href-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192029"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192029\",\"Duration\":\"180009\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "4320906"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "4d536b64673964a51f52c4cba590da4b",
+        "ti_size": 5970916,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/e92697da-4f0c-8f5b-61e5-2718ea1e574a.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/e92697da-4f0c-8f5b-61e5-2718ea1e574a.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/e92697da-4f0c-8f5b-61e5-2718ea1e574a.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/e92697da-4f0c-8f5b-61e5-2718ea1e574a.ogg"
+        ],
+        "ti_file_flag": "href-ogg",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT5M9S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "154468"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"154468\",\"Duration\":\"309237\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "5970916"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "f82fa45e09a6672a47b81dcab68e482b",
+        "ti_size": 3537799,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/clip-e92697da-4f0c-8f5b-61e5-2718ea1e574a.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/clip-e92697da-4f0c-8f5b-61e5-2718ea1e574a.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/clip-e92697da-4f0c-8f5b-61e5-2718ea1e574a.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.t/zh-CN/1755764496815/transcode/audios/clip-e92697da-4f0c-8f5b-61e5-2718ea1e574a.ogg"
+        ],
+        "ti_file_flag": "href-ogg-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "157233"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"157233\",\"Duration\":\"180002\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "3537799"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "ec954a421a3222d5aa001c8fb47e3320",
+        "ti_size": 4936478,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.pkg/06_4A_Unit 6.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.pkg/06_4A_Unit 6.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.pkg/06_4A_Unit 6.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e92697da-4f0c-8f5b-61e5-2718ea1e574a.pkg/06_4A_Unit 6.mp3"
+        ],
+        "ti_file_flag": "source",
+        "ti_is_source_file": true,
+        "custom_properties": {
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      }
+    ],
+    "resource_custom_properties": {
+      "version_visible": "RELEASE",
+      "ppt_sort": 972685,
+      "audit_status": "AUDIT_WAITING",
+      "resource_source": "COPY",
+      "copy_from": "e92697da-4f0c-8f5b-61e5-2718ea1e574a",
+      "is_top": 0,
+      "compound_node": "sub",
+      "thumbnail_audit_status": "AUDIT_WAITING"
+    },
+    "online_time": "2025-12-12T10:49:15.132+0800",
+    "chapter_ids": [],
+    "chapter_paths": [],
+    "teachmeterial_ids": [],
+    "tag_paths": [],
+    "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "tenant_id": "1",
+    "resource_structure": {
+      "chapter_tree": {}
+    },
+    "version_id": "534fd62d-d0e9-510b-48d3-a51a715a231f",
+    "title": "06_4A_Unit 6",
+    "description": ""
+  },
+  {
+    "id": "e0d9dc83-6ebd-6aea-10f5-5a113fb7c7a3",
+    "global_title": {
+      "zh-CN": "07_4A_Unit 7"
+    },
+    "global_description": {
+      "zh-CN": ""
+    },
+    "global_keywords": {},
+    "global_label": {},
+    "custom_properties": {
+      "import_template_name": "891行-听力：新增新版教材上海教育出版社（六·三学制）英语配套音频4册128条-录入四上和八上_1755764348270",
+      "auto_fill_thumb": true,
+      "prom_resouce_type": "assets_audio",
+      "purpose": "listening_to_text",
+      "ext_properties": {
+        "origin_type": "听力"
+      },
+      "cont_play": false,
+      "copyright_holder_ids": [],
+      "audit_status": "AUDIT_WAITING",
+      "sys_resource_space": 25275603,
+      "global_preview": {},
+      "sys_trans_status": "TRANSCODED",
+      "format": "mp3",
+      "faculty_advisor_ids": [],
+      "producer_ids": [],
+      "teacher_ids": [],
+      "origin_type": "听力",
+      "producers": [],
+      "thumbnail_audit_status": "AUDIT_WAITING",
+      "size": 4637489,
+      "global_resource_id": "e0d9dc83-6ebd-6aea-10f5-5a113fb7c7a3",
+      "thumbnails": [
+        "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/resources/default_thumb/listening.png"
+      ],
+      "providers": [
+        "32e07bb5-bc0a-4923-85ac-c9f39dcb1d6e"
+      ]
+    },
+    "resource_type_code": "listening",
+    "creator": "452549659032",
+    "language": "zh-CN",
+    "create_time": "2025-08-21T16:23:45.040+0800",
+    "update_time": "2026-01-22T02:02:49.351+0800",
+    "tag_list": [
+      {
+        "tag_id": "5036342831",
+        "tag_name": "听力",
+        "tag_dimension_id": "bklx",
+        "order_num": 18
+      },
+      {
+        "tag_id": "362880194a9ec684014a9f0dfa190056",
+        "tag_name": "沪教版",
+        "tag_dimension_id": "zxxbb",
+        "order_num": 231
+      },
+      {
+        "tag_id": "ff8080814371757b014390f883db0453",
+        "tag_name": "上册",
+        "tag_dimension_id": "zxxcc",
+        "order_num": 238
+      },
+      {
+        "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "四年级",
+        "tag_dimension_id": "zxxnj",
+        "order_num": 13
+      },
+      {
+        "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "小学",
+        "tag_dimension_id": "zxxxd",
+        "order_num": 0
+      },
+      {
+        "tag_id": "5136342961",
+        "tag_name": "新教材",
+        "tag_dimension_id": "zxxxjjc",
+        "order_num": 0
+      },
+      {
+        "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+        "tag_name": "英语",
+        "tag_dimension_id": "zxxxk",
+        "order_num": 9
+      }
+    ],
+    "status": "ONLINE",
+    "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "resource_type_code_name": "听力",
+    "ti_items": [
+      {
+        "ti_md5": "0e62b3874137bec78307b214590d38cd",
+        "ti_size": 6973483,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/333066b9-9e69-3d1c-6b47-3738c91766b4.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/333066b9-9e69-3d1c-6b47-3738c91766b4.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/333066b9-9e69-3d1c-6b47-3738c91766b4.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/333066b9-9e69-3d1c-6b47-3738c91766b4.mp3"
+        ],
+        "ti_file_flag": "href",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT4M50S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192018"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192018\",\"Duration\":\"290533\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "6973483"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "57ae173a783b64dbbc89b98f4506f65e",
+        "ti_size": 4320906,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/clip-333066b9-9e69-3d1c-6b47-3738c91766b4.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/clip-333066b9-9e69-3d1c-6b47-3738c91766b4.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/clip-333066b9-9e69-3d1c-6b47-3738c91766b4.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/clip-333066b9-9e69-3d1c-6b47-3738c91766b4.mp3"
+        ],
+        "ti_file_flag": "href-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192029"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192029\",\"Duration\":\"180009\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "4320906"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "969903aebbc5d684326d8e6a0169084c",
+        "ti_size": 5712648,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/333066b9-9e69-3d1c-6b47-3738c91766b4.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/333066b9-9e69-3d1c-6b47-3738c91766b4.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/333066b9-9e69-3d1c-6b47-3738c91766b4.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/333066b9-9e69-3d1c-6b47-3738c91766b4.ogg"
+        ],
+        "ti_file_flag": "href-ogg",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT4M50S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "157314"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"157314\",\"Duration\":\"290507\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "5712648"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "0df206d07d73e10e60c8aefc7d0eaf59",
+        "ti_size": 3631077,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/clip-333066b9-9e69-3d1c-6b47-3738c91766b4.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/clip-333066b9-9e69-3d1c-6b47-3738c91766b4.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/clip-333066b9-9e69-3d1c-6b47-3738c91766b4.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.t/zh-CN/1755764496851/transcode/audios/clip-333066b9-9e69-3d1c-6b47-3738c91766b4.ogg"
+        ],
+        "ti_file_flag": "href-ogg-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "161368"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"161368\",\"Duration\":\"180014\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "3631077"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "77dc1eb390bc0154eb7f871efe5ee592",
+        "ti_size": 4637489,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.pkg/07_4A_Unit 7.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.pkg/07_4A_Unit 7.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.pkg/07_4A_Unit 7.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/333066b9-9e69-3d1c-6b47-3738c91766b4.pkg/07_4A_Unit 7.mp3"
+        ],
+        "ti_file_flag": "source",
+        "ti_is_source_file": true,
+        "custom_properties": {
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      }
+    ],
+    "resource_custom_properties": {
+      "version_visible": "RELEASE",
+      "ppt_sort": 345479,
+      "audit_status": "AUDIT_WAITING",
+      "resource_source": "COPY",
+      "copy_from": "333066b9-9e69-3d1c-6b47-3738c91766b4",
+      "is_top": 0,
+      "compound_node": "sub",
+      "thumbnail_audit_status": "AUDIT_WAITING"
+    },
+    "online_time": "2025-12-12T10:49:15.138+0800",
+    "chapter_ids": [],
+    "chapter_paths": [],
+    "teachmeterial_ids": [],
+    "tag_paths": [],
+    "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "tenant_id": "1",
+    "resource_structure": {
+      "chapter_tree": {}
+    },
+    "version_id": "e0d9dc83-6ebd-6aea-10f5-5a113fb7c7a3",
+    "title": "07_4A_Unit 7",
+    "description": ""
+  },
+  {
+    "id": "7d68a7e4-be77-37c8-fc69-bdbc9c1a5099",
+    "global_title": {
+      "zh-CN": "08_4A_Unit 8"
+    },
+    "global_description": {
+      "zh-CN": ""
+    },
+    "global_keywords": {},
+    "global_label": {},
+    "custom_properties": {
+      "import_template_name": "891行-听力：新增新版教材上海教育出版社（六·三学制）英语配套音频4册128条-录入四上和八上_1755764348270",
+      "auto_fill_thumb": true,
+      "prom_resouce_type": "assets_audio",
+      "purpose": "listening_to_text",
+      "ext_properties": {
+        "origin_type": "听力"
+      },
+      "cont_play": false,
+      "copyright_holder_ids": [],
+      "audit_status": "AUDIT_WAITING",
+      "sys_resource_space": 28399279,
+      "global_preview": {},
+      "sys_trans_status": "TRANSCODED",
+      "format": "mp3",
+      "faculty_advisor_ids": [],
+      "producer_ids": [],
+      "teacher_ids": [],
+      "origin_type": "听力",
+      "producers": [],
+      "thumbnail_audit_status": "AUDIT_WAITING",
+      "size": 5685827,
+      "global_resource_id": "7d68a7e4-be77-37c8-fc69-bdbc9c1a5099",
+      "thumbnails": [
+        "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/resources/default_thumb/listening.png"
+      ],
+      "providers": [
+        "32e07bb5-bc0a-4923-85ac-c9f39dcb1d6e"
+      ]
+    },
+    "resource_type_code": "listening",
+    "creator": "452549659032",
+    "language": "zh-CN",
+    "create_time": "2025-08-21T16:23:45.291+0800",
+    "update_time": "2026-01-22T02:02:49.347+0800",
+    "tag_list": [
+      {
+        "tag_id": "5036342831",
+        "tag_name": "听力",
+        "tag_dimension_id": "bklx",
+        "order_num": 18
+      },
+      {
+        "tag_id": "362880194a9ec684014a9f0dfa190056",
+        "tag_name": "沪教版",
+        "tag_dimension_id": "zxxbb",
+        "order_num": 231
+      },
+      {
+        "tag_id": "ff8080814371757b014390f883db0453",
+        "tag_name": "上册",
+        "tag_dimension_id": "zxxcc",
+        "order_num": 238
+      },
+      {
+        "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "四年级",
+        "tag_dimension_id": "zxxnj",
+        "order_num": 13
+      },
+      {
+        "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "小学",
+        "tag_dimension_id": "zxxxd",
+        "order_num": 0
+      },
+      {
+        "tag_id": "5136342961",
+        "tag_name": "新教材",
+        "tag_dimension_id": "zxxxjjc",
+        "order_num": 0
+      },
+      {
+        "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+        "tag_name": "英语",
+        "tag_dimension_id": "zxxxk",
+        "order_num": 9
+      }
+    ],
+    "status": "ONLINE",
+    "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "resource_type_code_name": "听力",
+    "ti_items": [
+      {
+        "ti_md5": "78651f9e2a1928b2cde609268a6abdb2",
+        "ti_size": 8549607,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/065c40dc-3f4b-178f-8149-d2a8b2789e0a.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/065c40dc-3f4b-178f-8149-d2a8b2789e0a.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/065c40dc-3f4b-178f-8149-d2a8b2789e0a.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/065c40dc-3f4b-178f-8149-d2a8b2789e0a.mp3"
+        ],
+        "ti_file_flag": "href",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT5M56S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192015"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192015\",\"Duration\":\"356205\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "8549607"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "6a7a8c8d5a690d3f7304b04820a31ac6",
+        "ti_size": 4320906,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/clip-065c40dc-3f4b-178f-8149-d2a8b2789e0a.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/clip-065c40dc-3f4b-178f-8149-d2a8b2789e0a.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/clip-065c40dc-3f4b-178f-8149-d2a8b2789e0a.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/clip-065c40dc-3f4b-178f-8149-d2a8b2789e0a.mp3"
+        ],
+        "ti_file_flag": "href-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192029"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192029\",\"Duration\":\"180009\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "4320906"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "409878cb6c3fb8939dd92bf80ba07613",
+        "ti_size": 6761886,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/065c40dc-3f4b-178f-8149-d2a8b2789e0a.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/065c40dc-3f4b-178f-8149-d2a8b2789e0a.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/065c40dc-3f4b-178f-8149-d2a8b2789e0a.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/065c40dc-3f4b-178f-8149-d2a8b2789e0a.ogg"
+        ],
+        "ti_file_flag": "href-ogg",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT5M56S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "151875"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"151875\",\"Duration\":\"356179\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "6761886"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "a2d15462b9da4191ae3bf7faa03d830c",
+        "ti_size": 3081053,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/clip-065c40dc-3f4b-178f-8149-d2a8b2789e0a.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/clip-065c40dc-3f4b-178f-8149-d2a8b2789e0a.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/clip-065c40dc-3f4b-178f-8149-d2a8b2789e0a.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.t/zh-CN/1755764496874/transcode/audios/clip-065c40dc-3f4b-178f-8149-d2a8b2789e0a.ogg"
+        ],
+        "ti_file_flag": "href-ogg-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "136934"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"136934\",\"Duration\":\"180001\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "3081053"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "8e9f17918b371bfdd47626c5c6019bd8",
+        "ti_size": 5685827,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.pkg/08_4A_Unit 8.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.pkg/08_4A_Unit 8.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.pkg/08_4A_Unit 8.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/065c40dc-3f4b-178f-8149-d2a8b2789e0a.pkg/08_4A_Unit 8.mp3"
+        ],
+        "ti_file_flag": "source",
+        "ti_is_source_file": true,
+        "custom_properties": {
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      }
+    ],
+    "resource_custom_properties": {
+      "version_visible": "RELEASE",
+      "ppt_sort": 5101055,
+      "audit_status": "AUDIT_WAITING",
+      "resource_source": "COPY",
+      "copy_from": "065c40dc-3f4b-178f-8149-d2a8b2789e0a",
+      "is_top": 0,
+      "compound_node": "sub",
+      "thumbnail_audit_status": "AUDIT_WAITING"
+    },
+    "online_time": "2025-12-12T10:49:15.144+0800",
+    "chapter_ids": [],
+    "chapter_paths": [],
+    "teachmeterial_ids": [],
+    "tag_paths": [],
+    "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "tenant_id": "1",
+    "resource_structure": {
+      "chapter_tree": {}
+    },
+    "version_id": "7d68a7e4-be77-37c8-fc69-bdbc9c1a5099",
+    "title": "08_4A_Unit 8",
+    "description": ""
+  },
+  {
+    "id": "e93fb501-41ce-1171-2f6c-02512ddd2d46",
+    "global_title": {
+      "zh-CN": "09_4A_Word list"
+    },
+    "global_description": {
+      "zh-CN": ""
+    },
+    "global_keywords": {},
+    "global_label": {},
+    "custom_properties": {
+      "import_template_name": "891行-听力：新增新版教材上海教育出版社（六·三学制）英语配套音频4册128条-录入四上和八上_1755764348270",
+      "auto_fill_thumb": true,
+      "prom_resouce_type": "assets_audio",
+      "purpose": "listening_to_text",
+      "ext_properties": {
+        "origin_type": "听力"
+      },
+      "cont_play": false,
+      "copyright_holder_ids": [],
+      "audit_status": "AUDIT_WAITING",
+      "sys_resource_space": 47258137,
+      "global_preview": {},
+      "sys_trans_status": "TRANSCODED",
+      "format": "mp3",
+      "faculty_advisor_ids": [],
+      "producer_ids": [],
+      "teacher_ids": [],
+      "origin_type": "听力",
+      "producers": [],
+      "thumbnail_audit_status": "AUDIT_WAITING",
+      "size": 11584292,
+      "global_resource_id": "e93fb501-41ce-1171-2f6c-02512ddd2d46",
+      "thumbnails": [
+        "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/resources/default_thumb/listening.png"
+      ],
+      "providers": [
+        "32e07bb5-bc0a-4923-85ac-c9f39dcb1d6e"
+      ]
+    },
+    "resource_type_code": "listening",
+    "creator": "452549659032",
+    "language": "zh-CN",
+    "create_time": "2025-08-21T16:23:45.526+0800",
+    "update_time": "2026-01-22T02:01:38.575+0800",
+    "tag_list": [
+      {
+        "tag_id": "5036342831",
+        "tag_name": "听力",
+        "tag_dimension_id": "bklx",
+        "order_num": 18
+      },
+      {
+        "tag_id": "362880194a9ec684014a9f0dfa190056",
+        "tag_name": "沪教版",
+        "tag_dimension_id": "zxxbb",
+        "order_num": 231
+      },
+      {
+        "tag_id": "ff8080814371757b014390f883db0453",
+        "tag_name": "上册",
+        "tag_dimension_id": "zxxcc",
+        "order_num": 238
+      },
+      {
+        "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "四年级",
+        "tag_dimension_id": "zxxnj",
+        "order_num": 13
+      },
+      {
+        "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+        "tag_name": "小学",
+        "tag_dimension_id": "zxxxd",
+        "order_num": 0
+      },
+      {
+        "tag_id": "5136342961",
+        "tag_name": "新教材",
+        "tag_dimension_id": "zxxxjjc",
+        "order_num": 0
+      },
+      {
+        "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+        "tag_name": "英语",
+        "tag_dimension_id": "zxxxk",
+        "order_num": 9
+      }
+    ],
+    "status": "ONLINE",
+    "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "resource_type_code_name": "听力",
+    "ti_items": [
+      {
+        "ti_md5": "05ec0117dc05751b43d0f6d937411c43",
+        "ti_size": 17417656,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/420690bb-68b2-e29f-e2b7-301bfb38be6f.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/420690bb-68b2-e29f-e2b7-301bfb38be6f.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/420690bb-68b2-e29f-e2b7-301bfb38be6f.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/420690bb-68b2-e29f-e2b7-301bfb38be6f.mp3"
+        ],
+        "ti_file_flag": "href",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT12M5S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192007"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192007\",\"Duration\":\"725707\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "17417656"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "422e440170b76141e0fe0a72d448682a",
+        "ti_size": 4320906,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/clip-420690bb-68b2-e29f-e2b7-301bfb38be6f.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/clip-420690bb-68b2-e29f-e2b7-301bfb38be6f.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/clip-420690bb-68b2-e29f-e2b7-301bfb38be6f.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/clip-420690bb-68b2-e29f-e2b7-301bfb38be6f.mp3"
+        ],
+        "ti_file_flag": "href-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "mp3"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "192029"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"192029\",\"Duration\":\"180009\",\"Format\":\"mp3\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "4320906"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "ac17a3853b973976475f4b7cebf8e8d2",
+        "ti_size": 11253069,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/420690bb-68b2-e29f-e2b7-301bfb38be6f.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/420690bb-68b2-e29f-e2b7-301bfb38be6f.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/420690bb-68b2-e29f-e2b7-301bfb38be6f.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/420690bb-68b2-e29f-e2b7-301bfb38be6f.ogg"
+        ],
+        "ti_file_flag": "href-ogg",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT12M5S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "124055"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"124055\",\"Duration\":\"725681\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "11253069"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "fbdaa91a71fe1328a11d3a9ff5899519",
+        "ti_size": 2682214,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/clip-420690bb-68b2-e29f-e2b7-301bfb38be6f.ogg",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/clip-420690bb-68b2-e29f-e2b7-301bfb38be6f.ogg",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/clip-420690bb-68b2-e29f-e2b7-301bfb38be6f.ogg",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.t/zh-CN/1755764496904/transcode/audios/clip-420690bb-68b2-e29f-e2b7-301bfb38be6f.ogg"
+        ],
+        "ti_file_flag": "href-ogg-clip",
+        "ti_is_source_file": false,
+        "custom_properties": {
+          "requirements": [
+            {
+              "name": "Format",
+              "type": "QUOTA",
+              "value": "ogg"
+            },
+            {
+              "name": "Duration",
+              "type": "QUOTA",
+              "value": "PT3M0S"
+            },
+            {
+              "name": "BitRate",
+              "type": "QUOTA",
+              "value": "119200"
+            },
+            {
+              "name": "Audio",
+              "type": "QUOTA",
+              "value": "[{\"BitRate\":\"119200\",\"Duration\":\"180014\",\"Format\":\"ogg\"}]"
+            },
+            {
+              "name": "FileSize",
+              "type": "QUOTA",
+              "value": "2682214"
+            },
+            {
+              "name": "clipEndTime",
+              "type": "QUOTA",
+              "value": "180"
+            },
+            {
+              "name": "clipStartTime",
+              "type": "QUOTA",
+              "value": "0"
+            }
+          ],
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "ogg",
+        "lc_ti_format": "audio/ogg",
+        "language": "zh-CN"
+      },
+      {
+        "ti_md5": "8dee4c1ec7c9d4dfc69d2b7e94a9f497",
+        "ti_size": 11584292,
+        "ti_storage": "cs_path:${ref-path}/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.pkg/09_4A_Word List.mp3",
+        "ti_storages": [
+          "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.pkg/09_4A_Word List.mp3",
+          "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.pkg/09_4A_Word List.mp3",
+          "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/420690bb-68b2-e29f-e2b7-301bfb38be6f.pkg/09_4A_Word List.mp3"
+        ],
+        "ti_file_flag": "source",
+        "ti_is_source_file": true,
+        "custom_properties": {
+          "identification": true
+        },
+        "ti_printable": false,
+        "ti_format": "mp3",
+        "lc_ti_format": "audio/mp3",
+        "language": "zh-CN"
+      }
+    ],
+    "resource_custom_properties": {
+      "version_visible": "RELEASE",
+      "ppt_sort": 7768051,
+      "audit_status": "AUDIT_WAITING",
+      "resource_source": "COPY",
+      "copy_from": "420690bb-68b2-e29f-e2b7-301bfb38be6f",
+      "is_top": 0,
+      "compound_node": "sub",
+      "thumbnail_audit_status": "AUDIT_WAITING"
+    },
+    "online_time": "2025-12-12T10:49:15.150+0800",
+    "chapter_ids": [],
+    "chapter_paths": [],
+    "teachmeterial_ids": [],
+    "tag_paths": [],
+    "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+    "tenant_id": "1",
+    "resource_structure": {
+      "chapter_tree": {}
+    },
+    "version_id": "e93fb501-41ce-1171-2f6c-02512ddd2d46",
+    "title": "09_4A_Word list",
+    "description": ""
+  }
+]

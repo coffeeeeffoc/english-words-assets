@@ -1,0 +1,11 @@
+# Local runtimes, caches, incomplete downloads and SQLite working files.
+.venv/
+__pycache__/
+*.py[cod]
+*.part
+*.build.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+.env
+.env.*

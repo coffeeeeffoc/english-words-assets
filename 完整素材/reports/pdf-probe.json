@@ -1,0 +1,50 @@
+[
+  {
+    "book_id": "8096f798-4e9e-7d9e-2494-2aab025ce254",
+    "title": "（根据2022年版课程标准修订）义务教育教科书•英语三年级下册",
+    "source_pdf": "materials/小学/英语/接力社版/（根据2022年版课程标准修订）义务教育教科书•英语三年级下册__8096f798/教材.pdf",
+    "pdf_sha256": "6a3e51f166ba70b01260e3dcaf72cc0103058fb0e10e66e01e06642c81179989",
+    "pages": [
+      73,
+      76
+    ],
+    "text_layer": true,
+    "ocr_required_for_sample": false,
+    "draft_entries": 125,
+    "status": "needs_review",
+    "notes": "Column crops restore reading order; draft requires line-by-line verification. Not included in verified coverage.",
+    "unparsed_lines": [
+      {
+        "page": 73,
+        "column": 1,
+        "text": "词汇表Ⅰ （"
+      },
+      {
+        "page": 73,
+        "column": 1,
+        "text": "（注：标注*的属于拓展词汇"
+      },
+      {
+        "page": 73,
+        "column": 2,
+        "text": "（三年级下册）"
+      }
+    ]
+  },
+  {
+    "book_id": "f7a7eb5e-12dc-4c96-a4b8-219ca3bcee19",
+    "title": "（根据2022年版课程标准修订）义务教育教科书·英语七年级下册",
+    "source_pdf": "materials/初中/英语/人教版/（根据2022年版课程标准修订）义务教育教科书·英语七年级下册__f7a7eb5e/教材.pdf",
+    "pdf_sha256": "23931ae73882e93c213b28fb32a713e1fd312bb6d3f22abe7d34625375c444a9",
+    "pages": [
+      106,
+      114
+    ],
+    "text_layer": true,
+    "ocr_required_for_sample": false,
+    "draft_entries": 0,
+    "status": "needs_review",
+    "notes": "Column crops restore reading order; draft requires line-by-line verification. Not included in verified coverage.",
+    "unparsed_lines": []
+  }
+]

@@ -1,0 +1,351 @@
+{
+  "id": "1f7fdc68-ac36-a661-3492-aa418d98fef1",
+  "global_title": {
+    "zh-CN": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册"
+  },
+  "global_description": {},
+  "global_keywords": {},
+  "global_label": {},
+  "custom_properties": {
+    "preview": {
+      "Slide6": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/6.jpg",
+      "Slide5": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/5.jpg",
+      "Slide8": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/8.jpg",
+      "Slide7": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/7.jpg",
+      "Slide2": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/2.jpg",
+      "Slide1": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/1.jpg",
+      "Slide4": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/4.jpg",
+      "Slide3": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/3.jpg",
+      "Slide9": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/9.jpg",
+      "Slide17": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/17.jpg",
+      "Slide16": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/16.jpg",
+      "Slide15": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/15.jpg",
+      "Slide14": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/14.jpg",
+      "Slide13": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/13.jpg",
+      "Slide12": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/12.jpg",
+      "Slide11": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/11.jpg",
+      "Slide10": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/10.jpg",
+      "Slide19": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/19.jpg",
+      "Slide18": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/18.jpg",
+      "Slide42": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/42.jpg",
+      "Slide41": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/41.jpg",
+      "Slide40": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/40.jpg",
+      "Slide49": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/49.jpg",
+      "Slide48": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/48.jpg",
+      "Slide47": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/47.jpg",
+      "Slide46": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/46.jpg",
+      "Slide45": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/45.jpg",
+      "Slide44": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/44.jpg",
+      "Slide43": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/43.jpg",
+      "Slide31": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/31.jpg",
+      "Slide30": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/30.jpg",
+      "Slide39": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/39.jpg",
+      "Slide38": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/38.jpg",
+      "Slide37": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/37.jpg",
+      "Slide36": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/36.jpg",
+      "Slide35": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/35.jpg",
+      "Slide34": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/34.jpg",
+      "Slide33": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/33.jpg",
+      "Slide32": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/32.jpg",
+      "Slide20": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/20.jpg",
+      "Slide28": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/28.jpg",
+      "Slide27": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/27.jpg",
+      "Slide26": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/26.jpg",
+      "Slide25": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/25.jpg",
+      "Slide24": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/24.jpg",
+      "Slide23": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/23.jpg",
+      "Slide22": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/22.jpg",
+      "Slide21": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/21.jpg",
+      "Slide29": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/29.jpg"
+    },
+    "import_template_name": "386-20240830-新增清华大学出版社教材1音频24条-已整理_1725351182980",
+    "auto_fill_thumb": true,
+    "prom_resouce_type": "assets_document",
+    "ext_properties": {},
+    "study_time": 980,
+    "has_hot_zone": true,
+    "audit_status": "AUDIT_WAITING",
+    "sys_resource_space": 521956414,
+    "resolution": "700*983",
+    "has_cont_play": true,
+    "height": "983",
+    "sys_trans_status": "TRANSCODED",
+    "format": "pdf",
+    "faculty_advisor_ids": [],
+    "teacher_ids": [],
+    "origin_type": "文档",
+    "thumbnail_audit_status": "AUDIT_WAITING",
+    "size": 453860482,
+    "width": "700",
+    "global_resource_id": "1f7fdc68-ac36-a661-3492-aa418d98fef1",
+    "thumbnails": [
+      "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/1.jpg?v=1737126031731"
+    ],
+    "providers": [
+      "7476586c-7b24-412e-86fd-5d817cab4582"
+    ]
+  },
+  "resource_type_code": "assets_document",
+  "creator": "452315580589",
+  "language": "zh-CN",
+  "create_time": "2024-09-03T16:13:06.138+0800",
+  "update_time": "2026-01-22T02:06:49.533+0800",
+  "tag_list": [
+    {
+      "tag_id": "ac92c18a-58c8-41da-86a5-f44afe3a90f7",
+      "tag_name": "电子教材",
+      "tag_dimension_id": "5036342742",
+      "order_num": 0
+    },
+    {
+      "tag_id": "b0446bf6-0fee-48d3-942e-39756a16a427",
+      "tag_name": "2024年度",
+      "tag_dimension_id": "bknd",
+      "order_num": 12
+    },
+    {
+      "tag_id": "36288018491df55b01492cc5a4d923c0",
+      "tag_name": "清华大学版",
+      "tag_dimension_id": "zxxbb",
+      "order_num": 251
+    },
+    {
+      "tag_id": "ff8080814371757b014390f883db0453",
+      "tag_name": "上册",
+      "tag_dimension_id": "zxxcc",
+      "order_num": 238
+    },
+    {
+      "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+      "tag_name": "三年级",
+      "tag_dimension_id": "zxxnj",
+      "order_num": 12
+    },
+    {
+      "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+      "tag_name": "小学",
+      "tag_dimension_id": "zxxxd",
+      "order_num": 0
+    },
+    {
+      "tag_id": "6a7495dc-0772-11ed-ac74-092ab92074e6",
+      "tag_name": "英语",
+      "tag_dimension_id": "zxxxk",
+      "order_num": 9
+    }
+  ],
+  "status": "ONLINE",
+  "create_container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+  "resource_type_code_name": "文档",
+  "ti_items": [
+    {
+      "ti_md5": "26c1717f447afdaefd3a74d07b185ba6",
+      "ti_size": 399730,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.pkg/hot_zone_data_1742649468287.txt",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.pkg/hot_zone_data_1742649468287.txt",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.pkg/hot_zone_data_1742649468287.txt",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.pkg/hot_zone_data_1742649468287.txt"
+      ],
+      "ti_file_flag": "hot_zone",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "txt",
+      "lc_ti_format": "text/plain",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "",
+      "ti_size": 67696202,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image"
+      ],
+      "ti_file_flag": "image",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "requirements": [
+          {
+            "name": "width",
+            "type": "QUOTA",
+            "value": "700"
+          },
+          {
+            "name": "pagesize",
+            "type": "QUOTA",
+            "value": "98"
+          },
+          {
+            "name": "height",
+            "type": "QUOTA",
+            "value": "983"
+          },
+          {
+            "name": "FileSize",
+            "type": "QUOTA",
+            "value": "453860482"
+          },
+          {
+            "name": "displaymode",
+            "type": "QUOTA",
+            "value": "vertical"
+          }
+        ],
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "folder",
+      "lc_ti_format": "image/jpg",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "30443663fbb217c0b5f158c351160368-87",
+      "ti_size": 453860482,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.pkg/教材-义务教育教科书·英语 三年级上册.pdf",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.pkg/教材-义务教育教科书·英语 三年级上册.pdf",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.pkg/教材-义务教育教科书·英语 三年级上册.pdf",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.pkg/教材-义务教育教科书·英语 三年级上册.pdf"
+      ],
+      "ti_file_flag": "source",
+      "ti_is_source_file": true,
+      "custom_properties": {
+        "requirements": [
+          {
+            "name": "width",
+            "type": "QUOTA",
+            "value": "700"
+          },
+          {
+            "name": "pagesize",
+            "type": "QUOTA",
+            "value": "98"
+          },
+          {
+            "name": "height",
+            "type": "QUOTA",
+            "value": "983"
+          },
+          {
+            "name": "FileSize",
+            "type": "QUOTA",
+            "value": "453860482"
+          },
+          {
+            "name": "displaymode",
+            "type": "QUOTA",
+            "value": "vertical"
+          }
+        ],
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "pdf",
+      "lc_ti_format": "pdf",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "30443663fbb217c0b5f158c351160368-87",
+      "ti_size": 67696202,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image"
+      ],
+      "ti_file_flag": "thumbnail",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "requirements": [
+          {
+            "name": "width",
+            "type": "QUOTA",
+            "value": "700"
+          },
+          {
+            "name": "pagesize",
+            "type": "QUOTA",
+            "value": "98"
+          },
+          {
+            "name": "height",
+            "type": "QUOTA",
+            "value": "983"
+          },
+          {
+            "name": "FileSize",
+            "type": "QUOTA",
+            "value": "453860482"
+          },
+          {
+            "name": "displaymode",
+            "type": "QUOTA",
+            "value": "vertical"
+          }
+        ],
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "folder",
+      "lc_ti_format": "image/jpg",
+      "language": "zh-CN"
+    },
+    {
+      "ti_md5": "383dd62b9fa100e2e1b58e4ac76a711d",
+      "ti_size": 363967,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/1.jpg",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/1.jpg",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/1.jpg",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/1f7fdc68-ac36-a661-3492-aa418d98fef1.t/zh-CN/1737124478440/transcode/image/1.jpg"
+      ],
+      "ti_file_flag": "thumbnail_1",
+      "ti_is_source_file": false,
+      "custom_properties": {
+        "identification": true
+      },
+      "ti_printable": false,
+      "ti_format": "jpg",
+      "lc_ti_format": "image/jpg",
+      "language": "zh-CN"
+    }
+  ],
+  "resource_container_cp": {
+    "version_visible": "RELEASE",
+    "ppt_sort": 2727930,
+    "audit_status": "AUDIT_WAITING",
+    "resource_source": "CREATE",
+    "is_top": 0,
+    "compound_node": "normal",
+    "thumbnail_audit_status": "AUDIT_WAITING"
+  },
+  "online_time": "2026-08-25T14:24:05.125+0800",
+  "chapter_ids": [],
+  "chapter_paths": [],
+  "teachmeterial_ids": [],
+  "tag_paths": [
+    "f5261ccc-b7a5-42f4-b015-610dcec58c60/ac92c18a-58c8-41da-86a5-f44afe3a90f7/e7bbb2de-0590-11ed-9c79-92fc3b3249d5/6a7495dc-0772-11ed-ac74-092ab92074e6/36288018491df55b01492cc5a4d923c0/e7bbd372-0590-11ed-9c79-92fc3b3249d5/ff8080814371757b014390f883db0453/b0446bf6-0fee-48d3-942e-39756a16a427"
+  ],
+  "container_id": "cb9a4539-848a-453f-8205-39230f157a7d",
+  "tenant_id": "1",
+  "resource_structure": {
+    "chapter_tree": {}
+  },
+  "smart_link": {
+    "smart_link": "https://x-link.ykt.eduyun.cn/smart_links/205811401932814?qrEventName=smartlink&contentId=1f7fdc68-ac36-a661-3492-aa418d98fef1&contentType=assets_document"
+  },
+  "version_id": "1f7fdc68-ac36-a661-3492-aa418d98fef1",
+  "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+  "provider_list": [
+    {
+      "name": "清华大学出版社",
+      "id": "7476586c-7b24-412e-86fd-5d817cab4582",
+      "type": "provider"
+    }
+  ]
+}
