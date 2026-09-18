@@ -48,4 +48,16 @@ python 完整素材/scripts/verify.py
 
 ## 数据来源
 
-来源、固定提交、缺失字段和使用边界见[精简库说明](精简词库/README.md#数据来源与使用边界)。各来源保留自己的权利说明；本仓库没有用一个统一许可证覆盖第三方词典或教材内容。
+后续补充或更新素材时，可从以下入口查找。GitHub 仓库主页用于找最新资料，固定提交用于复现本次数据。
+
+| 来源 | 本仓库中的用途 | 本地素材与版本 |
+|---|---|---|
+| [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) | 基础英语词条、中文释义和音标；词表缺字段时作为回退来源 | [原始素材](完整素材/sources/ecdict/)，[固定提交 bc015ed](https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b) |
+| [kajweb/dict](https://github.com/kajweb/dict) | 已导入的 22 份历史教材及初中／中考词表，保留来源中的释义和英美音标 | [原始 ZIP、解压 JSON 与清单](完整素材/sources/kajweb/)，[固定提交 3992bcb](https://github.com/kajweb/dict/tree/3992bcb94c800a2fd38a9fd6ff95b2353e755363) |
+| [国家中小学智慧教育平台·教材](https://basic.smartedu.cn/elecEdu) | 小学、初中英语官方教材目录、下载地址及两本 PDF 样本；用于排查教材覆盖缺口 | [目录元数据](完整素材/metadata/)、[已下载 PDF](完整素材/materials/)、[PDF 提取草稿](完整素材/pdf-extraction/)，本次目录获取日期为 2026-09-18 |
+| [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) | 获取上述平台素材的参考工具；不是词典数据来源 | [工具 submodule](完整素材/tools/tchMaterial-parser)，[固定提交 7d37b0e](https://github.com/happycola233/tchMaterial-parser/tree/7d37b0e4de0ccd23cc1e9cd801baecaef43b98f2) |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 后续查找历史教材 PDF 的备选入口；本次未从该仓库导入数据 | 未下载，未锁定版本；使用前需核对教材版次 |
+
+重新获取固定版本词典与词表、重建数据库的方法见[完整素材使用说明](完整素材/使用说明.md#本机运行)。需要补教材时，先查看[PDF 后续任务清单](完整素材/reports/pdf-action-plan.csv)，再按需下载和核验；PDF 提取草稿尚未导入正式词表。
+
+来源权利说明、缺失字段和使用边界见[精简库说明](精简词库/README.md#数据来源与使用边界)。各来源保留自己的权利说明；本仓库没有用一个统一许可证覆盖第三方词典或教材内容。
