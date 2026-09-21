@@ -1,0 +1,1110 @@
+{
+  "schema": 1,
+  "books": [
+    {
+      "id": "fltrp-sun-3-upper-2026",
+      "title": "外研版·孙有中 小学3年级上册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；2024年7月第1版，2025年6月第41次印刷；SmartEdu 2026年度目录",
+      "grade": 3,
+      "volume": "上册",
+      "units": [
+        "Welcome",
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 208,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/edb32f67-1cf7-94d6-0626-e14dc08b377a.pkg/义务教育教科书•英语_三年级_上册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=edb32f67-1cf7-94d6-0626-e14dc08b377a",
+            "sha256": "b78d852cd37e194a7d0cf4f66138bd32199b97916eb52b03e2eaf23c6e9fc3c5",
+            "pages": [
+              92,
+              94
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。小学原词表无音标，非空音标仅为本地词典精确词形补充，未匹配则留空。"
+      },
+      "url": "books/fltrp-sun-3-upper-2026.json"
+    },
+    {
+      "id": "fltrp-sun-3-lower-2025",
+      "title": "外研版·孙有中 小学3年级下册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；SmartEdu 2025年度目录；所提供PDF版权页为空，具体印次未展示",
+      "grade": 3,
+      "volume": "下册",
+      "units": [
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 200,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/cf006d93-fbec-0d59-f36e-2253fd4bb09c.pkg/义务教育教科书 英语 三年级下册.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cf006d93-fbec-0d59-f36e-2253fd4bb09c",
+            "sha256": "e73564e4e6de697342b2bcf32017e60fa9d7abee16d6bbeba2845e98f784bb79",
+            "pages": [
+              87,
+              90
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。小学原词表无音标，非空音标仅为本地词典精确词形补充，未匹配则留空。"
+      },
+      "url": "books/fltrp-sun-3-lower-2025.json"
+    },
+    {
+      "id": "fltrp-chenlin-primary-3a-2011",
+      "title": "外研版·陈琳 小学3年级上册（2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "陈琳主编·三年级起点·2011课标修订版",
+      "grade": 3,
+      "volume": "上册",
+      "units": [
+        "Module 1",
+        "Module 2",
+        "Module 3",
+        "Module 4",
+        "Module 5",
+        "Module 6",
+        "Module 7",
+        "Module 8",
+        "Module 9",
+        "Module 10"
+      ],
+      "count": 134,
+      "source": "外研社教材PDF逐页核验",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "module",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+            "pages": [
+              71,
+              72
+            ],
+            "sha256": "d8e8b67b92a5d615508aa9d950f2be35e3a435a5cdc893d423fc02e7bfb2619b"
+          }
+        ],
+        "notes": "按教材末尾 Words and Expressions in Each Module 原表完整收录，包含星号拓展词；Module 是本套教材词表的教学单元。未将词表猜分至 Unit 1/2 课时。歌曲、专名和分级阅读附录不混入模块。小学原表无音标，非空音标来自本地词典精确词形补充，未匹配则留空。此为陈琳旧版，不能替代孙有中新版。"
+      },
+      "url": "books/fltrp-chenlin-primary-3a-2011.json"
+    },
+    {
+      "id": "fltrp-chenlin-primary-3b-2011",
+      "title": "外研版·陈琳 小学3年级下册（2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "陈琳主编·三年级起点·2011课标修订版",
+      "grade": 3,
+      "volume": "下册",
+      "units": [
+        "Module 1",
+        "Module 2",
+        "Module 3",
+        "Module 4",
+        "Module 5",
+        "Module 6",
+        "Module 7",
+        "Module 8",
+        "Module 9",
+        "Module 10"
+      ],
+      "count": 159,
+      "source": "外研社教材PDF逐页核验",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "module",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+            "pages": [
+              71,
+              72
+            ],
+            "sha256": "dbb9b411553c8d23798e03ef3cdb8868b5ba6fe0956faaa6182cc7a7ef046a48"
+          }
+        ],
+        "notes": "按教材末尾 Words and Expressions in Each Module 原表完整收录，包含星号拓展词；Module 是本套教材词表的教学单元。未将词表猜分至 Unit 1/2 课时。歌曲、专名和分级阅读附录不混入模块。小学原表无音标，非空音标来自本地词典精确词形补充，未匹配则留空。此为陈琳旧版，不能替代孙有中新版。"
+      },
+      "url": "books/fltrp-chenlin-primary-3b-2011.json"
+    },
+    {
+      "id": "fltrp-sun-4-upper-2026",
+      "title": "外研版·孙有中 小学4年级上册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；SmartEdu 2026年度目录；所提供PDF版权页为空，具体印次未展示",
+      "grade": 4,
+      "volume": "上册",
+      "units": [
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 165,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/6cead28f-ad08-dcec-eda1-6cbc71f157b9.pkg/义务教育教科书•英语_四年级_上册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6cead28f-ad08-dcec-eda1-6cbc71f157b9",
+            "sha256": "7eeb85348a65ea80d866505a90049fddd08f4c81eeedd7369daf799490d2d950",
+            "pages": [
+              87,
+              90
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。小学原词表无音标，非空音标仅为本地词典精确词形补充，未匹配则留空。"
+      },
+      "url": "books/fltrp-sun-4-upper-2026.json"
+    },
+    {
+      "id": "fltrp-sun-4-lower-2022cs",
+      "title": "外研版·孙有中 小学4年级下册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；SmartEdu官方收录；所提供PDF版权页为空，具体印次未展示",
+      "grade": 4,
+      "volume": "下册",
+      "units": [
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 111,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/e7cf1b69-fa7b-19c5-6201-623f10c364b8.pkg/9787521368437_义务教育教科书•英语_四年级_下册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e7cf1b69-fa7b-19c5-6201-623f10c364b8",
+            "sha256": "902d0d587790648b238b167cce27d913d3a14a80d8bfc5c6ead963b8537440ae",
+            "pages": [
+              87,
+              90
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。小学原词表无音标，非空音标仅为本地词典精确词形补充，未匹配则留空。"
+      },
+      "url": "books/fltrp-sun-4-lower-2022cs.json"
+    },
+    {
+      "id": "fltrp-chenlin-primary-4a-2011",
+      "title": "外研版·陈琳 小学4年级上册（2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "陈琳主编·三年级起点·2011课标修订版",
+      "grade": 4,
+      "volume": "上册",
+      "units": [
+        "Module 1",
+        "Module 2",
+        "Module 3",
+        "Module 4",
+        "Module 5",
+        "Module 6",
+        "Module 7",
+        "Module 8",
+        "Module 9",
+        "Module 10"
+      ],
+      "count": 146,
+      "source": "外研社教材PDF逐页核验",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "module",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+            "pages": [
+              71,
+              72
+            ],
+            "sha256": "7e51e697b6fd559ca884402375aeae785f2cbf480ad8038a74927a456e99428c"
+          }
+        ],
+        "notes": "按教材末尾 Words and Expressions in Each Module 原表完整收录，包含星号拓展词；Module 是本套教材词表的教学单元。未将词表猜分至 Unit 1/2 课时。歌曲、专名和分级阅读附录不混入模块。小学原表无音标，非空音标来自本地词典精确词形补充，未匹配则留空。此为陈琳旧版，不能替代孙有中新版。"
+      },
+      "url": "books/fltrp-chenlin-primary-4a-2011.json"
+    },
+    {
+      "id": "fltrp-chenlin-primary-4b-2011",
+      "title": "外研版·陈琳 小学4年级下册（2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "陈琳主编·三年级起点·2011课标修订版",
+      "grade": 4,
+      "volume": "下册",
+      "units": [
+        "Module 1",
+        "Module 2",
+        "Module 3",
+        "Module 4",
+        "Module 5",
+        "Module 6",
+        "Module 7",
+        "Module 8",
+        "Module 9",
+        "Module 10"
+      ],
+      "count": 135,
+      "source": "外研社教材PDF逐页核验",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "module",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+            "pages": [
+              71,
+              72
+            ],
+            "sha256": "8dfb386df834ba5f1db72d80741000c5d8e788656f8f33d5f7d919537f4ae668"
+          }
+        ],
+        "notes": "按教材末尾 Words and Expressions in Each Module 原表完整收录，包含星号拓展词；Module 是本套教材词表的教学单元。未将词表猜分至 Unit 1/2 课时。歌曲、专名和分级阅读附录不混入模块。小学原表无音标，非空音标来自本地词典精确词形补充，未匹配则留空。此为陈琳旧版，不能替代孙有中新版。"
+      },
+      "url": "books/fltrp-chenlin-primary-4b-2011.json"
+    },
+    {
+      "id": "fltrp-sun-5-upper-2026",
+      "title": "外研版·孙有中 小学5年级上册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；2025年7月第1版、第1次印刷；SmartEdu 2026年度目录",
+      "grade": 5,
+      "volume": "上册",
+      "units": [
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 113,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/77c1748b-51a5-ba5d-8868-a2c7055678b5.pkg/义务教育教科书•英语_五年级_上册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=77c1748b-51a5-ba5d-8868-a2c7055678b5",
+            "sha256": "9b6278dbcdbcf465588c1a6e150099496790a56f64d676b4a8082aa3ac807e71",
+            "pages": [
+              100,
+              101
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。小学原词表无音标，非空音标仅为本地词典精确词形补充，未匹配则留空。"
+      },
+      "url": "books/fltrp-sun-5-upper-2026.json"
+    },
+    {
+      "id": "fltrp-sun-5-lower-2022cs",
+      "title": "外研版·孙有中 小学5年级下册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；SmartEdu官方收录；所提供PDF版权页为空，具体印次未展示",
+      "grade": 5,
+      "volume": "下册",
+      "units": [
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 107,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/2e4a649a-af6f-0905-9693-5c5c93548622.pkg/9787521368352_义务教育教科书•英语_五年级_下册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2e4a649a-af6f-0905-9693-5c5c93548622",
+            "sha256": "d59aa10fc4ef7a5c5a34039f3058d25f4fcf5fad9573a4e81b3ad70d22960a15",
+            "pages": [
+              99,
+              100
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。小学原词表无音标，非空音标仅为本地词典精确词形补充，未匹配则留空。"
+      },
+      "url": "books/fltrp-sun-5-lower-2022cs.json"
+    },
+    {
+      "id": "fltrp-chenlin-primary-5a-2011",
+      "title": "外研版·陈琳 小学5年级上册（2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "陈琳主编·三年级起点·2011课标修订版",
+      "grade": 5,
+      "volume": "上册",
+      "units": [
+        "Module 1",
+        "Module 2",
+        "Module 3",
+        "Module 4",
+        "Module 5",
+        "Module 6",
+        "Module 7",
+        "Module 8",
+        "Module 9",
+        "Module 10"
+      ],
+      "count": 152,
+      "source": "外研社教材PDF逐页核验",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "module",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+            "pages": [
+              71,
+              74
+            ],
+            "sha256": "486aac2a8b2be70fdf3b3102d7b6918f835a78140d46551c51d729cf6db2073b"
+          }
+        ],
+        "notes": "按教材末尾 Words and Expressions in Each Module 原表完整收录，包含星号拓展词；Module 是本套教材词表的教学单元。未将词表猜分至 Unit 1/2 课时。歌曲、专名和分级阅读附录不混入模块。小学原表无音标，非空音标来自本地词典精确词形补充，未匹配则留空。此为陈琳旧版，不能替代孙有中新版。"
+      },
+      "url": "books/fltrp-chenlin-primary-5a-2011.json"
+    },
+    {
+      "id": "fltrp-chenlin-primary-5b-2011",
+      "title": "外研版·陈琳 小学5年级下册（2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "陈琳主编·三年级起点·2011课标修订版",
+      "grade": 5,
+      "volume": "下册",
+      "units": [
+        "Module 1",
+        "Module 2",
+        "Module 3",
+        "Module 4",
+        "Module 5",
+        "Module 6",
+        "Module 7",
+        "Module 8",
+        "Module 9",
+        "Module 10"
+      ],
+      "count": 149,
+      "source": "外研社教材PDF逐页核验",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "module",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+            "pages": [
+              71,
+              74
+            ],
+            "sha256": "c76dcd30ff385dcbf029919647eec07d4581c22111c6bb275548a861283c1934"
+          }
+        ],
+        "notes": "按教材末尾 Words and Expressions in Each Module 原表完整收录，包含星号拓展词；Module 是本套教材词表的教学单元。未将词表猜分至 Unit 1/2 课时。歌曲、专名和分级阅读附录不混入模块。小学原表无音标，非空音标来自本地词典精确词形补充，未匹配则留空。此为陈琳旧版，不能替代孙有中新版。"
+      },
+      "url": "books/fltrp-chenlin-primary-5b-2011.json"
+    },
+    {
+      "id": "fltrp-sun-6-upper-2022cs",
+      "title": "外研版·孙有中 小学6年级上册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；SmartEdu官方收录；版权页CIP文字日期2024.10，版次、ISBN及印次字段未填写，不能据此推定印次",
+      "grade": 6,
+      "volume": "上册",
+      "units": [
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 79,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/a415cb61-eb1d-170b-b7d0-e810717bf6f8.pkg/义务教育教科书•英语_六年级_上册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a415cb61-eb1d-170b-b7d0-e810717bf6f8",
+            "sha256": "ff6158bc3337891c97ab5c5cd9b76175a25b727529fcbe99e46929afe03e1b67",
+            "pages": [
+              102,
+              104
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。小学原词表无音标，非空音标仅为本地词典精确词形补充，未匹配则留空。"
+      },
+      "url": "books/fltrp-sun-6-upper-2022cs.json"
+    },
+    {
+      "id": "fltrp-chenlin-primary-6a-2011",
+      "title": "外研版·陈琳 小学6年级上册（2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "陈琳主编·三年级起点·2011课标修订版",
+      "grade": 6,
+      "volume": "上册",
+      "units": [
+        "Module 1",
+        "Module 2",
+        "Module 3",
+        "Module 4",
+        "Module 5",
+        "Module 6",
+        "Module 7",
+        "Module 8",
+        "Module 9",
+        "Module 10"
+      ],
+      "count": 83,
+      "source": "外研社教材PDF逐页核验",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "module",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+            "pages": [
+              71,
+              72
+            ],
+            "sha256": "337e8cc46131efbbd70fb94d1df6bdb0804034a6a36e7b0859aa7af2c3e83039"
+          }
+        ],
+        "notes": "按教材末尾 Words and Expressions in Each Module 原表完整收录，包含星号拓展词；Module 是本套教材词表的教学单元。未将词表猜分至 Unit 1/2 课时。歌曲、专名和分级阅读附录不混入模块。小学原表无音标，非空音标来自本地词典精确词形补充，未匹配则留空。此为陈琳旧版，不能替代孙有中新版。"
+      },
+      "url": "books/fltrp-chenlin-primary-6a-2011.json"
+    },
+    {
+      "id": "fltrp-chenlin-primary-6b-2011",
+      "title": "外研版·陈琳 小学6年级下册（2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "陈琳主编·三年级起点·2011课标修订版",
+      "grade": 6,
+      "volume": "下册",
+      "units": [
+        "Module 1",
+        "Module 2",
+        "Module 3",
+        "Module 4",
+        "Module 5",
+        "Module 6",
+        "Module 7",
+        "Module 8",
+        "Module 9",
+        "Module 10"
+      ],
+      "count": 105,
+      "source": "外研社教材PDF逐页核验",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "module",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+            "pages": [
+              71,
+              73
+            ],
+            "sha256": "9877edf3a822089804dafbb9d90877495916336b3974f78b13292121cbf7cf93"
+          }
+        ],
+        "notes": "按教材末尾 Words and Expressions in Each Module 原表完整收录，包含星号拓展词；Module 是本套教材词表的教学单元。未将词表猜分至 Unit 1/2 课时。歌曲、专名和分级阅读附录不混入模块。小学原表无音标，非空音标来自本地词典精确词形补充，未匹配则留空。此为陈琳旧版，不能替代孙有中新版。"
+      },
+      "url": "books/fltrp-chenlin-primary-6b-2011.json"
+    },
+    {
+      "id": "fltrp-sun-7-upper-2026",
+      "title": "外研版·孙有中 初中7年级上册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；SmartEdu 2026年度目录；所提供PDF版权页为空，具体印次未展示",
+      "grade": 7,
+      "volume": "上册",
+      "units": [
+        "Starter",
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 298,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/adb3ff3e-323b-5895-30b3-b4aab73ebffd.pkg/义务教育教科书•英语（配有听力材料）_七年级_上册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=adb3ff3e-323b-5895-30b3-b4aab73ebffd",
+            "sha256": "5e975c9a4bf2cc6b4a425f2c1a525e1cd16a1e66d29453429c89c1b8fb550507",
+            "pages": [
+              158,
+              164
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。扫描音标尚未逐条核准，phonetic 留空，不把OCR乱码或其他版次音标标为教材原音标。"
+      },
+      "url": "books/fltrp-sun-7-upper-2026.json"
+    },
+    {
+      "id": "fltrp-sun-7-lower-2025",
+      "title": "外研版·孙有中 初中7年级下册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；SmartEdu 2025年度目录；所提供PDF版权页为空，具体印次未展示",
+      "grade": 7,
+      "volume": "下册",
+      "units": [
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 290,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/80a9d47b-a6c9-36c5-cd53-ba5ac343f971.pkg/义务教育教科书•英语_七年级_下册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=80a9d47b-a6c9-36c5-cd53-ba5ac343f971",
+            "sha256": "000989a8e92070a5048c18ae2a7a41e5b32fc130618cfb2c03ce795084a50a24",
+            "pages": [
+              137,
+              143
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。扫描音标尚未逐条核准，phonetic 留空，不把OCR乱码或其他版次音标标为教材原音标。"
+      },
+      "url": "books/fltrp-sun-7-lower-2025.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade7-upper",
+      "title": "外研版英语·7年级上册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 7,
+      "volume": "上册",
+      "units": [
+        "Starter · Module 1 · Unit 1",
+        "Starter · Module 1 · Unit 2",
+        "Starter · Module 1 · Unit 3",
+        "Starter · Module 2 · Unit 1",
+        "Starter · Module 2 · Unit 2",
+        "Starter · Module 2 · Unit 3",
+        "Starter · Module 3 · Unit 1",
+        "Starter · Module 3 · Unit 2",
+        "Starter · Module 3 · Unit 3",
+        "Starter · Module 4 · Unit 1",
+        "Starter · Module 4 · Unit 2",
+        "Starter · Module 4 · Unit 3",
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 2 · Unit 3",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 4 · Unit 3",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 5 · Unit 3",
+        "Revision module A",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 7 · Unit 3",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2",
+        "Module 8 · Unit 3",
+        "Module 9 · Unit 1",
+        "Module 9 · Unit 2",
+        "Module 9 · Unit 3",
+        "Module 10 · Unit 1",
+        "Module 10 · Unit 2",
+        "Module 10 · Unit 3",
+        "Revision module B"
+      ],
+      "count": 628,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/七年级/义务教育教科书·英语七年级上册.pdf",
+            "pages": [
+              120,
+              121,
+              122,
+              123,
+              124,
+              125,
+              126,
+              127,
+              128,
+              129
+            ],
+            "sha256": "a8eab8f0ad560d4c0eb4762a89b06545dd9192d28d266f1c4f5891454cbfa04e"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。 PDF122页（印刷89页）无文本层，45条词汇经渲染逐项人工转录。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade7-upper.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade7-lower",
+      "title": "外研版英语·7年级下册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 7,
+      "volume": "下册",
+      "units": [
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 2 · Unit 3",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 3 · Unit 3",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 6 · Unit 3",
+        "Revision module A",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 7 · Unit 3",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2",
+        "Module 8 · Unit 3",
+        "Module 9 · Unit 1",
+        "Module 9 · Unit 2",
+        "Module 9 · Unit 3",
+        "Module 10 · Unit 1",
+        "Module 10 · Unit 2",
+        "Module 11 · Unit 1",
+        "Module 11 · Unit 2",
+        "Module 11 · Unit 3",
+        "Module 12 · Unit 1",
+        "Module 12 · Unit 2",
+        "Module 12 · Unit 3",
+        "Revision module B"
+      ],
+      "count": 441,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/七年级/义务教育教科书·英语七年级下册.pdf",
+            "pages": [
+              111,
+              112,
+              113,
+              114,
+              115,
+              116,
+              117
+            ],
+            "sha256": "9b0f74a66e69ff8d6c25425a1be31627c4824c441bc854d8cd54d806f6e597c7"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。 七下PDF音标字体提取会丢字，音标与仓库kajweb/ECDICT交叉核对；未找到可靠音标时留空。词形、释义、单元仍以PDF为准。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade7-lower.json"
+    },
+    {
+      "id": "fltrp-sun-8-upper-2026",
+      "title": "外研版·孙有中 初中8年级上册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；SmartEdu 2026年度目录；所提供PDF版权页为空，具体版次与印次未展示",
+      "grade": 8,
+      "volume": "上册",
+      "units": [
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 345,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/4631365b-5647-850e-5956-ca29c27a1d16.pkg/义务教育教科书•英语（配有听力材料）_八年级_上册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4631365b-5647-850e-5956-ca29c27a1d16",
+            "sha256": "b7f0f7fee17eced1fc86fe9edcdbc6386edc19aa090e59d82c2ec72db0bf858e",
+            "pages": [
+              137,
+              143
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。扫描音标尚未逐条核准，phonetic 留空，不把OCR乱码或其他版次音标标为教材原音标。"
+      },
+      "url": "books/fltrp-sun-8-upper-2026.json"
+    },
+    {
+      "id": "fltrp-sun-8-lower-2022cs",
+      "title": "外研版·孙有中 初中8年级下册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；SmartEdu 未提供年度标签；所提供PDF版权页为空，具体版次与印次未展示",
+      "grade": 8,
+      "volume": "下册",
+      "units": [
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 211,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/e97b46fe-ed57-9d08-5533-60ff4bb437ae.pkg/9787521368246_义务教育教科书•英语_八年级_下册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e97b46fe-ed57-9d08-5533-60ff4bb437ae",
+            "sha256": "65fc3f2245bc9840cbad3978afe19584a05de9f9ae62610cb89bf64030960036",
+            "pages": [
+              143,
+              146
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。扫描音标尚未逐条核准，phonetic 留空，不把OCR乱码或其他版次音标标为教材原音标。"
+      },
+      "url": "books/fltrp-sun-8-lower-2022cs.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade8-upper",
+      "title": "外研版英语·8年级上册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 8,
+      "volume": "上册",
+      "units": [
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2",
+        "Module 9 · Unit 1",
+        "Module 9 · Unit 2",
+        "Module 10 · Unit 1",
+        "Module 10 · Unit 2",
+        "Module 11 · Unit 1",
+        "Module 11 · Unit 2",
+        "Module 12 · Unit 1",
+        "Module 12 · Unit 2"
+      ],
+      "count": 320,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/八年级/义务教育教科书·英语八年级上册.pdf",
+            "pages": [
+              144,
+              145,
+              146,
+              147,
+              148,
+              149
+            ],
+            "sha256": "6a5d9bf9e45b70015c400f73c442f43949ce5e20aaf0f2d77965f64ed86c9256"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。 PDF147页side及side by side共用印刷页码64，已分别收录并核对正文64页。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade8-upper.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade8-lower",
+      "title": "外研版英语·8年级下册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 8,
+      "volume": "下册",
+      "units": [
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2",
+        "Module 9 · Unit 1",
+        "Module 9 · Unit 2",
+        "Module 10 · Unit 1",
+        "Module 10 · Unit 2"
+      ],
+      "count": 266,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/八年级/义务教育教科书·英语八年级下册.pdf",
+            "pages": [
+              119,
+              120,
+              121,
+              122,
+              123
+            ],
+            "sha256": "b1b28e90ab90767534725631747fc7047f82d3eda1f0dc703a86af31a61ae117"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade8-lower.json"
+    },
+    {
+      "id": "fltrp-sun-9-upper-2022cs",
+      "title": "外研版·孙有中 初中9年级上册（2022课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "孙有中主编·2022年版课标修订；SmartEdu 未提供年度标签；PDF版权页CIP标注2024.10，版次与印次栏未填写",
+      "grade": 9,
+      "volume": "上册",
+      "units": [
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6"
+      ],
+      "count": 237,
+      "source": "国家中小学智慧教育平台·外研社官方教材PDF",
+      "verification": {
+        "status": "pdf-reviewed",
+        "unitGranularity": "unit",
+        "evidence": [
+          {
+            "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/2c8772f1-c624-51e1-215d-f0a35f4b5820.pkg/义务教育教科书•英语（配有听力材料）_九年级_上册_外语教学与研究出版社.pdf",
+            "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2c8772f1-c624-51e1-215d-f0a35f4b5820",
+            "sha256": "e7c545c6b3ee225f5eb8539f28eb3b2e40b87fd29256573cfcc7dd29a30404dc",
+            "pages": [
+              144,
+              149
+            ]
+          }
+        ],
+        "notes": "按此官方扫描PDF的 Words and expressions 主词表逐页人工转录核验，保持原书列顺序、Welcome/Starter 与 Unit 分组；包含非加粗词和词组。另列的 Proper nouns 专名表、戏剧附录和字母序重复表不混入单元。括号词形保留在释义中，练习词采用主词形；未合并不同版次。扫描音标尚未逐条核准，phonetic 留空，不把OCR乱码或其他版次音标标为教材原音标。"
+      },
+      "url": "books/fltrp-sun-9-upper-2022cs.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade9-upper",
+      "title": "外研版英语·9年级上册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 9,
+      "volume": "上册",
+      "units": [
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2",
+        "Module 9 · Unit 1",
+        "Module 9 · Unit 2",
+        "Module 10 · Unit 1",
+        "Module 10 · Unit 2",
+        "Module 11 · Unit 1",
+        "Module 11 · Unit 2",
+        "Module 12 · Unit 1",
+        "Module 12 · Unit 2"
+      ],
+      "count": 381,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/九年级/义务教育教科书·英语九年级上册.pdf",
+            "pages": [
+              149,
+              150,
+              151,
+              152,
+              153,
+              154,
+              155
+            ],
+            "sha256": "9a05cbe618e0221342ce8caf32a4ff002af4045a9745ce7b06acc4938e0780b8"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade9-upper.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade9-lower",
+      "title": "外研版英语·9年级下册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 9,
+      "volume": "下册",
+      "units": [
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2"
+      ],
+      "count": 125,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/九年级/义务教育教科书·英语九年级下册.pdf",
+            "pages": [
+              115,
+              116,
+              117
+            ],
+            "sha256": "6d64cda86c3820115d3c8d4e8793bf278eb26fdacfc44bdce57625814878e740"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade9-lower.json"
+    }
+  ]
+}

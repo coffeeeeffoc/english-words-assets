@@ -1,0 +1,364 @@
+{
+  "schema": 1,
+  "books": [
+    {
+      "id": "fltrp-chenlin-2011-grade7-upper",
+      "title": "外研版英语·7年级上册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 7,
+      "volume": "上册",
+      "units": [
+        "Starter · Module 1 · Unit 1",
+        "Starter · Module 1 · Unit 2",
+        "Starter · Module 1 · Unit 3",
+        "Starter · Module 2 · Unit 1",
+        "Starter · Module 2 · Unit 2",
+        "Starter · Module 2 · Unit 3",
+        "Starter · Module 3 · Unit 1",
+        "Starter · Module 3 · Unit 2",
+        "Starter · Module 3 · Unit 3",
+        "Starter · Module 4 · Unit 1",
+        "Starter · Module 4 · Unit 2",
+        "Starter · Module 4 · Unit 3",
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 2 · Unit 3",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 4 · Unit 3",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 5 · Unit 3",
+        "Revision module A",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 7 · Unit 3",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2",
+        "Module 8 · Unit 3",
+        "Module 9 · Unit 1",
+        "Module 9 · Unit 2",
+        "Module 9 · Unit 3",
+        "Module 10 · Unit 1",
+        "Module 10 · Unit 2",
+        "Module 10 · Unit 3",
+        "Revision module B"
+      ],
+      "count": 628,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/七年级/义务教育教科书·英语七年级上册.pdf",
+            "pages": [
+              120,
+              121,
+              122,
+              123,
+              124,
+              125,
+              126,
+              127,
+              128,
+              129
+            ],
+            "sha256": "a8eab8f0ad560d4c0eb4762a89b06545dd9192d28d266f1c4f5891454cbfa04e"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。 PDF122页（印刷89页）无文本层，45条词汇经渲染逐项人工转录。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade7-upper.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade7-lower",
+      "title": "外研版英语·7年级下册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 7,
+      "volume": "下册",
+      "units": [
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 2 · Unit 3",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 3 · Unit 3",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 6 · Unit 3",
+        "Revision module A",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 7 · Unit 3",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2",
+        "Module 8 · Unit 3",
+        "Module 9 · Unit 1",
+        "Module 9 · Unit 2",
+        "Module 9 · Unit 3",
+        "Module 10 · Unit 1",
+        "Module 10 · Unit 2",
+        "Module 11 · Unit 1",
+        "Module 11 · Unit 2",
+        "Module 11 · Unit 3",
+        "Module 12 · Unit 1",
+        "Module 12 · Unit 2",
+        "Module 12 · Unit 3",
+        "Revision module B"
+      ],
+      "count": 441,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/七年级/义务教育教科书·英语七年级下册.pdf",
+            "pages": [
+              111,
+              112,
+              113,
+              114,
+              115,
+              116,
+              117
+            ],
+            "sha256": "9b0f74a66e69ff8d6c25425a1be31627c4824c441bc854d8cd54d806f6e597c7"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。 七下PDF音标字体提取会丢字，音标与仓库kajweb/ECDICT交叉核对；未找到可靠音标时留空。词形、释义、单元仍以PDF为准。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade7-lower.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade9-upper",
+      "title": "外研版英语·9年级上册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 9,
+      "volume": "上册",
+      "units": [
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2",
+        "Module 9 · Unit 1",
+        "Module 9 · Unit 2",
+        "Module 10 · Unit 1",
+        "Module 10 · Unit 2",
+        "Module 11 · Unit 1",
+        "Module 11 · Unit 2",
+        "Module 12 · Unit 1",
+        "Module 12 · Unit 2"
+      ],
+      "count": 381,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/九年级/义务教育教科书·英语九年级上册.pdf",
+            "pages": [
+              149,
+              150,
+              151,
+              152,
+              153,
+              154,
+              155
+            ],
+            "sha256": "9a05cbe618e0221342ce8caf32a4ff002af4045a9745ce7b06acc4938e0780b8"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade9-upper.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade9-lower",
+      "title": "外研版英语·9年级下册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 9,
+      "volume": "下册",
+      "units": [
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2"
+      ],
+      "count": 125,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/九年级/义务教育教科书·英语九年级下册.pdf",
+            "pages": [
+              115,
+              116,
+              117
+            ],
+            "sha256": "6d64cda86c3820115d3c8d4e8793bf278eb26fdacfc44bdce57625814878e740"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade9-lower.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade8-upper",
+      "title": "外研版英语·8年级上册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 8,
+      "volume": "上册",
+      "units": [
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2",
+        "Module 9 · Unit 1",
+        "Module 9 · Unit 2",
+        "Module 10 · Unit 1",
+        "Module 10 · Unit 2",
+        "Module 11 · Unit 1",
+        "Module 11 · Unit 2",
+        "Module 12 · Unit 1",
+        "Module 12 · Unit 2"
+      ],
+      "count": 320,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/八年级/义务教育教科书·英语八年级上册.pdf",
+            "pages": [
+              144,
+              145,
+              146,
+              147,
+              148,
+              149
+            ],
+            "sha256": "6a5d9bf9e45b70015c400f73c442f43949ce5e20aaf0f2d77965f64ed86c9256"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。 PDF147页side及side by side共用印刷页码64，已分别收录并核对正文64页。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade8-upper.json"
+    },
+    {
+      "id": "fltrp-chenlin-2011-grade8-lower",
+      "title": "外研版英语·8年级下册（陈琳·2011课标）",
+      "publisherId": "fltrp",
+      "publisher": "外语教学与研究出版社",
+      "edition": "2011课标修订版·陈琳／Simon Greenall",
+      "grade": 8,
+      "volume": "下册",
+      "units": [
+        "Module 1 · Unit 1",
+        "Module 1 · Unit 2",
+        "Module 2 · Unit 1",
+        "Module 2 · Unit 2",
+        "Module 3 · Unit 1",
+        "Module 3 · Unit 2",
+        "Module 4 · Unit 1",
+        "Module 4 · Unit 2",
+        "Module 5 · Unit 1",
+        "Module 5 · Unit 2",
+        "Module 6 · Unit 1",
+        "Module 6 · Unit 2",
+        "Module 7 · Unit 1",
+        "Module 7 · Unit 2",
+        "Module 8 · Unit 1",
+        "Module 8 · Unit 2",
+        "Module 9 · Unit 1",
+        "Module 9 · Unit 2",
+        "Module 10 · Unit 1",
+        "Module 10 · Unit 2"
+      ],
+      "count": 266,
+      "source": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+      "verification": {
+        "status": "pdf-reviewed",
+        "evidence": [
+          {
+            "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+            "path": "初中/英语/外研社版-外语教学与研究出版社/八年级/义务教育教科书·英语八年级下册.pdf",
+            "pages": [
+              119,
+              120,
+              121,
+              122,
+              123
+            ],
+            "sha256": "b1b28e90ab90767534725631747fc7047f82d3eda1f0dc703a86af31a61ae117"
+          }
+        ],
+        "notes": "陈琳／Simon Greenall主编；前言明确依据2011年版课标修订。所据PDF未列版次及印次，不能推定为2022课标孙有新主编新版。 完整收录Words and expressions，按其首次出现页码定位正文Unit；Starter与Revision独立标识。未额外混入Proper names或字母序Vocabulary复本。 各Unit仅收录教材词表在该Unit首次出现的词；复习课没有新增词时不虚构空单元或重复分配。 sourcePdfPage为1起算词表PDF页；sourcePage为教材印刷页；unitEvidencePdfPage为核对Unit的正文PDF页（Revision延续页追溯本模块标题）。"
+      },
+      "url": "books/fltrp-chenlin-2011-grade8-lower.json"
+    }
+  ]
+}

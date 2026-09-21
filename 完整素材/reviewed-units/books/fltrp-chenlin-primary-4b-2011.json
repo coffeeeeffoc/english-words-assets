@@ -1,0 +1,1220 @@
+{
+  "id": "fltrp-chenlin-primary-4b-2011",
+  "entries": [
+    {
+      "ordinal": 1,
+      "word": "nice",
+      "meaning": "友好的，亲切的，讨人喜欢的",
+      "phonetic": "nais",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 2,
+      "word": "clever",
+      "meaning": "聪明的",
+      "phonetic": "'klevә",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 3,
+      "word": "naughty",
+      "meaning": "淘气的",
+      "phonetic": "'nɒ:ti",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 4,
+      "word": "a bit",
+      "meaning": "稍微，有点儿",
+      "phonetic": "",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 5,
+      "word": "shy",
+      "meaning": "害羞的",
+      "phonetic": "ʃai",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 6,
+      "word": "answer",
+      "meaning": "接（电话）",
+      "phonetic": "'ɑ:nsә",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 7,
+      "word": "call",
+      "meaning": "电话；（给……）打电话",
+      "phonetic": "kɒ:l",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 8,
+      "word": "bad",
+      "meaning": "不好的，坏的",
+      "phonetic": "bæd",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 9,
+      "word": "cool",
+      "meaning": "酷的",
+      "phonetic": "ku:l",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 10,
+      "word": "aunt",
+      "meaning": "姨母；姑母；舅母；伯母；婶母",
+      "phonetic": "ɑ:nt",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 11,
+      "word": "uncle",
+      "meaning": "伯父；叔父；舅父；姑父；姨父",
+      "phonetic": "ʌŋkl",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 12,
+      "word": "big",
+      "meaning": "年龄较大的",
+      "phonetic": "big",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 13,
+      "word": "little",
+      "meaning": "幼小的，年幼的",
+      "phonetic": "'litl",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 14,
+      "word": "cute",
+      "meaning": "可爱的",
+      "phonetic": "kju:t",
+      "unit": "Module 1",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 15,
+      "word": "city",
+      "meaning": "城市",
+      "phonetic": "'siti",
+      "unit": "Module 2",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 16,
+      "word": "ship",
+      "meaning": "船",
+      "phonetic": "ʃip",
+      "unit": "Module 2",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 17,
+      "word": "beautiful",
+      "meaning": "美丽的",
+      "phonetic": "'bju:tiful",
+      "unit": "Module 2",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 18,
+      "word": "whose",
+      "meaning": "谁的",
+      "phonetic": "hu:z",
+      "unit": "Module 2",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 19,
+      "word": "queen",
+      "meaning": "女王",
+      "phonetic": "'kwi:n",
+      "unit": "Module 2",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 20,
+      "word": "close",
+      "meaning": "近的，接近的",
+      "phonetic": "klәuz",
+      "unit": "Module 2",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 21,
+      "word": "old",
+      "meaning": "年代久的，古老的",
+      "phonetic": "әuld",
+      "unit": "Module 2",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 22,
+      "word": "famous",
+      "meaning": "著名的",
+      "phonetic": "'feimәs",
+      "unit": "Module 2",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 23,
+      "word": "robot",
+      "meaning": "机器人",
+      "phonetic": "'rәubәt",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 24,
+      "word": "will",
+      "meaning": "将，将会",
+      "phonetic": "wil",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 25,
+      "word": "everything",
+      "meaning": "所有事情",
+      "phonetic": "'evriθiŋ",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 26,
+      "word": "one day",
+      "meaning": "（将来）有一天",
+      "phonetic": "",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 27,
+      "word": "housework",
+      "meaning": "家务活",
+      "phonetic": "'hauswә:k",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 28,
+      "word": "learn",
+      "meaning": "学习",
+      "phonetic": "lә:n",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 29,
+      "word": "our",
+      "meaning": "我们的",
+      "phonetic": "'auә",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 30,
+      "word": "homework",
+      "meaning": "家庭作业",
+      "phonetic": "'hәumwә:k",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 31,
+      "word": "won't",
+      "meaning": "将不会",
+      "phonetic": "wəʊnt",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 32,
+      "word": "Tuesday",
+      "meaning": "星期二",
+      "phonetic": "'tju:zdi",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 33,
+      "word": "Wednesday",
+      "meaning": "星期三",
+      "phonetic": "'wenzdi",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 34,
+      "word": "Thursday",
+      "meaning": "星期四",
+      "phonetic": "'θә:zdi",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 35,
+      "word": "Friday",
+      "meaning": "星期五",
+      "phonetic": "'fraidi",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 36,
+      "word": "have",
+      "meaning": "有，拥有",
+      "phonetic": "hæv",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 37,
+      "word": "next",
+      "meaning": "下一个的",
+      "phonetic": "'nekst",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 38,
+      "word": "week",
+      "meaning": "星期，周",
+      "phonetic": "wi:k",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 39,
+      "word": "holiday",
+      "meaning": "假期",
+      "phonetic": "'hɒlәdi",
+      "unit": "Module 3",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 40,
+      "word": "take",
+      "meaning": "带，拿",
+      "phonetic": "teik",
+      "unit": "Module 4",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 41,
+      "word": "fly",
+      "meaning": "飞",
+      "phonetic": "flai",
+      "unit": "Module 4",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 42,
+      "word": "picnic",
+      "meaning": "野餐",
+      "phonetic": "'piknik",
+      "unit": "Module 4",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 43,
+      "word": "great",
+      "meaning": "太好了，好极了",
+      "phonetic": "greit",
+      "unit": "Module 4",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 44,
+      "word": "why",
+      "meaning": "为什么",
+      "phonetic": "hwai",
+      "unit": "Module 4",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 45,
+      "word": "Why not?",
+      "meaning": "为什么不呢？",
+      "phonetic": "",
+      "unit": "Module 4",
+      "pdfPage": 71,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 46,
+      "word": "because",
+      "meaning": "因为",
+      "phonetic": "bi'kɒ:z",
+      "unit": "Module 4",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 47,
+      "word": "so",
+      "meaning": "所以",
+      "phonetic": "sәu",
+      "unit": "Module 4",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 48,
+      "word": "cloudy",
+      "meaning": "多云的",
+      "phonetic": "'klaudi",
+      "unit": "Module 4",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 49,
+      "word": "weather",
+      "meaning": "天气",
+      "phonetic": "'weðә",
+      "unit": "Module 4",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 50,
+      "word": "was",
+      "meaning": "（am, is的过去式）是",
+      "phonetic": "wɒz",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 51,
+      "word": "then",
+      "meaning": "当时，那时",
+      "phonetic": "ðen",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 52,
+      "word": "grandparent",
+      "meaning": "祖父；祖母；外祖父；外祖母",
+      "phonetic": "'grændperәnt",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 53,
+      "word": "were",
+      "meaning": "（are的过去式）是",
+      "phonetic": "wә:",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 54,
+      "word": "young",
+      "meaning": "年轻的",
+      "phonetic": "jʌŋ",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 55,
+      "word": "old",
+      "meaning": "老的，年老的",
+      "phonetic": "әuld",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 56,
+      "word": "hair",
+      "meaning": "头发",
+      "phonetic": "hєә",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 57,
+      "word": "so",
+      "meaning": "这么, 那么",
+      "phonetic": "sәu",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 58,
+      "word": "short",
+      "meaning": "短的",
+      "phonetic": "ʃɒ:t",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 59,
+      "word": "long",
+      "meaning": "长的",
+      "phonetic": "lɒŋ",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 60,
+      "word": "wasn't",
+      "meaning": "不是",
+      "phonetic": "'wɔznt",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 61,
+      "word": "weren't",
+      "meaning": "不是",
+      "phonetic": "wә:nt, weәnt",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 62,
+      "word": "clean",
+      "meaning": "干净的",
+      "phonetic": "kli:n",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 63,
+      "word": "dirty",
+      "meaning": "脏的",
+      "phonetic": "'dә:ti",
+      "unit": "Module 5",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 64,
+      "word": "yesterday",
+      "meaning": "昨天",
+      "phonetic": "'jestәdi",
+      "unit": "Module 6",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 65,
+      "word": "out",
+      "meaning": "不在家（的）；在外面（的）",
+      "phonetic": "aut",
+      "unit": "Module 6",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 66,
+      "word": "well",
+      "meaning": "健康的",
+      "phonetic": "wel",
+      "unit": "Module 6",
+      "pdfPage": 71,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 67,
+      "word": "thanks",
+      "meaning": "谢谢",
+      "phonetic": "",
+      "unit": "Module 6",
+      "pdfPage": 72,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 68,
+      "word": "sun",
+      "meaning": "太阳",
+      "phonetic": "sʌn",
+      "unit": "Module 6",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 69,
+      "word": "lesson",
+      "meaning": "一节课，一堂课",
+      "phonetic": "'lesn",
+      "unit": "Module 6",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 70,
+      "word": "village",
+      "meaning": "乡村，村子",
+      "phonetic": "'vilidʒ",
+      "unit": "Module 6",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 71,
+      "word": "had",
+      "meaning": "（have的过去式）度过",
+      "phonetic": "hæd",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 72,
+      "word": "phone",
+      "meaning": "（给……）打电话",
+      "phonetic": "fәun",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 73,
+      "word": "cook",
+      "meaning": "烹调；煮；烧",
+      "phonetic": "kuk",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 74,
+      "word": "really",
+      "meaning": "真的",
+      "phonetic": "'riәli",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 75,
+      "word": "wash",
+      "meaning": "洗",
+      "phonetic": "wɒʃ",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 76,
+      "word": "What about…?",
+      "meaning": "……怎么样？",
+      "phonetic": "",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 77,
+      "word": "did",
+      "meaning": "（do的过去式）助动词",
+      "phonetic": "did",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 78,
+      "word": "didn't",
+      "meaning": "没有",
+      "phonetic": "ˈdɪdnt",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 79,
+      "word": "computer",
+      "meaning": "计算机；电脑",
+      "phonetic": "kәm'pju:tә",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 80,
+      "word": "love",
+      "meaning": "爱；喜欢",
+      "phonetic": "lʌv",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 81,
+      "word": "him",
+      "meaning": "（宾格）他",
+      "phonetic": "him",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 82,
+      "word": "Mrs",
+      "meaning": "太太，夫人",
+      "phonetic": "'misiz",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 83,
+      "word": "Miss",
+      "meaning": "小姐",
+      "phonetic": "",
+      "unit": "Module 7",
+      "pdfPage": 72,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 84,
+      "word": "sang",
+      "meaning": "（sing的过去式）唱歌",
+      "phonetic": "sæŋ",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 85,
+      "word": "beautifully",
+      "meaning": "优美地，动听地",
+      "phonetic": "'bju:tifuli",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 86,
+      "word": "saw",
+      "meaning": "（see的过去式）看见",
+      "phonetic": "sɒ:",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 87,
+      "word": "game",
+      "meaning": "游戏；比赛",
+      "phonetic": "geim",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 88,
+      "word": "last",
+      "meaning": "最近过去的",
+      "phonetic": "lɑ:st",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 89,
+      "word": "fun",
+      "meaning": "有趣的事",
+      "phonetic": "fʌn",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 90,
+      "word": "went",
+      "meaning": "（go的过去式）去",
+      "phonetic": "went",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 91,
+      "word": "there",
+      "meaning": "在那儿，往那里",
+      "phonetic": "ðєә",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 92,
+      "word": "ate",
+      "meaning": "（eat的过去式）吃",
+      "phonetic": "'eit",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 93,
+      "word": "drank",
+      "meaning": "（drink的过去式）喝，饮",
+      "phonetic": "dræŋk",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 94,
+      "word": "drink",
+      "meaning": "饮料",
+      "phonetic": "driŋk",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 95,
+      "word": "time",
+      "meaning": "一段时间",
+      "phonetic": "taim",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 96,
+      "word": "have a good time",
+      "meaning": "玩得开心",
+      "phonetic": "",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 97,
+      "word": "busy",
+      "meaning": "忙的，忙碌的",
+      "phonetic": "'bizi",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 98,
+      "word": "took",
+      "meaning": "（take的过去式）拍摄",
+      "phonetic": "tuk",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 99,
+      "word": "tell",
+      "meaning": "告诉，告知",
+      "phonetic": "tel",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 100,
+      "word": "great",
+      "meaning": "非常好的，令人愉快的",
+      "phonetic": "greit",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 101,
+      "word": "delicious",
+      "meaning": "美味的，可口的",
+      "phonetic": "di'liʃәs",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 102,
+      "word": "made",
+      "meaning": "（make的过去式）做，制作",
+      "phonetic": "meid",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 103,
+      "word": "poster",
+      "meaning": "海报，招贴画",
+      "phonetic": "'pәustә",
+      "unit": "Module 8",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 104,
+      "word": "welcome",
+      "meaning": "欢迎",
+      "phonetic": "'welkәm",
+      "unit": "Module 9",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 105,
+      "word": "postcard",
+      "meaning": "明信片",
+      "phonetic": "'pәustkɑ:d",
+      "unit": "Module 9",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 106,
+      "word": "cousin",
+      "meaning": "表（堂）兄弟；表（堂）姐妹",
+      "phonetic": "'kʌzәn",
+      "unit": "Module 9",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 107,
+      "word": "dear",
+      "meaning": "亲爱的",
+      "phonetic": "'diә",
+      "unit": "Module 9",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 108,
+      "word": "on holiday",
+      "meaning": "在休假，在度假",
+      "phonetic": "",
+      "unit": "Module 9",
+      "pdfPage": 72,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 109,
+      "word": "travel",
+      "meaning": "旅行；游历",
+      "phonetic": "'trævl",
+      "unit": "Module 9",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 110,
+      "word": "came",
+      "meaning": "（come的过去式）来",
+      "phonetic": "keim",
+      "unit": "Module 9",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 111,
+      "word": "pop",
+      "meaning": "流行音乐的",
+      "phonetic": "pɒp",
+      "unit": "Module 9",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 112,
+      "word": "concert",
+      "meaning": "音乐会",
+      "phonetic": "'kɒnsәt",
+      "unit": "Module 9",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 113,
+      "word": "earth",
+      "meaning": "地球",
+      "phonetic": "ә:θ",
+      "unit": "Module 9",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 114,
+      "word": "fall",
+      "meaning": "掉下，落下；摔倒",
+      "phonetic": "fɒ:l",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 115,
+      "word": "fall off",
+      "meaning": "跌落",
+      "phonetic": "",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 116,
+      "word": "fell",
+      "meaning": "（fall的过去式）掉下，落下；摔倒",
+      "phonetic": "fel",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 117,
+      "word": "fall down",
+      "meaning": "摔倒，跌倒；坍塌",
+      "phonetic": "fɔ:l daun",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 118,
+      "word": "found",
+      "meaning": "（find的过去式）发现，找到",
+      "phonetic": "faund",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 119,
+      "word": "town",
+      "meaning": "城镇，市镇",
+      "phonetic": "taun",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 120,
+      "word": "happen",
+      "meaning": "发生",
+      "phonetic": "'hæpәn",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 121,
+      "word": "ride",
+      "meaning": "骑车",
+      "phonetic": "raid",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 122,
+      "word": "then",
+      "meaning": "然后",
+      "phonetic": "ðen",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 123,
+      "word": "thirsty",
+      "meaning": "（口）渴的",
+      "phonetic": "'θә:sti",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 124,
+      "word": "water",
+      "meaning": "水",
+      "phonetic": "'wɒ:tә",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 125,
+      "word": "bought",
+      "meaning": "（buy的过去式）买",
+      "phonetic": "bɒ:t",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 126,
+      "word": "watermelon",
+      "meaning": "西瓜",
+      "phonetic": "'wɒtә.melәn",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 127,
+      "word": "carried",
+      "meaning": "（carry的过去式）拿，搬",
+      "phonetic": "'kærid",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 128,
+      "word": "bump",
+      "meaning": "撞伤",
+      "phonetic": "bʌmp",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 129,
+      "word": "hospital",
+      "meaning": "医院",
+      "phonetic": "'hɒspitәl",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 130,
+      "word": "had",
+      "meaning": "（have的过去式）吃；喝",
+      "phonetic": "hæd",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 131,
+      "word": "chocolate",
+      "meaning": "巧克力",
+      "phonetic": "'tʃɒkәlit",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 132,
+      "word": "stomach ache",
+      "meaning": "胃痛",
+      "phonetic": "ˈstʌmək eik",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 133,
+      "word": "cold",
+      "meaning": "感冒",
+      "phonetic": "kәuld",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 134,
+      "word": "headache",
+      "meaning": "头痛",
+      "phonetic": "'hedeik",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 135,
+      "word": "fever",
+      "meaning": "发烧",
+      "phonetic": "'fi:vә",
+      "unit": "Module 10",
+      "pdfPage": 72,
+      "phoneticSource": "ecdict"
+    }
+  ]
+}

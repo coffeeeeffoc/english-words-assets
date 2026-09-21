@@ -1,0 +1,148 @@
+{
+  "schema": 1,
+  "books": [
+    {
+      "path": "初中/英语/外研社版-外语教学与研究出版社/七年级/义务教育教科书·英语七年级上册.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e5f4fd81320f2c6cbcb2a876010b8eaa929e42c",
+      "size": 19372398,
+      "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+      "id": "fltrp-legacy-01",
+      "grade": 7,
+      "volume": "上册",
+      "bookId": "fltrp-chenlin-2011-grade7-upper",
+      "wordListPages": [
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "bodyOffset": 33,
+      "sha256": "a8eab8f0ad560d4c0eb4762a89b06545dd9192d28d266f1c4f5891454cbfa04e"
+    },
+    {
+      "path": "初中/英语/外研社版-外语教学与研究出版社/七年级/义务教育教科书·英语七年级下册.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9287d9a1b002787564f1f4fe8b0be40b10e96234",
+      "size": 17725757,
+      "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B8%83%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+      "id": "fltrp-legacy-02",
+      "grade": 7,
+      "volume": "下册",
+      "bookId": "fltrp-chenlin-2011-grade7-lower",
+      "wordListPages": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ],
+      "bodyOffset": 7,
+      "sha256": "9b0f74a66e69ff8d6c25425a1be31627c4824c441bc854d8cd54d806f6e597c7"
+    },
+    {
+      "path": "初中/英语/外研社版-外语教学与研究出版社/九年级/义务教育教科书·英语九年级上册.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51f9629971bcc60ab2be24b9eec4b3468a45f40e",
+      "size": 14367859,
+      "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+      "id": "fltrp-legacy-03",
+      "grade": 9,
+      "volume": "上册",
+      "bookId": "fltrp-chenlin-2011-grade9-upper",
+      "wordListPages": [
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "bodyOffset": 7,
+      "sha256": "9a05cbe618e0221342ce8caf32a4ff002af4045a9745ce7b06acc4938e0780b8"
+    },
+    {
+      "path": "初中/英语/外研社版-外语教学与研究出版社/九年级/义务教育教科书·英语九年级下册.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35ad83f2ad20a04293f7e504cbf2eef488698e6e",
+      "size": 16229788,
+      "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E4%B9%9D%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+      "id": "fltrp-legacy-04",
+      "grade": 9,
+      "volume": "下册",
+      "bookId": "fltrp-chenlin-2011-grade9-lower",
+      "wordListPages": [
+        115,
+        116,
+        117
+      ],
+      "bodyOffset": 7,
+      "sha256": "6d64cda86c3820115d3c8d4e8793bf278eb26fdacfc44bdce57625814878e740"
+    },
+    {
+      "path": "初中/英语/外研社版-外语教学与研究出版社/八年级/义务教育教科书·英语八年级上册.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29df9d4904289af2ef7085c862521a7eda8f4562",
+      "size": 19606913,
+      "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+      "id": "fltrp-legacy-05",
+      "grade": 8,
+      "volume": "上册",
+      "bookId": "fltrp-chenlin-2011-grade8-upper",
+      "wordListPages": [
+        144,
+        145,
+        146,
+        147,
+        148,
+        149
+      ],
+      "bodyOffset": 7,
+      "sha256": "6a5d9bf9e45b70015c400f73c442f43949ce5e20aaf0f2d77965f64ed86c9256"
+    },
+    {
+      "path": "初中/英语/外研社版-外语教学与研究出版社/八年级/义务教育教科书·英语八年级下册.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f97f0b4ec03b96054e8e91009721cf2502f908a",
+      "size": 18663200,
+      "url": "https://raw.githubusercontent.com/TapXWorld/ChinaTextbook/5a80345f2043ba6f8db8d7be9cf3db82725ff1f7/%E5%88%9D%E4%B8%AD/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88-%E5%A4%96%E8%AF%AD%E6%95%99%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%87%BA%E7%89%88%E7%A4%BE/%E5%85%AB%E5%B9%B4%E7%BA%A7/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+      "id": "fltrp-legacy-06",
+      "grade": 8,
+      "volume": "下册",
+      "bookId": "fltrp-chenlin-2011-grade8-lower",
+      "wordListPages": [
+        119,
+        120,
+        121,
+        122,
+        123
+      ],
+      "bodyOffset": 7,
+      "sha256": "b1b28e90ab90767534725631747fc7047f82d3eda1f0dc703a86af31a61ae117"
+    }
+  ],
+  "transcribedPages": {
+    "fltrp-legacy-01": {
+      "122": "You're welcome. 不用谢，别客气。(S16)\nblack /blæk/ adj. 黑色的 (S18)\nwhite /waɪt/ adj. 白色的 (S18)\nblue /bluː/ adj. 蓝色的 (S18)\ngreen /ɡriːn/ adj. 绿色的 (S18)\nyellow /ˈjeləʊ/ adj. 黄色的 (S18)\nred /red/ adj. 红色的 (S18)\nbrown /braʊn/ adj. 棕色的，褐色的 (S18)\norange /ˈɒrɪndʒ/ adj. 橘黄色的 n. 柑橘；橙 (S18)\ncolour (Am E color) /ˈkʌlə/ n. 颜色 (S18)\nand /ænd; ənd/ conj. 和，与 (S18)\nModule 4\nday /deɪ/ n. 一天，一日 (S20)\ntoday /təˈdeɪ/ n. 今天 (S20)\nMonday /ˈmʌndeɪ/ n. 星期一 (S20)\nTuesday /ˈtjuːzdeɪ/ n. 星期二 (S20)\nWednesday /ˈwenzdeɪ/ n. 星期三 (S20)\nThursday /ˈθɜːzdeɪ/ n. 星期四 (S20)\nFriday /ˈfraɪdeɪ/ n. 星期五 (S20)\nSaturday /ˈsætədeɪ/ n. 星期六 (S20)\nSunday /ˈsʌndeɪ/ n. 星期日 (S20)\nbirthday /ˈbɜːθdeɪ/ n. 生日 (S21)\nfavourite (Am E favorite) /ˈfeɪvərət/ adj. 最喜爱的 (S21)\nspring /sprɪŋ/ n. 春天 (S22)\nsummer /ˈsʌmə/ n. 夏天 (S22)\nautumn /ˈɔːtəm/ n. 秋天 (S22)\nwinter /ˈwɪntə/ n. 冬天 (S22)\nwarm /wɔːm/ adj. 暖和的，温暖的 (S22)\nhot /hɒt/ adj. 热的 (S22)\ncool /kuːl/ adj. 凉快的 (S22)\ncold /kəʊld/ adj. 冷的 (S22)\nweather /ˈweðə/ n. 天气 (S22)\nlike /laɪk/ prep. 如同，像 (S22)\nLondon /ˈlʌndən/ 伦敦 (S23)\nbasketball /ˈbɑːskɪtbɔːl/ n. 篮球 (S24)\nfootball /ˈfʊtbɔːl/ n. 足球 (S24)\nswimming /ˈswɪmɪŋ/ n. 游泳 (S24)\ntable tennis /ˈtenɪs/ n. 乒乓球 (S24)\nsport /spɔːt/ n. 运动 (S24)\nlet /let/ v. 让，使 (S24)\nus /ʌs; əs/ pron. （宾格）我们 (S24)\nlet's = let us 让我们 (S24)\nplay /pleɪ/ v. 参加（体育运动或球赛）；玩耍 (S24)\nafter /ˈɑːftə/ prep. 在……后 (S24)\nschool /skuːl/ n. 学校 (S24)\nidea /aɪˈdɪə/ n. 想法；主意 (S24)"
+    }
+  },
+  "notes": [
+    "七上PDF第122页（书内89页）无文本层：逐行人工转录并对照渲染页。",
+    "八上PDF第147页（书内140页）：side与side by side共享(64)页码；拆为两条，正文64页可核对。"
+  ]
+}

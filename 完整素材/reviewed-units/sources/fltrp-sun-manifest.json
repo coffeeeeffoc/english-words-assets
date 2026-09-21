@@ -1,0 +1,292 @@
+[
+  {
+    "id": "fltrp-sun-3-upper-2026",
+    "grade": 3,
+    "volume": "上册",
+    "file": "fltrp-sun-3-upper.tsv",
+    "edition": "孙有中主编·2022年版课标修订；2024年7月第1版，2025年6月第41次印刷；SmartEdu 2026年度目录",
+    "bookId": "edb32f67-1cf7-94d6-0626-e14dc08b377a",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/edb32f67-1cf7-94d6-0626-e14dc08b377a.pkg/义务教育教科书•英语_三年级_上册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=edb32f67-1cf7-94d6-0626-e14dc08b377a",
+    "sha256": "b78d852cd37e194a7d0cf4f66138bd32199b97916eb52b03e2eaf23c6e9fc3c5",
+    "pages": [
+      92,
+      94
+    ],
+    "expectedUnits": {
+      "Welcome": 31,
+      "Unit 1": 39,
+      "Unit 2": 28,
+      "Unit 3": 28,
+      "Unit 4": 33,
+      "Unit 5": 21,
+      "Unit 6": 28
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-3-lower-2025",
+    "grade": 3,
+    "volume": "下册",
+    "file": "fltrp-sun-3-lower.tsv",
+    "edition": "孙有中主编·2022年版课标修订；SmartEdu 2025年度目录；所提供PDF版权页为空，具体印次未展示",
+    "bookId": "cf006d93-fbec-0d59-f36e-2253fd4bb09c",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/cf006d93-fbec-0d59-f36e-2253fd4bb09c.pkg/义务教育教科书 英语 三年级下册.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cf006d93-fbec-0d59-f36e-2253fd4bb09c",
+    "sha256": "e73564e4e6de697342b2bcf32017e60fa9d7abee16d6bbeba2845e98f784bb79",
+    "pages": [
+      87,
+      90
+    ],
+    "expectedUnits": {
+      "Unit 1": 34,
+      "Unit 2": 37,
+      "Unit 3": 47,
+      "Unit 4": 29,
+      "Unit 5": 19,
+      "Unit 6": 34
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-4-upper-2026",
+    "grade": 4,
+    "volume": "上册",
+    "file": "fltrp-sun-4-upper.tsv",
+    "edition": "孙有中主编·2022年版课标修订；SmartEdu 2026年度目录；所提供PDF版权页为空，具体印次未展示",
+    "bookId": "6cead28f-ad08-dcec-eda1-6cbc71f157b9",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/6cead28f-ad08-dcec-eda1-6cbc71f157b9.pkg/义务教育教科书•英语_四年级_上册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6cead28f-ad08-dcec-eda1-6cbc71f157b9",
+    "sha256": "7eeb85348a65ea80d866505a90049fddd08f4c81eeedd7369daf799490d2d950",
+    "pages": [
+      87,
+      90
+    ],
+    "expectedUnits": {
+      "Unit 1": 31,
+      "Unit 2": 40,
+      "Unit 3": 27,
+      "Unit 4": 19,
+      "Unit 5": 26,
+      "Unit 6": 22
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-4-lower-2022cs",
+    "grade": 4,
+    "volume": "下册",
+    "file": "fltrp-sun-4-lower.tsv",
+    "edition": "孙有中主编·2022年版课标修订；SmartEdu官方收录；所提供PDF版权页为空，具体印次未展示",
+    "bookId": "e7cf1b69-fa7b-19c5-6201-623f10c364b8",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/e7cf1b69-fa7b-19c5-6201-623f10c364b8.pkg/9787521368437_义务教育教科书•英语_四年级_下册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e7cf1b69-fa7b-19c5-6201-623f10c364b8",
+    "sha256": "902d0d587790648b238b167cce27d913d3a14a80d8bfc5c6ead963b8537440ae",
+    "pages": [
+      87,
+      90
+    ],
+    "expectedUnits": {
+      "Unit 1": 33,
+      "Unit 2": 18,
+      "Unit 3": 10,
+      "Unit 4": 15,
+      "Unit 5": 19,
+      "Unit 6": 16
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-5-upper-2026",
+    "grade": 5,
+    "volume": "上册",
+    "file": "fltrp-sun-5-upper.tsv",
+    "edition": "孙有中主编·2022年版课标修订；2025年7月第1版、第1次印刷；SmartEdu 2026年度目录",
+    "bookId": "77c1748b-51a5-ba5d-8868-a2c7055678b5",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/77c1748b-51a5-ba5d-8868-a2c7055678b5.pkg/义务教育教科书•英语_五年级_上册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=77c1748b-51a5-ba5d-8868-a2c7055678b5",
+    "sha256": "9b6278dbcdbcf465588c1a6e150099496790a56f64d676b4a8082aa3ac807e71",
+    "pages": [
+      100,
+      101
+    ],
+    "expectedUnits": {
+      "Unit 1": 34,
+      "Unit 2": 19,
+      "Unit 3": 13,
+      "Unit 4": 24,
+      "Unit 5": 14,
+      "Unit 6": 9
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-5-lower-2022cs",
+    "grade": 5,
+    "volume": "下册",
+    "file": "fltrp-sun-5-lower.tsv",
+    "edition": "孙有中主编·2022年版课标修订；SmartEdu官方收录；所提供PDF版权页为空，具体印次未展示",
+    "bookId": "2e4a649a-af6f-0905-9693-5c5c93548622",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/2e4a649a-af6f-0905-9693-5c5c93548622.pkg/9787521368352_义务教育教科书•英语_五年级_下册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2e4a649a-af6f-0905-9693-5c5c93548622",
+    "sha256": "d59aa10fc4ef7a5c5a34039f3058d25f4fcf5fad9573a4e81b3ad70d22960a15",
+    "pages": [
+      99,
+      100
+    ],
+    "expectedUnits": {
+      "Unit 1": 16,
+      "Unit 2": 20,
+      "Unit 3": 22,
+      "Unit 4": 26,
+      "Unit 5": 13,
+      "Unit 6": 10
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-6-upper-2022cs",
+    "grade": 6,
+    "volume": "上册",
+    "file": "fltrp-sun-6-upper.tsv",
+    "edition": "孙有中主编·2022年版课标修订；SmartEdu官方收录；版权页CIP文字日期2024.10，版次、ISBN及印次字段未填写，不能据此推定印次",
+    "bookId": "a415cb61-eb1d-170b-b7d0-e810717bf6f8",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/a415cb61-eb1d-170b-b7d0-e810717bf6f8.pkg/义务教育教科书•英语_六年级_上册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a415cb61-eb1d-170b-b7d0-e810717bf6f8",
+    "sha256": "ff6158bc3337891c97ab5c5cd9b76175a25b727529fcbe99e46929afe03e1b67",
+    "pages": [
+      102,
+      104
+    ],
+    "expectedUnits": {
+      "Unit 1": 12,
+      "Unit 2": 13,
+      "Unit 3": 14,
+      "Unit 4": 19,
+      "Unit 5": 12,
+      "Unit 6": 9
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-7-upper-2026",
+    "grade": 7,
+    "volume": "上册",
+    "file": "fltrp-sun-7-upper.tsv",
+    "edition": "孙有中主编·2022年版课标修订；SmartEdu 2026年度目录；所提供PDF版权页为空，具体印次未展示",
+    "bookId": "adb3ff3e-323b-5895-30b3-b4aab73ebffd",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/adb3ff3e-323b-5895-30b3-b4aab73ebffd.pkg/义务教育教科书•英语（配有听力材料）_七年级_上册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=adb3ff3e-323b-5895-30b3-b4aab73ebffd",
+    "sha256": "5e975c9a4bf2cc6b4a425f2c1a525e1cd16a1e66d29453429c89c1b8fb550507",
+    "pages": [
+      158,
+      164
+    ],
+    "expectedUnits": {
+      "Starter": 35,
+      "Unit 1": 37,
+      "Unit 2": 44,
+      "Unit 3": 41,
+      "Unit 4": 47,
+      "Unit 5": 46,
+      "Unit 6": 48
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-7-lower-2025",
+    "grade": 7,
+    "volume": "下册",
+    "file": "fltrp-sun-7-lower.tsv",
+    "edition": "孙有中主编·2022年版课标修订；SmartEdu 2025年度目录；所提供PDF版权页为空，具体印次未展示",
+    "bookId": "80a9d47b-a6c9-36c5-cd53-ba5ac343f971",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/80a9d47b-a6c9-36c5-cd53-ba5ac343f971.pkg/义务教育教科书•英语_七年级_下册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=80a9d47b-a6c9-36c5-cd53-ba5ac343f971",
+    "sha256": "000989a8e92070a5048c18ae2a7a41e5b32fc130618cfb2c03ce795084a50a24",
+    "pages": [
+      137,
+      143
+    ],
+    "expectedUnits": {
+      "Unit 1": 46,
+      "Unit 2": 49,
+      "Unit 3": 49,
+      "Unit 4": 50,
+      "Unit 5": 45,
+      "Unit 6": 51
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-8-upper-2026",
+    "grade": 8,
+    "volume": "上册",
+    "file": "fltrp-sun-8-upper.tsv",
+    "edition": "孙有中主编·2022年版课标修订；SmartEdu 2026年度目录；所提供PDF版权页为空，具体版次与印次未展示",
+    "bookId": "4631365b-5647-850e-5956-ca29c27a1d16",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/4631365b-5647-850e-5956-ca29c27a1d16.pkg/义务教育教科书•英语（配有听力材料）_八年级_上册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4631365b-5647-850e-5956-ca29c27a1d16",
+    "sha256": "b7f0f7fee17eced1fc86fe9edcdbc6386edc19aa090e59d82c2ec72db0bf858e",
+    "pages": [
+      137,
+      143
+    ],
+    "expectedUnits": {
+      "Unit 1": 57,
+      "Unit 2": 60,
+      "Unit 3": 57,
+      "Unit 4": 56,
+      "Unit 5": 59,
+      "Unit 6": 56
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-8-lower-2022cs",
+    "grade": 8,
+    "volume": "下册",
+    "file": "fltrp-sun-8-lower.tsv",
+    "edition": "孙有中主编·2022年版课标修订；SmartEdu 未提供年度标签；所提供PDF版权页为空，具体版次与印次未展示",
+    "bookId": "e97b46fe-ed57-9d08-5533-60ff4bb437ae",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/e97b46fe-ed57-9d08-5533-60ff4bb437ae.pkg/9787521368246_义务教育教科书•英语_八年级_下册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e97b46fe-ed57-9d08-5533-60ff4bb437ae",
+    "sha256": "65fc3f2245bc9840cbad3978afe19584a05de9f9ae62610cb89bf64030960036",
+    "pages": [
+      143,
+      146
+    ],
+    "expectedUnits": {
+      "Unit 1": 34,
+      "Unit 2": 31,
+      "Unit 3": 40,
+      "Unit 4": 36,
+      "Unit 5": 38,
+      "Unit 6": 32
+    },
+    "completeMainWordList": true
+  },
+  {
+    "id": "fltrp-sun-9-upper-2022cs",
+    "grade": 9,
+    "volume": "上册",
+    "file": "fltrp-sun-9-upper.tsv",
+    "edition": "孙有中主编·2022年版课标修订；SmartEdu 未提供年度标签；PDF版权页CIP标注2024.10，版次与印次栏未填写",
+    "bookId": "2c8772f1-c624-51e1-215d-f0a35f4b5820",
+    "url": "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/2c8772f1-c624-51e1-215d-f0a35f4b5820.pkg/义务教育教科书•英语（配有听力材料）_九年级_上册_外语教学与研究出版社.pdf",
+    "pageUrl": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2c8772f1-c624-51e1-215d-f0a35f4b5820",
+    "sha256": "e7c545c6b3ee225f5eb8539f28eb3b2e40b87fd29256573cfcc7dd29a30404dc",
+    "pages": [
+      144,
+      149
+    ],
+    "expectedUnits": {
+      "Unit 1": 41,
+      "Unit 2": 40,
+      "Unit 3": 41,
+      "Unit 4": 37,
+      "Unit 5": 36,
+      "Unit 6": 42
+    },
+    "completeMainWordList": true
+  }
+]

@@ -1,0 +1,1805 @@
+{
+  "id": "fltrp-sun-3-lower-2025",
+  "entries": [
+    {
+      "ordinal": 1,
+      "word": "animal",
+      "meaning": "动物",
+      "phonetic": "'ænimәl",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 2,
+      "word": "panda",
+      "meaning": "大熊猫",
+      "phonetic": "'pændә",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 3,
+      "word": "elephant",
+      "meaning": "象",
+      "phonetic": "'elifәnt",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 4,
+      "word": "bear",
+      "meaning": "熊",
+      "phonetic": "bєә",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 5,
+      "word": "giraffe",
+      "meaning": "长颈鹿",
+      "phonetic": "dʒi'rɑ:f",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 6,
+      "word": "monkey",
+      "meaning": "猴",
+      "phonetic": "'mʌŋki",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 7,
+      "word": "them",
+      "meaning": "他们；她们；它们",
+      "phonetic": "ðem",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 8,
+      "word": "draw",
+      "meaning": "画，绘画",
+      "phonetic": "drɒ:",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 9,
+      "word": "tiger",
+      "meaning": "老虎，虎",
+      "phonetic": "'taigә",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 10,
+      "word": "strong",
+      "meaning": "强壮的，力气大的",
+      "phonetic": "strɒŋ",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 11,
+      "word": "short",
+      "meaning": "个子矮的",
+      "phonetic": "ʃɒ:t",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 12,
+      "word": "white",
+      "meaning": "白的，白色的",
+      "phonetic": "hwait",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 13,
+      "word": "brown",
+      "meaning": "棕色的；褐色的",
+      "phonetic": "braun",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 14,
+      "word": "tall",
+      "meaning": "高的，高大的",
+      "phonetic": "tɒ:l",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 15,
+      "word": "him",
+      "meaning": "他；它（指雄性动物）",
+      "phonetic": "him",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 16,
+      "word": "ostrich",
+      "meaning": "鸵鸟",
+      "phonetic": "'ɒstritʃ",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 17,
+      "word": "fast",
+      "meaning": "快的，快速的",
+      "phonetic": "fɑ:st",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 18,
+      "word": "chameleon",
+      "meaning": "变色龙",
+      "phonetic": "kә'mi:liәn",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 19,
+      "word": "small",
+      "meaning": "小的",
+      "phonetic": "smɒ:l",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 20,
+      "word": "lion",
+      "meaning": "狮子",
+      "phonetic": "'laiәn",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 21,
+      "word": "cute",
+      "meaning": "可爱的，漂亮的，逗人喜爱的",
+      "phonetic": "kju:t",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 22,
+      "word": "out",
+      "meaning": "往外，向外，出来",
+      "phonetic": "aut",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 23,
+      "word": "zoo",
+      "meaning": "动物园",
+      "phonetic": "zu:",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 24,
+      "word": "go",
+      "meaning": "走，去",
+      "phonetic": "gou",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 25,
+      "word": "zebra",
+      "meaning": "斑马",
+      "phonetic": "'zi:brә",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 26,
+      "word": "move",
+      "meaning": "移动",
+      "phonetic": "mu:v",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 27,
+      "word": "road",
+      "meaning": "路，道路",
+      "phonetic": "rәud",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 28,
+      "word": "dance",
+      "meaning": "跳舞",
+      "phonetic": "dæns. dɑ:ns",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 29,
+      "word": "along",
+      "meaning": "一起",
+      "phonetic": "ә'lɒŋ",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 30,
+      "word": "which",
+      "meaning": "哪一个；哪些",
+      "phonetic": "hwitʃ",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 31,
+      "word": "word",
+      "meaning": "字，词，单词",
+      "phonetic": "wә:d",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 32,
+      "word": "stone",
+      "meaning": "石头",
+      "phonetic": "stәun",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 33,
+      "word": "hat",
+      "meaning": "帽子",
+      "phonetic": "hæt",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 34,
+      "word": "shoe",
+      "meaning": "鞋",
+      "phonetic": "ʃu:",
+      "unit": "Unit 1",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 35,
+      "word": "body",
+      "meaning": "身体",
+      "phonetic": "'bɒdi",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 36,
+      "word": "head",
+      "meaning": "头，头部",
+      "phonetic": "hed",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 37,
+      "word": "eye",
+      "meaning": "眼睛",
+      "phonetic": "ai",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 38,
+      "word": "ear",
+      "meaning": "耳朵",
+      "phonetic": "iә",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 39,
+      "word": "mouth",
+      "meaning": "嘴，口",
+      "phonetic": "mauθ",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 40,
+      "word": "nose",
+      "meaning": "鼻子",
+      "phonetic": "nәuz",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 41,
+      "word": "touch",
+      "meaning": "触摸，碰",
+      "phonetic": "tʌtʃ",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 42,
+      "word": "hand",
+      "meaning": "手",
+      "phonetic": "hænd",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 43,
+      "word": "arm",
+      "meaning": "手臂，上肢",
+      "phonetic": "ɑ:m",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 44,
+      "word": "leg",
+      "meaning": "腿",
+      "phonetic": "leg",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 45,
+      "word": "foot",
+      "meaning": "（复数 feet）脚",
+      "phonetic": "fut",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 46,
+      "word": "toe",
+      "meaning": "脚趾",
+      "phonetic": "tәu",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 47,
+      "word": "get",
+      "meaning": "获得，得到",
+      "phonetic": "get",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 48,
+      "word": "snowy",
+      "meaning": "多雪的，积雪的",
+      "phonetic": "'snәui",
+      "unit": "Unit 2",
+      "pdfPage": 87,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 49,
+      "word": "child",
+      "meaning": "（复数 children）儿童，小孩",
+      "phonetic": "tʃaild",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 50,
+      "word": "work",
+      "meaning": "事情，工作",
+      "phonetic": "wә:k",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 51,
+      "word": "snowman",
+      "meaning": "雪人",
+      "phonetic": "'snәumæn",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 52,
+      "word": "long",
+      "meaning": "长的",
+      "phonetic": "lɒŋ",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 53,
+      "word": "rock",
+      "meaning": "石头，石子",
+      "phonetic": "rɒk",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 54,
+      "word": "cool",
+      "meaning": "时髦的，酷的",
+      "phonetic": "ku:l",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 55,
+      "word": "best",
+      "meaning": "最好的",
+      "phonetic": "best",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 56,
+      "word": "part",
+      "meaning": "器官；部位；组成部分",
+      "phonetic": "pɑ:t",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 57,
+      "word": "well",
+      "meaning": "嗯，这个；健康的",
+      "phonetic": "wel",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 58,
+      "word": "hear",
+      "meaning": "听见",
+      "phonetic": "hiә",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 59,
+      "word": "smell",
+      "meaning": "闻到，嗅到",
+      "phonetic": "smel",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 60,
+      "word": "talk",
+      "meaning": "说话",
+      "phonetic": "tɒ:k",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 61,
+      "word": "eat",
+      "meaning": "吃",
+      "phonetic": "i:t",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 62,
+      "word": "hey",
+      "meaning": "嘿，喂",
+      "phonetic": "hei",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 63,
+      "word": "stop",
+      "meaning": "停止，终止",
+      "phonetic": "stɒp",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 64,
+      "word": "important",
+      "meaning": "重要的，重大的",
+      "phonetic": "im'pɒ:tәnt",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 65,
+      "word": "team",
+      "meaning": "队",
+      "phonetic": "ti:m",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 66,
+      "word": "dream",
+      "meaning": "梦",
+      "phonetic": "dri:m",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 67,
+      "word": "ask",
+      "meaning": "问，提问",
+      "phonetic": "ɑ:sk",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 68,
+      "word": "answer",
+      "meaning": "回答，答复",
+      "phonetic": "'ɑ:nsә",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 69,
+      "word": "hair",
+      "meaning": "头发",
+      "phonetic": "hєә",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 70,
+      "word": "different",
+      "meaning": "不同的，不一样的，有差异的",
+      "phonetic": "'difәrәnt",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 71,
+      "word": "face",
+      "meaning": "脸",
+      "phonetic": "feis",
+      "unit": "Unit 2",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 72,
+      "word": "yummy",
+      "meaning": "美味的，很好吃的",
+      "phonetic": "'jʌmi",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 73,
+      "word": "food",
+      "meaning": "食物",
+      "phonetic": "fu:d",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 74,
+      "word": "strawberry",
+      "meaning": "草莓",
+      "phonetic": "'strɒ:bәri",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 75,
+      "word": "tomato",
+      "meaning": "番茄，西红柿",
+      "phonetic": "tә'mɑ:tәu",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 76,
+      "word": "noodles",
+      "meaning": "（一般用复数）面条",
+      "phonetic": "",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 77,
+      "word": "carrot",
+      "meaning": "胡萝卜",
+      "phonetic": "'kærәt",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 78,
+      "word": "chicken",
+      "meaning": "鸡肉；鸡",
+      "phonetic": "'tʃikin",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 79,
+      "word": "fish",
+      "meaning": "鱼肉；鱼",
+      "phonetic": "fiʃ",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 80,
+      "word": "rice",
+      "meaning": "米；米饭",
+      "phonetic": "rais",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 81,
+      "word": "meat",
+      "meaning": "肉",
+      "phonetic": "mi:t",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 82,
+      "word": "fruit",
+      "meaning": "水果",
+      "phonetic": "fru:t",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 83,
+      "word": "vegetable",
+      "meaning": "蔬菜",
+      "phonetic": "'vedʒәtәbl",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 84,
+      "word": "salad",
+      "meaning": "沙拉",
+      "phonetic": "'sælәd",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 85,
+      "word": "banana",
+      "meaning": "香蕉",
+      "phonetic": "bә'nɑ:nә",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 86,
+      "word": "bean",
+      "meaning": "豆子",
+      "phonetic": "bi:n",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 87,
+      "word": "cucumber",
+      "meaning": "黄瓜",
+      "phonetic": "'kju:kәmbә",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 88,
+      "word": "then",
+      "meaning": "那么；然后，接下来",
+      "phonetic": "ðen",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 89,
+      "word": "about",
+      "meaning": "关于",
+      "phonetic": "ә'baut",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 90,
+      "word": "what about...",
+      "meaning": "……怎么样",
+      "phonetic": "",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 91,
+      "word": "grape",
+      "meaning": "葡萄",
+      "phonetic": "greip",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 92,
+      "word": "juice",
+      "meaning": "汁",
+      "phonetic": "dʒu:s",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 93,
+      "word": "why",
+      "meaning": "为什么",
+      "phonetic": "hwai",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 94,
+      "word": "early",
+      "meaning": "提早，提前；早的",
+      "phonetic": "'ә:li",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 95,
+      "word": "breakfast",
+      "meaning": "早餐，早饭",
+      "phonetic": "'brekfәst",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 96,
+      "word": "time",
+      "meaning": "时间",
+      "phonetic": "taim",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 97,
+      "word": "still",
+      "meaning": "还，仍然",
+      "phonetic": "stil",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 98,
+      "word": "ready",
+      "meaning": "准备好的",
+      "phonetic": "'redi",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 99,
+      "word": "corn",
+      "meaning": "玉米",
+      "phonetic": "kɒ:n",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 100,
+      "word": "lunch",
+      "meaning": "午餐",
+      "phonetic": "lʌntʃ",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 101,
+      "word": "very",
+      "meaning": "很，非常",
+      "phonetic": "'veri",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 102,
+      "word": "much",
+      "meaning": "非常",
+      "phonetic": "mʌtʃ",
+      "unit": "Unit 3",
+      "pdfPage": 88,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 103,
+      "word": "very much",
+      "meaning": "非常",
+      "phonetic": "ˈveri mʌtʃ",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 104,
+      "word": "afternoon",
+      "meaning": "下午，午后",
+      "phonetic": "'ɑ:ftә'nu:n",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 105,
+      "word": "tea",
+      "meaning": "茶；茶叶",
+      "phonetic": "ti:",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 106,
+      "word": "afternoon tea",
+      "meaning": "下午茶",
+      "phonetic": "ˌɑ:ftəˈnu:n ti:",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 107,
+      "word": "every",
+      "meaning": "每，每逢，每隔",
+      "phonetic": "'evri",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 108,
+      "word": "week",
+      "meaning": "星期，周",
+      "phonetic": "wi:k",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 109,
+      "word": "tree",
+      "meaning": "树",
+      "phonetic": "tri:",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 110,
+      "word": "milk",
+      "meaning": "奶，牛奶",
+      "phonetic": "milk",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 111,
+      "word": "cupcake",
+      "meaning": "杯形蛋糕",
+      "phonetic": "'kʌpkeik",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 112,
+      "word": "sandwich",
+      "meaning": "三明治，夹心面包",
+      "phonetic": "'sændwitʃ",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 113,
+      "word": "beef",
+      "meaning": "牛肉",
+      "phonetic": "bi:f",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 114,
+      "word": "dumpling",
+      "meaning": "水饺",
+      "phonetic": "'dʌmpliŋ",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 115,
+      "word": "hot",
+      "meaning": "热的",
+      "phonetic": "hɒt",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 116,
+      "word": "hot dog",
+      "meaning": "热狗",
+      "phonetic": "hɔt dɔɡ",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 117,
+      "word": "sushi",
+      "meaning": "寿司",
+      "phonetic": "'su:ʃi",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 118,
+      "word": "cake",
+      "meaning": "蛋糕",
+      "phonetic": "keik",
+      "unit": "Unit 3",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 119,
+      "word": "hobby",
+      "meaning": "业余爱好，嗜好",
+      "phonetic": "'hɒbi",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 120,
+      "word": "free",
+      "meaning": "空闲的，有空的",
+      "phonetic": "fri:",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 121,
+      "word": "after",
+      "meaning": "在……后",
+      "phonetic": "'ɑ:ftә",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 122,
+      "word": "swim",
+      "meaning": "游泳",
+      "phonetic": "swim",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 123,
+      "word": "lot",
+      "meaning": "许多",
+      "phonetic": "lɒt",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 124,
+      "word": "a lot",
+      "meaning": "大量，许多",
+      "phonetic": "",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 125,
+      "word": "these",
+      "meaning": "这些（this 的复数形式）",
+      "phonetic": "ði:z",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 126,
+      "word": "tai chi",
+      "meaning": "太极",
+      "phonetic": "ˌtʌɪ ˈtʃiː",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 127,
+      "word": "his",
+      "meaning": "他的",
+      "phonetic": "hiz",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 128,
+      "word": "insect",
+      "meaning": "昆虫",
+      "phonetic": "'insekt",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 129,
+      "word": "man",
+      "meaning": "成年男子，男人",
+      "phonetic": "mæn",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 130,
+      "word": "learn",
+      "meaning": "学习",
+      "phonetic": "lә:n",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 131,
+      "word": "plant",
+      "meaning": "植物",
+      "phonetic": "plænt. plɑ:nt",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 132,
+      "word": "when",
+      "meaning": "什么时候",
+      "phonetic": "hwen",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 133,
+      "word": "question",
+      "meaning": "问题，疑问",
+      "phonetic": "'kwestʃәn",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 134,
+      "word": "watch",
+      "meaning": "观察",
+      "phonetic": "wɒtʃ",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 135,
+      "word": "study",
+      "meaning": "研究；仔细察看",
+      "phonetic": "'stʌdi",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 136,
+      "word": "mantis",
+      "meaning": "螳螂",
+      "phonetic": "'mæntis",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 137,
+      "word": "stay",
+      "meaning": "停留，逗留，留下",
+      "phonetic": "stei",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 138,
+      "word": "interesting",
+      "meaning": "有趣的，吸引人的",
+      "phonetic": "'intristiŋ",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 139,
+      "word": "grow",
+      "meaning": "成长，长大",
+      "phonetic": "grәu",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 140,
+      "word": "grow up",
+      "meaning": "长大",
+      "phonetic": "",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 141,
+      "word": "country",
+      "meaning": "国家",
+      "phonetic": "'kʌntri",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 142,
+      "word": "robot",
+      "meaning": "机器人",
+      "phonetic": "'rәubәt",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 143,
+      "word": "kite",
+      "meaning": "风筝",
+      "phonetic": "kait",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 144,
+      "word": "skate",
+      "meaning": "滑冰，溜冰",
+      "phonetic": "skeit",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 145,
+      "word": "ice",
+      "meaning": "冰",
+      "phonetic": "ais",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 146,
+      "word": "ski",
+      "meaning": "滑雪",
+      "phonetic": "ski:",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 147,
+      "word": "garden",
+      "meaning": "做园艺工作；花园",
+      "phonetic": "'gɑ:dn",
+      "unit": "Unit 4",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 148,
+      "word": "tick-tock",
+      "meaning": "嘀嗒声",
+      "phonetic": "ˌtɪk ˈtɒk",
+      "unit": "Unit 5",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 149,
+      "word": "tell",
+      "meaning": "告诉，告知",
+      "phonetic": "tel",
+      "unit": "Unit 5",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 150,
+      "word": "clock",
+      "meaning": "时钟",
+      "phonetic": "klɒk",
+      "unit": "Unit 5",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 151,
+      "word": "o'clock",
+      "meaning": "点钟",
+      "phonetic": "ә'klɔk",
+      "unit": "Unit 5",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 152,
+      "word": "fifteen",
+      "meaning": "十五",
+      "phonetic": "'fif'ti:n",
+      "unit": "Unit 5",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 153,
+      "word": "thirty",
+      "meaning": "三十",
+      "phonetic": "'θә:ti",
+      "unit": "Unit 5",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 154,
+      "word": "forty-five",
+      "meaning": "四十五",
+      "phonetic": "",
+      "unit": "Unit 5",
+      "pdfPage": 89,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 155,
+      "word": "dinner",
+      "meaning": "正餐，主餐",
+      "phonetic": "'dinә",
+      "unit": "Unit 5",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 156,
+      "word": "half",
+      "meaning": "一半，半",
+      "phonetic": "hɑ:f",
+      "unit": "Unit 5",
+      "pdfPage": 89,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 157,
+      "word": "past",
+      "meaning": "晚于；在……之后",
+      "phonetic": "pɑ:st",
+      "unit": "Unit 5",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 158,
+      "word": "half past one / two...",
+      "meaning": "1 点半／2 点半等",
+      "phonetic": "",
+      "unit": "Unit 5",
+      "pdfPage": 90,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 159,
+      "word": "urgh",
+      "meaning": "呃，呸",
+      "phonetic": "",
+      "unit": "Unit 5",
+      "pdfPage": 90,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 160,
+      "word": "homework",
+      "meaning": "家庭作业，功课",
+      "phonetic": "'hәumwә:k",
+      "unit": "Unit 5",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 161,
+      "word": "need",
+      "meaning": "需要",
+      "phonetic": "ni:d",
+      "unit": "Unit 5",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 162,
+      "word": "activity",
+      "meaning": "活动",
+      "phonetic": "æk'tiviti",
+      "unit": "Unit 5",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 163,
+      "word": "her",
+      "meaning": "她的",
+      "phonetic": "hә:",
+      "unit": "Unit 5",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 164,
+      "word": "class",
+      "meaning": "课；班级",
+      "phonetic": "klɑ:s",
+      "unit": "Unit 5",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 165,
+      "word": "evening",
+      "meaning": "傍晚；晚上",
+      "phonetic": "'i:vniŋ",
+      "unit": "Unit 5",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 166,
+      "word": "call",
+      "meaning": "（给……）打电话",
+      "phonetic": "kɒ:l",
+      "unit": "Unit 5",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 167,
+      "word": "Monday",
+      "meaning": "星期一",
+      "phonetic": "'mʌndi",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 168,
+      "word": "Tuesday",
+      "meaning": "星期二",
+      "phonetic": "'tju:zdi",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 169,
+      "word": "Wednesday",
+      "meaning": "星期三",
+      "phonetic": "'wenzdi",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 170,
+      "word": "Thursday",
+      "meaning": "星期四",
+      "phonetic": "'θә:zdi",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 171,
+      "word": "Friday",
+      "meaning": "星期五",
+      "phonetic": "'fraidi",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 172,
+      "word": "Saturday",
+      "meaning": "星期六",
+      "phonetic": "'sætәdi",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 173,
+      "word": "Sunday",
+      "meaning": "星期日",
+      "phonetic": "'sʌndi",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 174,
+      "word": "park",
+      "meaning": "公园",
+      "phonetic": "pɑ:k",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 175,
+      "word": "visit",
+      "meaning": "看望，拜访",
+      "phonetic": "'vizit",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 176,
+      "word": "lesson",
+      "meaning": "课，课程",
+      "phonetic": "'lesn",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 177,
+      "word": "football",
+      "meaning": "足球",
+      "phonetic": "'futbɒ:l",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 178,
+      "word": "art",
+      "meaning": "美术，艺术",
+      "phonetic": "ɑ:t",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 179,
+      "word": "subject",
+      "meaning": "学科",
+      "phonetic": "'sʌbdʒekt",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 180,
+      "word": "maths",
+      "meaning": "数学",
+      "phonetic": "mæθs",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 181,
+      "word": "science",
+      "meaning": "科学",
+      "phonetic": "'saiәns",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 182,
+      "word": "something",
+      "meaning": "某物；某事",
+      "phonetic": "'sʌmθiŋ",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 183,
+      "word": "idea",
+      "meaning": "想法，主意",
+      "phonetic": "ai'diә",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 184,
+      "word": "soon",
+      "meaning": "不久，即刻，很快",
+      "phonetic": "su:n",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 185,
+      "word": "teach",
+      "meaning": "教，教授",
+      "phonetic": "ti:tʃ",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 186,
+      "word": "English",
+      "meaning": "英语",
+      "phonetic": "'iŋgliʃ",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 187,
+      "word": "card",
+      "meaning": "卡片",
+      "phonetic": "kɑ:d",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 188,
+      "word": "busy",
+      "meaning": "忙的，忙碌的",
+      "phonetic": "'bizi",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 189,
+      "word": "old",
+      "meaning": "年老的；相识很久的",
+      "phonetic": "әuld",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 190,
+      "word": "some",
+      "meaning": "一些，若干",
+      "phonetic": "sʌm",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 191,
+      "word": "bookmark",
+      "meaning": "书签",
+      "phonetic": "'bukmɑ:k",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 192,
+      "word": "stick",
+      "meaning": "木棍，拐杖",
+      "phonetic": "stik",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 193,
+      "word": "sure",
+      "meaning": "当然，好的",
+      "phonetic": "ʃuә",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 194,
+      "word": "flower",
+      "meaning": "花，花朵",
+      "phonetic": "'flauә",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 195,
+      "word": "afterschool",
+      "meaning": "课外的",
+      "phonetic": "'ɑ:ftәsku:l",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 196,
+      "word": "club",
+      "meaning": "俱乐部",
+      "phonetic": "klʌb",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 197,
+      "word": "piano",
+      "meaning": "钢琴",
+      "phonetic": "pi'ɑ:nәu",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 198,
+      "word": "basketball",
+      "meaning": "篮球",
+      "phonetic": "'bɑ:skitbɒ:l",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 199,
+      "word": "computer",
+      "meaning": "计算机；电脑",
+      "phonetic": "kәm'pju:tә",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 200,
+      "word": "music",
+      "meaning": "音乐",
+      "phonetic": "'mju:zik",
+      "unit": "Unit 6",
+      "pdfPage": 90,
+      "phoneticSource": "ecdict"
+    }
+  ]
+}

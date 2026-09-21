@@ -1,0 +1,968 @@
+{
+  "id": "fltrp-sun-5-lower-2022cs",
+  "entries": [
+    {
+      "ordinal": 1,
+      "word": "ID",
+      "meaning": "身份证明",
+      "phonetic": "",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 2,
+      "word": "pay",
+      "meaning": "付款；付钱给（某人）",
+      "phonetic": "pei",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 3,
+      "word": "ride",
+      "meaning": "骑，骑自行车",
+      "phonetic": "raid",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 4,
+      "word": "could",
+      "meaning": "能，会，可以",
+      "phonetic": "kud",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 5,
+      "word": "holiday",
+      "meaning": "假期",
+      "phonetic": "'hɒlәdi",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 6,
+      "word": "skier",
+      "meaning": "滑雪者",
+      "phonetic": "'ski:ә",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 7,
+      "word": "camp",
+      "meaning": "活动营地，度假营地",
+      "phonetic": "kæmp",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 8,
+      "word": "summer camp",
+      "meaning": "夏令营",
+      "phonetic": "ˈsʌmə kæmp",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 9,
+      "word": "training",
+      "meaning": "训练，培训",
+      "phonetic": "'treiniŋ",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 10,
+      "word": "third",
+      "meaning": "第三的",
+      "phonetic": "θә:d",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 11,
+      "word": "mean",
+      "meaning": "意思是，表示……的意思",
+      "phonetic": "mi:n",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 12,
+      "word": "fall",
+      "meaning": "摔倒，跌倒",
+      "phonetic": "fɒ:l",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 13,
+      "word": "film",
+      "meaning": "电影，影片",
+      "phonetic": "film",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 14,
+      "word": "kill",
+      "meaning": "弄死，杀死",
+      "phonetic": "kil",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 15,
+      "word": "beat",
+      "meaning": "击败，打败，战胜",
+      "phonetic": "bi:t",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 16,
+      "word": "difficulty",
+      "meaning": "难题，难事",
+      "phonetic": "'difikәlti",
+      "unit": "Unit 1",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 17,
+      "word": "winner",
+      "meaning": "获胜者，获胜的人",
+      "phonetic": "'winә",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 18,
+      "word": "hill",
+      "meaning": "小山，小丘，山冈",
+      "phonetic": "hil",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 19,
+      "word": "June",
+      "meaning": "六月",
+      "phonetic": "dʒu:n",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 20,
+      "word": "yesterday",
+      "meaning": "在昨天，在昨日；昨天",
+      "phonetic": "'jestәdi",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 21,
+      "word": "playground",
+      "meaning": "操场，运动场",
+      "phonetic": "'pleigraund",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 22,
+      "word": "care home",
+      "meaning": "护理院",
+      "phonetic": "kɛə həum",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 23,
+      "word": "poem",
+      "meaning": "诗；韵文",
+      "phonetic": "'pәuim",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 24,
+      "word": "playful",
+      "meaning": "活泼的；爱玩的",
+      "phonetic": "'pleiful",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 25,
+      "word": "side",
+      "meaning": "一侧，身边，旁边",
+      "phonetic": "said",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 26,
+      "word": "someone",
+      "meaning": "某人，有人",
+      "phonetic": "'sʌmwʌn",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 27,
+      "word": "ukulele",
+      "meaning": "尤克里里琴",
+      "phonetic": ".ju:kә'leili",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 28,
+      "word": "guitar",
+      "meaning": "吉他",
+      "phonetic": "gi'tɑ:",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 29,
+      "word": "lunchtime",
+      "meaning": "午餐时间",
+      "phonetic": "'lʌntʃtaim",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 30,
+      "word": "full",
+      "meaning": "吃饱了的",
+      "phonetic": "ful",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 31,
+      "word": "become",
+      "meaning": "成为，变成",
+      "phonetic": "bi'kʌm",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 32,
+      "word": "second",
+      "meaning": "第二的",
+      "phonetic": "'sekәnd",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 33,
+      "word": "most",
+      "meaning": "最多，最大程度地",
+      "phonetic": "mәust",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 34,
+      "word": "hero",
+      "meaning": "英雄",
+      "phonetic": "'hiәrәu",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 35,
+      "word": "heart",
+      "meaning": "心，内心；感情",
+      "phonetic": "hɑ:t",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 36,
+      "word": "volunteer",
+      "meaning": "自愿（做某事）；志愿者",
+      "phonetic": ".vɒlәn'tiә",
+      "unit": "Unit 2",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 37,
+      "word": "adventure",
+      "meaning": "历险（经历）；奇遇",
+      "phonetic": "әd'ventʃә",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 38,
+      "word": "history",
+      "meaning": "历史",
+      "phonetic": "'histәri",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 39,
+      "word": "mystery",
+      "meaning": "悬疑（推理，侦探）故事",
+      "phonetic": "'mistәri",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 40,
+      "word": "science fiction",
+      "meaning": "科幻小说",
+      "phonetic": "ˈsaiəns ˈfikʃən",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 41,
+      "word": "fantasy",
+      "meaning": "幻想作品",
+      "phonetic": "'fæntәsi",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 42,
+      "word": "journey",
+      "meaning": "旅行，旅程",
+      "phonetic": "'dʒә:ni",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 43,
+      "word": "west",
+      "meaning": "西，西面",
+      "phonetic": "west",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 44,
+      "word": "thousand",
+      "meaning": "一千",
+      "phonetic": "'θauznd",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 45,
+      "word": "nation",
+      "meaning": "民族",
+      "phonetic": "'neiʃәn",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 46,
+      "word": "horseback",
+      "meaning": "马背",
+      "phonetic": "'hɒ:sbæk",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 47,
+      "word": "horse",
+      "meaning": "马",
+      "phonetic": "hɒ:s",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 48,
+      "word": "librarian",
+      "meaning": "图书馆管理员；图书馆馆长",
+      "phonetic": "lai'brєәriәn",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 49,
+      "word": "secret",
+      "meaning": "秘密的，隐秘的",
+      "phonetic": "'si:krit",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 50,
+      "word": "title",
+      "meaning": "书名；题目，标题",
+      "phonetic": "'taitl",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 51,
+      "word": "cousin",
+      "meaning": "堂（表）兄弟；堂（表）姐妹",
+      "phonetic": "'kʌzәn",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 52,
+      "word": "friendly",
+      "meaning": "友好的，友善的",
+      "phonetic": "'frendli",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 53,
+      "word": "nature",
+      "meaning": "大自然，自然界",
+      "phonetic": "'neitʃә",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 54,
+      "word": "would",
+      "meaning": "愿意；要（表示礼貌地要求或建议）",
+      "phonetic": "wud",
+      "unit": "Unit 3",
+      "pdfPage": 99,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 55,
+      "word": "pair",
+      "meaning": "两个（人），一对",
+      "phonetic": "pєә",
+      "unit": "Unit 3",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 56,
+      "word": "building",
+      "meaning": "建筑物；楼房，房子，楼宇",
+      "phonetic": "'bildiŋ",
+      "unit": "Unit 3",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 57,
+      "word": "air",
+      "meaning": "空中，天空",
+      "phonetic": "єә",
+      "unit": "Unit 3",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 58,
+      "word": "British",
+      "meaning": "英国的；英国人的",
+      "phonetic": "'britiʃ",
+      "unit": "Unit 3",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 59,
+      "word": "lamp",
+      "meaning": "灯",
+      "phonetic": "læmp",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 60,
+      "word": "pot",
+      "meaning": "陶制容器",
+      "phonetic": "pɒt",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 61,
+      "word": "pillow",
+      "meaning": "枕头",
+      "phonetic": "'pilәu",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 62,
+      "word": "mirror",
+      "meaning": "镜子",
+      "phonetic": "'mirә",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 63,
+      "word": "icebox",
+      "meaning": "冰箱",
+      "phonetic": "'aisbɒks",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 64,
+      "word": "ancient",
+      "meaning": "古代的",
+      "phonetic": "'einʃәnt",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 65,
+      "word": "ago",
+      "meaning": "以前",
+      "phonetic": "ә'gәu",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 66,
+      "word": "central",
+      "meaning": "中部的",
+      "phonetic": "'sentrәl",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 67,
+      "word": "silk",
+      "meaning": "丝绸",
+      "phonetic": "silk",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 68,
+      "word": "really",
+      "meaning": "真的吗；是吗（表示感兴趣或惊讶）",
+      "phonetic": "'riәli",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 69,
+      "word": "February",
+      "meaning": "二月",
+      "phonetic": "'februәri",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 70,
+      "word": "expensive",
+      "meaning": "昂贵的，花钱多的",
+      "phonetic": "ik'spensiv",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 71,
+      "word": "March",
+      "meaning": "三月",
+      "phonetic": "mɑːtʃ",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "kajweb"
+    },
+    {
+      "ordinal": 72,
+      "word": "river",
+      "meaning": "江，河",
+      "phonetic": "'rivә",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 73,
+      "word": "quickly",
+      "meaning": "快速地",
+      "phonetic": "'kwikli",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 74,
+      "word": "pull",
+      "meaning": "拉；扯；拖",
+      "phonetic": "pul",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 75,
+      "word": "hole",
+      "meaning": "洞，孔，坑",
+      "phonetic": "hәul",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 76,
+      "word": "cheese",
+      "meaning": "干酪，奶酪",
+      "phonetic": "tʃi:z",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 77,
+      "word": "daughter",
+      "meaning": "女儿",
+      "phonetic": "'dɒ:tә",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 78,
+      "word": "choice",
+      "meaning": "选择；选择权",
+      "phonetic": "tʃɒis",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 79,
+      "word": "save",
+      "meaning": "救，拯救，挽救",
+      "phonetic": "seiv",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 80,
+      "word": "protect",
+      "meaning": "保护；防护",
+      "phonetic": "prә'tekt",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 81,
+      "word": "voice",
+      "meaning": "意见，呼声；嗓音",
+      "phonetic": "vɒis",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 82,
+      "word": "painting",
+      "meaning": "绘画（作品）",
+      "phonetic": "'peintiŋ",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 83,
+      "word": "cave",
+      "meaning": "洞穴，山洞，岩洞；窑洞",
+      "phonetic": "keiv",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 84,
+      "word": "solve",
+      "meaning": "解决（问题）",
+      "phonetic": "sɒlv",
+      "unit": "Unit 4",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 85,
+      "word": "coin",
+      "meaning": "硬币",
+      "phonetic": "kɒin",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 86,
+      "word": "strange",
+      "meaning": "奇怪的，不寻常的",
+      "phonetic": "streindʒ",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 87,
+      "word": "carefully",
+      "meaning": "小心地，仔细地",
+      "phonetic": "'kєәfuli",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 88,
+      "word": "its",
+      "meaning": "它的",
+      "phonetic": "its",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 89,
+      "word": "detective",
+      "meaning": "侦探，警探",
+      "phonetic": "di'tektiv",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 90,
+      "word": "prison",
+      "meaning": "监狱；看守所，拘留所",
+      "phonetic": "'prizn",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 91,
+      "word": "steal",
+      "meaning": "偷，窃取",
+      "phonetic": "sti:l",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 92,
+      "word": "jewel",
+      "meaning": "珠宝首饰",
+      "phonetic": "'dʒu:әl",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 93,
+      "word": "shiny",
+      "meaning": "光滑发亮的，有光泽的",
+      "phonetic": "'ʃaini",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 94,
+      "word": "aha",
+      "meaning": "啊哈（表示明白或意识到某事）",
+      "phonetic": "ɑ:'hɑ:",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 95,
+      "word": "message",
+      "meaning": "消息；信息",
+      "phonetic": "'mesidʒ",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 96,
+      "word": "another",
+      "meaning": "另一个，别的，不同的",
+      "phonetic": "ә'nʌðә",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 97,
+      "word": "north",
+      "meaning": "向北，朝北",
+      "phonetic": "nɔːθ",
+      "unit": "Unit 5",
+      "pdfPage": 100,
+      "phoneticSource": "kajweb"
+    },
+    {
+      "ordinal": 98,
+      "word": "high-speed",
+      "meaning": "高速的，快速的",
+      "phonetic": "",
+      "unit": "Unit 6",
+      "pdfPage": 100,
+      "phoneticSource": ""
+    },
+    {
+      "ordinal": 99,
+      "word": "surprise",
+      "meaning": "意想不到的事；不同寻常的事；使吃惊，使诧异，使感到意外",
+      "phonetic": "sә'praiz",
+      "unit": "Unit 6",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 100,
+      "word": "hamburger",
+      "meaning": "汉堡包",
+      "phonetic": "'hæmbә:gә",
+      "unit": "Unit 6",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 101,
+      "word": "share",
+      "meaning": "共享",
+      "phonetic": "ʃєә",
+      "unit": "Unit 6",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 102,
+      "word": "teahouse",
+      "meaning": "茶馆，茶楼，茶室",
+      "phonetic": "'ti:haus",
+      "unit": "Unit 6",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 103,
+      "word": "break",
+      "meaning": "使骨折",
+      "phonetic": "breik",
+      "unit": "Unit 6",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 104,
+      "word": "million",
+      "meaning": "百万",
+      "phonetic": "'miljәn",
+      "unit": "Unit 6",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 105,
+      "word": "climb",
+      "meaning": "（手脚并用地）攀登，爬",
+      "phonetic": "klaim",
+      "unit": "Unit 6",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 106,
+      "word": "ladder",
+      "meaning": "梯子",
+      "phonetic": "'lædә",
+      "unit": "Unit 6",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    },
+    {
+      "ordinal": 107,
+      "word": "steel",
+      "meaning": "钢，钢铁",
+      "phonetic": "sti:l",
+      "unit": "Unit 6",
+      "pdfPage": 100,
+      "phoneticSource": "ecdict"
+    }
+  ]
+}
