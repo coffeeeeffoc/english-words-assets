@@ -29,7 +29,8 @@ def read_json(path):
 
 def write_json(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    # These reviewed payloads were published with CRLF; preserve their download hashes.
+    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n', encoding='utf-8', newline='\r\n')
 
 
 def normalise_word(word):
@@ -168,7 +169,9 @@ def build(pdf_dir):
         catalog['books'].append({'id': book_id, 'title': f'外研版英语·{source["grade"]}年级{source["volume"]}（陈琳·2011课标）',
             'publisherId': 'fltrp', 'publisher': '外语教学与研究出版社', 'edition': '2011课标修订版·陈琳／Simon Greenall',
             'grade': source['grade'], 'volume': source['volume'], 'units': list(dict.fromkeys(e['unit'] for e in entries)),
-            'count': len(entries), 'source': source['url'], 'verification': {'status': 'pdf-reviewed',
+            'count': len(entries), 'source': source['url'],
+            'replaces': [f'WaiYanSheChuZhong_{(source["grade"] - 7) * 2 + (1 if source["volume"] == "上册" else 2)}'],
+            'verification': {'status': 'pdf-reviewed',
             'evidence': [{'url': source['url'], 'path': source['path'], 'pages': source['wordListPages'], 'sha256': source['sha256']}],
             'notes': ' '.join(notes)}, 'url': 'books/' + book_id + '.json'})
     write_json(OUT / 'catalog-middle.json', catalog)

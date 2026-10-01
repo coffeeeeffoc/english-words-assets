@@ -34,7 +34,7 @@ def describe_list(item):
     stage = '小学' if '小学' in title else '初中'
     grade = next((i for i in range(1, 10) if '一二三四五六七八九'[i-1]+'年级' in title), None)
     volume = '上册' if '上册' in title else '下册' if '下册' in title else '全册' if '全册' in title else None
-    edition = '人教版（主编：吴欣）' if item['id'].startswith('PEPXiaoXue') else '人教版' if item['id'].startswith('PEPChuZhong') else '外研社版（主编：孙有中）' if item['id'].startswith('WaiYanSheChuZhong') else None
+    edition = '人教版（主编：吴欣）' if item['id'].startswith('PEPXiaoXue') else '人教版' if item['id'].startswith('PEPChuZhong') else '外研社版（陈琳旧版词表，具体印次未核验）' if item['id'].startswith('WaiYanSheChuZhong') else None
     return stage, edition, grade, volume, 'textbook' if grade else 'exam'
 
 

@@ -13,6 +13,11 @@ lists = [dict(id=row['id'],stage=stage,edition=edition,grade=grade,volume=volume
 assert not candidates(dict(stage=stage,edition=edition,grade=9,volume='上册'),lists)
 assert not candidates(dict(stage='初中（五•四学制）',edition=edition,grade=9,volume=volume),lists)
 assert candidates(lists[0],lists) == [row['id']]
+legacy = {'id': 'WaiYanSheChuZhong_1', 'title': '外研社版初中英语-七年级上册'}
+stage, edition, grade, volume, kind = describe_list(legacy)
+assert edition == '外研社版（陈琳旧版词表，具体印次未核验）'
+assert not candidates(dict(stage=stage, edition='外研社版（主编：孙有中）', grade=grade, volume=volume),
+                      [dict(id=legacy['id'], stage=stage, edition=edition, grade=grade, volume=volume)])
 db = sqlite3.connect(':memory:'); db.executescript(SCHEMA)
 db.executemany('INSERT INTO sources VALUES(?,?,?,?)',[('base','','',''),('list','','','')])
 db.execute("INSERT INTO words VALUES(1,'apple','苹果','base-ipa','','base')")
